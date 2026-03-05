@@ -1,0 +1,72 @@
+{
+  "episode_number": 20,
+  "title": "周廷之险",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "江南-周廷总号",
+        "time": "白天",
+        "atmosphere": "外面阳光灿烂，内部气氛紧张到窒息"
+      },
+      "characters": ["周廷"],
+      "content": [
+        {"type": "action", "character": "周廷", "description": "正在内院清点账目。管家急匆匆跑进来，鞋都跑掉了一只。"},
+        {"type": "dialogue", "description": "管家喘着气说：'东家！码头上来了一队官兵——打着丞相府的旗号，说是奉命来查咱们的账！'"},
+        {"type": "action", "character": "周廷", "description": "手中的算盘"啪"地掉在桌上。他闭了一秒眼——然后睁开，眼中已经恢复了镇定。"},
+        {"type": "dialogue", "character": "周廷", "line": "几个人？"},
+        {"type": "dialogue", "description": "管家：'带了二十个兵，领头的是丞相府的一个管事——上次在京城酒楼见过的那个姓王的。'"},
+        {"type": "emotion", "description": "王管事——就是上次周廷陪酒喂假线索的那个人。赵无极的排查没有停止，而且从京城一路追到了江南。假线索拖住了一时，没有拖住永远。"},
+        {"type": "dialogue", "character": "周廷", "line": "把外账拿出来给他们看。内账——你知道放在哪里。"},
+        {"type": "dialogue", "description": "管家点头，匆匆离去。"},
+        {"type": "action", "character": "周廷", "description": "独自坐了一会儿，然后从暗格里取出一只信鸽——京城紧急联络的最后手段。他写了一张极短的纸条：'账将破，速决。'绑在信鸽腿上放飞。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "商号密室",
+        "time": "白天",
+        "atmosphere": "收到求援信的震动"
+      },
+      "characters": ["萧恒", "沈鹤之", "陆安"],
+      "content": [
+        {"type": "action", "character": "陆安", "description": "拿着一张纸条冲进密室——信鸽刚到。"},
+        {"type": "dialogue", "character": "陆安", "line": "周廷的急信。四个字：'账将破，速决。'"},
+        {"type": "action", "character": "萧恒", "description": "接过纸条看了一遍。脸色沉了下来。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "如果周廷的账本被赵无极的人拿到——和他的关系，和公子的关系，全线暴露。这不是暗桩被端的问题了，是全盘崩塌。"},
+        {"type": "dialogue", "character": "萧恒", "line": "方案？"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "（沉默片刻）……公子，我说一句不好听的话。若只能保一个——保网络还是保人？"},
+        {"type": "dialogue", "character": "萧恒", "line": "你的意思是放弃周廷？"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "如果我们出手救周廷，必然动用更多资源，暴露更多布局。从理性的角度——切断周廷，保全大局，损失最小。"},
+        {"type": "emotion", "description": "密室里安静到能听见自己的心跳。沈鹤之说的是对的——理性上完全正确。但萧恒看着手中那四个字，看了很久。"},
+        {"type": "dialogue", "character": "萧恒", "line": "保人。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "公子——"},
+        {"type": "dialogue", "character": "萧恒", "line": "网络可以重建，周廷不能死。不是因为他有用——是因为他跟了我十年。如果连自己人都不保，以后谁还敢跟？"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "……代价很大。"},
+        {"type": "dialogue", "character": "萧恒", "line": "我知道。但这个代价我付得起——失去人心的代价，我付不起。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "京城-某处",
+        "time": "夜晚",
+        "atmosphere": "紧急部署的紧张感"
+      },
+      "characters": ["萧恒", "沈鹤之", "陆安"],
+      "content": [
+        {"type": "dialogue", "character": "萧恒", "line": "联络顾燕回。她在北疆都护府有关系——让都护府以'军务协查'的名义发一封公函到江南，叫停丞相府对周廷的商业调查。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "军务协查？什么理由？"},
+        {"type": "dialogue", "character": "萧恒", "line": "周廷的粮号曾为北疆边军供过粮。以'涉及边军粮务机密'为由要求暂停外部审查——程序上说得过去。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "但这会暴露我们和北疆军方的联系。"},
+        {"type": "dialogue", "character": "萧恒", "line": "我知道。这就是代价。"},
+        {"type": "action", "character": "陆安", "description": "领命准备出发联络北疆。临走前回头看了萧恒一眼——"},
+        {"type": "dialogue", "character": "陆安", "line": "公子。周东家知道了，会感激的。"},
+        {"type": "dialogue", "character": "萧恒", "line": "我不需要他感激。我需要他活着。去吧。"},
+        {"type": "emotion", "description": "陆安离开后，密室里只剩萧恒和沈鹤之。沈鹤之看着萧恒——他从萧恒身上看到了一个他既欣赏又担忧的东西：这个年轻人愿意为'不理性的理由'付出理性无法接受的代价。这到底是他最大的优点，还是最大的弱点？时间会给出答案。"}
+      ]
+    }
+  ]
+}

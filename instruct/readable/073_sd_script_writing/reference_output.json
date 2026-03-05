@@ -1,0 +1,51 @@
+{
+  "episode_number": 25,
+  "title": "走",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "医院病房/陈家", "time": "清晨", "atmosphere": "安静的告别"},
+      "characters": ["陈守望", "刘桂兰"],
+      "content": [
+        {"type": "action", "description": "2008年初春。清晨。病房的窗帘没拉，天刚蒙蒙亮。"},
+        {"type": "action", "description": "刘桂兰是被安静惊醒的。病房里太安静了——心电监护仪的嘀嘀声变成了一条直线。"},
+        {"type": "action", "description": "她转头看向病床。陈守望闭着眼睛，脸上没有痛苦的表情。像是睡着了。床头放着那架手风琴，旁边是全家福。"},
+        {"type": "action", "description": "刘桂兰握着他的手。手已经凉了。她没有喊护士。她就那样握着，一直握到天亮。"},
+        {"type": "emotion", "description": "窗外的天慢慢亮了。第一缕阳光照进来，落在手风琴上。她松开了手，帮他把被子拉了拉。"},
+        {"type": "dialogue", "character": "刘桂兰", "line": "老陈，天亮了。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "陈家饭桌", "time": "清晨", "atmosphere": "母亲的宣言"},
+      "characters": ["刘桂兰", "陈美君", "陈志远", "陈晓峰"],
+      "content": [
+        {"type": "action", "description": "葬礼后第四天。刘桂兰不吃不喝了三天。三个孩子轮流守着。"},
+        {"type": "action", "description": "第四天清晨。厨房里突然有了动静。美君第一个醒了——刘桂兰在煮粥。"},
+        {"type": "action", "description": "三个孩子被叫到饭桌前。刘桂兰端着粥坐下，面前多摆了一副碗筷——是给陈守望的。"},
+        {"type": "dialogue", "character": "刘桂兰", "line": "你们别吵了。听你妈说一句。"},
+        {"type": "action", "description": "三个孩子安静了。这几天为了谁来照顾母亲吵了好几次。"},
+        {"type": "dialogue", "character": "刘桂兰", "line": "你爸走了。但你妈还活着呢。"},
+        {"type": "dialogue", "character": "刘桂兰", "line": "我不需要你们任何人来牺牲。你们各过各的日子。过好了，就是对你爸最大的孝顺。"},
+        {"type": "action", "description": "她端起粥喝了一口。然后看着陈守望的空位，轻声说——"},
+        {"type": "dialogue", "character": "刘桂兰", "line": "我这辈子还不是为了你们。"},
+        {"type": "emotion", "description": "这句口头禅她说了一辈子。但这一次说完之后，她自己愣了一下。好像第一次真的听到了这句话的意思。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "陈家老屋门口", "time": "傍晚", "atmosphere": "落日与传承"},
+      "characters": ["陈美君", "陈志远", "陈晓峰"],
+      "content": [
+        {"type": "action", "description": "傍晚。三姐弟站在老屋门口。夕阳把巷子染成了橘红色。"},
+        {"type": "dialogue", "character": "陈美君", "line": "这个家还在。"},
+        {"type": "dialogue", "character": "陈志远", "line": "爸还在。"},
+        {"type": "action", "description": "晓峰没说话。他蹲下来，手指摸着门槛上的一道刻痕——歪歪扭扭的一个'陈'字。是他五岁时用钥匙刻的。"},
+        {"type": "action", "description": "他摸了很久。站起来的时候眼眶红了。"},
+        {"type": "dialogue", "character": "陈晓峰", "line": "我知道。我都知道。"},
+        {"type": "emotion", "description": "夕阳慢慢落下去了。巷子暗了。但陈家的灯亮了。和三十年前一样。只不过灯下少了一个人。多了一架手风琴。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "episode_number": 24,
+  "title": "第三幕高潮",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "组织总部",
+        "time": "深夜",
+        "atmosphere": "紧张、被捕"
+      },
+      "characters": ["沈知微", "陆沉舟", "苏晚"],
+      "content": [
+        {"type": "emotion", "description": "三人刚逃出大楼，就被更多黑衣人包围"},
+        {"type": "dialogue", "character": "黑衣人", "line": "沈知微，你逃不掉的"},
+        {"type": "action", "character": "陆沉舟", "description": "挡在沈知微面前"},
+        {"type": "dialogue", "character": "陆沉舟", "line": "想抓她，先过我这一关"},
+        {"type": "action", "character": "苏晚", "description": "掏出武器，准备战斗"},
+        {"type": "dialogue", "character": "神秘人", "line": "住手"},
+        {"type": "emotion", "description": "一个身穿白袍的女人从人群中走出"},
+        {"type": "dialogue", "character": "神秘人", "line": "把她带过来。首领要见她"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "首领办公室",
+        "time": "深夜",
+        "atmosphere": "压抑、震撼"
+      },
+      "characters": ["沈知微"],
+      "content": [
+        {"type": "action", "character": "沈知微", "description": "被带进一间豪华办公室，一个背对着她的女人坐在椅子上"},
+        {"type": "dialogue", "character": "沈知微", "line": "你就是首领？"},
+        {"type": "action", "character": "首领", "description": "缓缓转过身"},
+        {"type": "emotion", "description": "沈知微瞳孔骤缩——那张脸，和她一模一样"},
+        {"type": "dialogue", "character": "沈知微", "line": "你...你是谁？"},
+        {"type": "dialogue", "character": "首领", "line": "我是你。或者说，是上一个时间线的你"},
+        {"type": "dialogue", "character": "沈知微", "line": "不可能..."},
+        {"type": "dialogue", "character": "首领", "line": "我在自己的时间线失败了。所以我创建了组织，防止其他变量重蹈覆辙"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "总部外",
+        "time": "凌晨",
+        "atmosphere": "担忧、准备"
+      },
+      "characters": ["陆沉舟", "苏晚"],
+      "content": [
+        {"type": "action", "character": "陆沉舟", "description": "和苏晚躲在暗处，观察总部情况"},
+        {"type": "dialogue", "character": "陆沉舟", "line": "他们把知微带进去了"},
+        {"type": "dialogue", "character": "苏晚", "line": "首领不会伤害她。至少现在不会"},
+        {"type": "dialogue", "character": "陆沉舟", "line": "为什么？"},
+        {"type": "dialogue", "character": "苏晚", "line": "因为首领需要她。至于为什么...我也不确定"},
+        {"type": "action", "character": "陆沉舟", "description": "握紧拳头"},
+        {"type": "dialogue", "character": "陆沉舟", "line": "不管怎样，我一定要救她出来"},
+        {"type": "dialogue", "character": "苏晚", "line": "别急。等她们谈完，我们再见机行事"}
+      ]
+    }
+  ]
+}

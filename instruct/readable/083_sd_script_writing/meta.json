@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/_SD_A_family_saga_30_episode_17_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/",
+  "source_sample_id": "SD_A_family_saga_30",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_17_script.json",
+  "output_type": "原创剧本",
+  "genre": "family_saga",
+  "sequence_num": 17,
+  "input_tokens_est": 11133,
+  "reference_output_tokens_est": 243,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

@@ -1,0 +1,202 @@
+{
+  "episode_number": 18,
+  "title": "隐藏的身份",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "美食城",
+        "time": "白天",
+        "atmosphere": "震惊"
+      },
+      "characters": ["陈野", "围观群众"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "美食城开业当天的功夫展示视频在网上疯传，陈野的身手引起广泛关注。"
+        },
+        {
+          "type": "dialogue",
+          "character": "网民A",
+          "line": "这个人的功夫太厉害了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "网民B",
+          "line": "据说是陈氏功夫的传人！"
+        },
+        {
+          "type": "dialogue",
+          "character": "网民C",
+          "line": "我查到了，他就是我们市那个送外卖的！"
+        },
+        {
+          "type": "emotion",
+          "description": "舆论沸腾，有人称赞，有人质疑。"
+        },
+        {
+          "type": "action",
+          "character": "记者",
+          "description": "各大媒体蜂拥而至，将陈野堵在美食城门口。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "line": "陈先生，请问您的功夫是跟谁学的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "家传的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "line": "您父亲也是习武之人吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我父亲在我很小的时候就去世了。"
+        },
+        {
+          "type": "emotion",
+          "description": "记者们还想追问，但陈野已经转身离开。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "苏家",
+        "time": "下午",
+        "atmosphere": "疑惑"
+      },
+      "characters": ["苏晚棠", "陈野"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "苏晚棠坐在家里，心里充满疑问。等陈野回来，她一定要问清楚。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野推门进来，看到苏晚棠正襟危坐。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "怎么了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "你实话告诉我，你的功夫到底是怎么回事？"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野叹了口气，在苏晚棠身边坐下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我爷爷是陈氏功夫的传人，我从小跟他学武。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "那你为什么一直送外卖，不......"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "因为我爷爷临终前交代，不要轻易暴露身份。"
+        },
+        {
+          "type": "emotion",
+          "description": "苏晚棠握住陈野的手。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "现在呢？情况不一样了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "是时候了。有些账，该算了。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "武馆",
+        "time": "晚上",
+        "atmosphere": "惊讶"
+      },
+      "characters": ["陈野", "武道宗师"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈野应约来到一家老式武馆，这里住着一位退隐的武道宗师。"
+        },
+        {
+          "type": "action",
+          "character": "武道宗师",
+          "description": "一位白发老人从内堂走出来，看到陈野后眼神大变。"
+        },
+        {
+          "type": "dialogue",
+          "character": "武道宗师",
+          "line": "你......你是陈老哥的孙子？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "您认识我爷爷？"
+        },
+        {
+          "type": "dialogue",
+          "character": "武道宗师",
+          "line": "岂止认识！当年我和你爷爷，并称武坛双雄！"
+        },
+        {
+          "type": "emotion",
+          "description": "老人激动地抓住陈野的手。"
+        },
+        {
+          "type": "dialogue",
+          "character": "武道宗师",
+          "line": "你爷爷他......还好吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "爷爷五年前去世了。"
+        },
+        {
+          "type": "emotion",
+          "description": "老人沉默良久，老泪纵横。"
+        },
+        {
+          "type": "dialogue",
+          "character": "武道宗师",
+          "line": "好孩子，你爷爷的功夫，你学到了几成？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "十成。"
+        },
+        {
+          "type": "dialogue",
+          "character": "武道宗师",
+          "line": "好！太好了！陈氏功夫后继有人！"
+        }
+      ]
+    }
+  ]
+}

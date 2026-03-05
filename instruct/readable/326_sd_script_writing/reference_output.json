@@ -1,0 +1,231 @@
+{
+  "episode_number": 53,
+  "title": "使命与责任",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "林峰新家",
+        "time": "夜晚",
+        "atmosphere": "平静、充满使命、充满挣扎"
+      },
+      "characters": ["林峰", "苏晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "夜晚，林峰新家，林峰和苏晚晴坐在沙发上，气氛平静"
+        },
+        {
+          "type": "emotion",
+          "text": "突然，林峰的手机响起"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "拿出手机，接听"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）喂？"
+        },
+        {
+          "type": "emotion",
+          "text": "电话那头传来老张的声音"
+        },
+        {
+          "type": "dialogue",
+          "character": "老张",
+          "text": "（低声）猎鹰，国家有紧急任务，需要你立即出发"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神复杂，握紧手机"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）老张，我……我刚结婚，晚晴怀孕了"
+        },
+        {
+          "type": "dialogue",
+          "character": "老张",
+          "text": "（低声）猎鹰，我知道，但这次任务非常紧急"
+        },
+        {
+          "type": "dialogue",
+          "character": "老张",
+          "text": "（低声）只有你能完成"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神复杂，看着苏晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）老张，我……我知道了"
+        },
+        {
+          "type": "emotion",
+          "text": "林峰挂断电话，眼神复杂"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "林峰新家",
+        "time": "夜晚",
+        "atmosphere": "温馨、充满支持、充满爱意"
+      },
+      "characters": ["林峰", "苏晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "夜晚，林峰新家，林峰看着苏晚晴，神情复杂"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "看着林峰，眼神温柔"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（温柔）林峰，怎么了？"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神复杂，握住苏晚晴的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）晚晴，国家有紧急任务，我必须立即出发"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "眼神复杂，握紧林峰的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（温柔）林峰，你……你要去多久？"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神复杂，看着苏晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）晚晴，我不知道，但我会尽快回来"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "眼神温柔，握紧林峰的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（温柔）林峰，你去吧，我会等你回来"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神温暖，拥抱苏晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）晚晴，等我回来"
+        },
+        {
+          "type": "emotion",
+          "text": "两人相拥，气氛温馨"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "机场",
+        "time": "清晨",
+        "atmosphere": "庄严、充满使命、充满不舍"
+      },
+      "characters": ["林峰", "苏晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "清晨，机场，林峰和苏晚晴站在登机口，神情不舍"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "看着苏晚晴，眼神温暖"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）晚晴，你要照顾好自己和孩子"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "眼神温柔，握住林峰的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（温柔）林峰，放心，我会的"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神温暖，拥抱苏晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）晚晴，等我回来"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "眼神温柔，握紧林峰的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（温柔）林峰，我会等你回来"
+        },
+        {
+          "type": "emotion",
+          "text": "林峰转身，走向登机口"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神坚定，走向登机口"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）晚晴，等我回来"
+        },
+        {
+          "type": "emotion",
+          "text": "林峰登上飞机，苏晚晴站在原地，眼神不舍"
+        }
+      ]
+    }
+  ]
+}

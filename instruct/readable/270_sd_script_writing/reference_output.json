@@ -1,0 +1,88 @@
+{
+  "episode_number": 59,
+  "title": "老兵纪念会",
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "北境烈士纪念堂",
+        "time": "上午",
+        "atmosphere": "庄严肃穆"
+      },
+      "characters": ["萧策", "苏晚晴", "萧念安", "萧念晴", "哨兵", "现任统帅"],
+      "content": [
+        {
+          "type": "action",
+          "character": "萧策",
+          "description": "萧策穿着便服，手里拿着一束白菊花，带着苏晚晴和两个孩子走到纪念堂门口，被哨兵拦住。"
+        },
+        {
+          "type": "dialogue",
+          "character": "哨兵",
+          "line": "今天是北境老兵纪念会，只有立过三等功以上的老兵才能进入，请出示您的证件。"
+        },
+        {
+          "type": "action",
+          "character": "萧策",
+          "description": "萧策笑了笑，刚要说话，后面传来脚步声，北境现任统帅李建国穿着军装走了过来，看见萧策立刻停下脚步，敬了一个标准的军礼。"
+        },
+        {
+          "type": "dialogue",
+          "character": "李建国",
+          "line": "老统帅！您来了！我正等您呢！您是我们北境的英雄，是唯一的特级战斗英雄，您要是都不能进，就没人能进了！"
+        },
+        {
+          "type": "action",
+          "character": "周围老兵",
+          "description": "周围的老兵们听见声音都看了过来，看见萧策，一个个都激动地敬军礼，声音洪亮。"
+        },
+        {
+          "type": "dialogue",
+          "character": "全体老兵",
+          "line": "恭迎老统帅！"
+        },
+        {
+          "type": "action",
+          "character": "哨兵",
+          "description": "哨兵吓得脸色煞白，赶紧给萧策敬礼道歉。"
+        },
+        {
+          "type": "dialogue",
+          "character": "哨兵",
+          "line": "对不起老统帅！我有眼不识泰山，请您原谅！"
+        },
+        {
+          "type": "action",
+          "character": "萧策",
+          "description": "萧策回了个军礼，摆了摆手，说没关系，你是尽职尽责。"
+        },
+        {
+          "type": "action",
+          "character": "萧策",
+          "description": "萧策带着家人走到烈士纪念碑前，把白菊花放在碑前，对着纪念碑敬了个军礼，眼神肃穆。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧策",
+          "line": "兄弟们，我来看你们了，现在边境太平，百姓安居乐业，你们的牺牲没有白费。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "description": "苏晚晴看着萧策挺拔的背影，眼泪掉了下来，她终于知道，她的男人不仅是个好丈夫好爸爸，还是个守护了整个国家的大英雄。"
+        },
+        {
+          "type": "action",
+          "character": "萧念安萧念晴",
+          "description": "两个孩子也学着萧策的样子，对着纪念碑敬了个不太标准的军礼，奶声奶气地说。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孩子们",
+          "line": "我们以后也要像爸爸和叔叔们一样，当英雄！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "episode_number":15,
+ "title":"新的挑战",
+ "total_scenes":3,
+ "scenes_detail": [
+ {
+ "scene_header":{"location":"超市", "time":"白天", "atmosphere":"繁忙"},
+ "scene_number":1,
+ "characters":["李建国", "刘凤兰", "邻居"],
+ "content": [{"type":"dialogue","character":"邻居","text":"老李，生意真好啊，比我当初预测的好多了。"},{"type":"dialogue","character":"李建国","text":"都托大家的福。"},{"type":"action","description":"李建国忙得不可开交"}]
+ },
+ {
+ "scene_header":{"location":"李家", "time":"晚上", "atmosphere":"温馨"},
+ "scene_number":2,
+ "characters":["李建国", "刘凤兰"],
+ "content": [{"type":"dialogue","character":"李建国","text":"凤兰，我想扩大规模，开分店。"},{"type":"dialogue","character":"刘凤兰","text":"你认真的？"},{"type":"dialogue","character":"李建国","text":"认真的！现在生意这么好，正是时候。"}]
+ },
+ {
+ "scene_header":{"location":"街道", "time":"傍晚", "atmosphere":"宁静"},
+ "scene_number":3,
+ "characters":["李秀芳", "同学"],
+ "content": [{"type":"dialogue","character":"同学","text":"秀芳，你父母的事业发展真快。"},{"type":"dialogue","character":"李秀芳","text":"是啊，他们都很努力。"},{"type":"emotion","description":"李秀芳为父母感到骄傲"}]
+ }
+ ]
+}

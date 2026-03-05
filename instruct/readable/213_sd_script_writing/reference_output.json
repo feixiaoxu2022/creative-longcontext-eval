@@ -1,0 +1,86 @@
+{
+  "episode_number": 45,
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林家老宅客厅",
+        "time": "白天",
+        "atmosphere": "悲伤与悔恨"
+      },
+      "characters": ["林小军", "王桂芬"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "王桂芬",
+          "text": "小军啊，你爸生前跟我说过，想找你好好谈谈心。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "王姨，我爸...他真的想找我谈心？"
+        },
+        {
+          "type": "dialogue",
+          "character": "王桂芬",
+          "text": "是啊，他说你最近总是躲着他，他心里难受。"
+        },
+        {
+          "type": "action",
+          "character": "林小军",
+          "text": "林小军低下头，双手紧紧握在一起，指节发白。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "王姨，我不知道怎么面对我爸...他对我太失望了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王桂芬",
+          "text": "你爸从来没说过失望，他只是担心你。"
+        },
+        {
+          "type": "emotion",
+          "character": "林小军",
+          "text": "林小军眼眶泛红，声音哽咽。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "我知道...可是我欠了那么多债，我怎么有脸见他？"
+        },
+        {
+          "type": "dialogue",
+          "character": "王桂芬",
+          "text": "你爸说，只要你肯改，他愿意帮你。"
+        },
+        {
+          "type": "action",
+          "character": "林小军",
+          "text": "林小军猛地抬起头，眼中闪过一丝希望。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "我爸...他真的这么说？"
+        },
+        {
+          "type": "dialogue",
+          "character": "王桂芬",
+          "text": "你爸这辈子最放不下的就是你。"
+        },
+        {
+          "type": "emotion",
+          "character": "林小军",
+          "text": "林小军终于忍不住，泪水夺眶而出。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "爸...对不起..."
+        }
+      ]
+    }
+  ]
+}

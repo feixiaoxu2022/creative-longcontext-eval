@@ -1,0 +1,52 @@
+{
+  "episode_number": 68,
+  "title": "站台",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "家到火车站的路上", "time": "清晨", "atmosphere": "出发的忐忑与兴奋"},
+      "characters": ["陈雪", "陈守义", "王秀萍"],
+      "content": [
+        {"type": "emotion", "description": "清晨。天还带着凉意。陈家的灯四点就亮了。"},
+        {"type": "action", "character": "王秀萍", "description": "把前一晚煮好的茶叶蛋用毛巾裹好塞进女儿背包里，又往侧兜里放了两包饼干。"},
+        {"type": "dialogue", "character": "王秀萍", "line": "火车上别乱吃东西，自己带的干净。到了学校先找宿管老师——"},
+        {"type": "dialogue", "character": "陈雪", "line": "妈，你说了八遍了。"},
+        {"type": "action", "character": "陈守义", "description": "一手拎着行李箱一手牵着女儿，走出大院的门。行李箱的轮子在水泥地上咯噔咯噔地响。"},
+        {"type": "action", "character": "陈雪", "description": "走出大院门口的时候回头看了一眼——楼道的灯还亮着，不知道是谁特意没关。"},
+        {"type": "emotion", "description": "清晨的街道还没有完全醒过来。路灯与天光交替着，把一家三口的影子拉得很长。陈雪走在中间，左边是父亲，右边是母亲——这条路她走了十八年，今天是最后一次这样走。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "火车站台", "time": "上午", "atmosphere": "送别的人潮"},
+      "characters": ["陈雪", "陈守义", "王秀萍", "赵小磊", "孙丽芬"],
+      "content": [
+        {"type": "emotion", "description": "火车站台。人潮汹涌，喇叭里反复播报着车次信息。蒸汽从列车底部嗤嗤地冒出来。"},
+        {"type": "action", "character": "陈守义", "description": "把行李箱送上车，帮女儿找到座位，把箱子塞进行李架——他个子不高，踮了脚才够着。"},
+        {"type": "action", "character": "赵小磊", "description": "站在车窗外面。他穿着那件白衬衫，手里攥着什么，但没伸出来。"},
+        {"type": "action", "character": "孙丽芬", "description": "站在后面，手里还拎着一兜子包子——是特意一早蒸的。"},
+        {"type": "dialogue", "character": "孙丽芬", "line": "小雪——路上饿了吃这个！"},
+        {"type": "action", "character": "陈雪", "description": "从车窗探出头来，接过包子。看到窗外站着的人——王秀萍使劲挥手，孙丽芬踮着脚张望，赵小磊站在柱子后面。"},
+        {"type": "dialogue", "character": "王秀萍", "line": "到了打电话——听见没有！"},
+        {"type": "action", "character": "赵小磊", "description": "站在柱子后面，手背偷偷擦了一下眼睛。"},
+        {"type": "emotion", "description": "汽笛响了。站台上的人开始往后退。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "火车站台", "time": "上午", "atmosphere": "火车开走后的站台"},
+      "characters": ["陈雪", "陈守义", "王秀萍", "赵小磊"],
+      "content": [
+        {"type": "emotion", "description": "火车缓缓启动了。车轮碾过铁轨，发出沉闷的咔嗒声。"},
+        {"type": "action", "character": "陈雪", "description": "趴在车窗上往外看。站台在退，人在退，大院在退，整个城市在退。"},
+        {"type": "action", "character": "赵小磊", "description": "追着火车跑了起来。皮鞋在站台上啪啪地响。他喊了一句什么——"},
+        {"type": "emotion", "description": "陈雪没听清。风太大了，汽笛太响了。但她看到他笑了——跑到站台尽头，两只手扶着栏杆，笑得满脸是汗。"},
+        {"type": "action", "character": "陈守义", "description": "站在站台上，目送火车变成一个越来越小的点。手垂在身侧，攥了又松，松了又攥。"},
+        {"type": "action", "character": "王秀萍", "description": "走过来。没说话，伸手握住了他的手。"},
+        {"type": "action", "character": "陈守义", "description": "愣了一下。然后反握了回去。"},
+        {"type": "emotion", "description": "二十年了。这是他们第一次在外面牵手。站台上的人渐渐散了，日光照在铁轨上，一直延伸到看不见的远方。火车走了，带走了一个女儿，留下了一对终于学会牵手的夫妻。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_glm-5_NW_CLEAR_MEDIUM_SWEET_001_chapter_28",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "glm-5",
+  "source_sample_id": "NW_CLEAR_MEDIUM_SWEET_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_28.md",
+  "output_type": "小说章节",
+  "genre": "sweet",
+  "sequence_num": 28,
+  "input_tokens_est": 53732,
+  "reference_output_tokens_est": 1172,
+  "length_bin": "40K-70K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

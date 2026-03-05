@@ -1,0 +1,205 @@
+{
+  "episode_number": 4,
+  "total_scenes": 3,
+  "title": "改变代价",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "咖啡厅",
+        "time": "白天",
+        "atmosphere": "紧张、试探"
+      },
+      "characters": ["方晓晓", "苏雅琴"],
+      "content": [
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓坐在咖啡厅里，等待苏雅琴的到来。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴推门而入，脸上挂着甜美的笑容。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "（热情）晓晓，好久不见！"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓看着苏雅琴，心中涌起一股复杂的情绪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（冷淡）苏雅琴，我们还是最好的朋友吧？"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴的笑容僵了一下，但很快恢复自然。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "（疑惑）晓晓，你怎么了？"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓看着苏雅琴，想起前世她是怎么害死自己的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（内心独白）这一世，我不会再被你骗了。"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "她强忍着内心的恨意，脸上露出微笑。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（微笑）没什么，只是觉得我们好久没见了。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "咖啡厅",
+        "time": "白天",
+        "atmosphere": "试探、紧张"
+      },
+      "characters": ["方晓晓", "苏雅琴"],
+      "content": [
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴观察着方晓晓，似乎在寻找什么。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "（试探）晓晓，你最近怎么样？"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓知道苏雅琴在试探自己，但她早有准备。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（平静）挺好的，你呢？"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴的笑容有些僵硬。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "（疑惑）晓晓，你好像变了..."
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓心中一紧，但表面不动声色。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（微笑）是吗？可能是长大了。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴盯着方晓晓，似乎在判断她的话是否可信。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "（怀疑）真的吗？"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓知道苏雅琴开始怀疑自己，但她不能露出破绽。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（坚定）当然是真的。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "方晓晓的出租屋",
+        "time": "夜晚",
+        "atmosphere": "紧张、决心"
+      },
+      "characters": ["方晓晓"],
+      "content": [
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "方晓晓回到出租屋，立刻拿出手机查看。"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "她发现手机突然黑屏了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（惊恐）怎么回事？"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "她尝试重启手机，但屏幕依然漆黑。"
+        },
+        {
+          "type": "emotion",
+          "text": "方晓晓感到一阵恐惧，她意识到手机在惩罚她。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（恐惧）是因为我试图改变命运吗？"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "她想起苏雅琴前世的死因，心中涌起一股强烈的复仇欲望。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（内心独白）苏雅琴，你前世害死了我，这一世，我要让你付出代价。"
+        },
+        {
+          "type": "action",
+          "character": "方晓晓",
+          "text": "她深吸一口气，眼神变得坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "text": "（坚定）就算手机惩罚我，我也要改变命运。"
+        },
+        {
+          "type": "emotion",
+          "text": "窗外的月光洒在她身上，映照出一个决心复仇的灵魂。"
+        }
+      ]
+    }
+  ]
+}

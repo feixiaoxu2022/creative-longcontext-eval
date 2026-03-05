@@ -1,0 +1,53 @@
+{
+  "episode_number": 62,
+  "title": "高考",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "大院楼道/门口", "time": "清晨", "atmosphere": "全院送考的壮观"},
+      "characters": ["陈雪", "陈守义", "王秀萍", "孙丽芬"],
+      "content": [
+        {"type": "emotion", "description": "高考那天。清晨六点，天刚蒙蒙亮，整个大院都醒了。"},
+        {"type": "action", "character": "孙丽芬", "description": "天没亮就起来煮了一锅红糖鸡蛋，端着盆在楼道里挨家送——考不考的都给一碗，图个吉利。"},
+        {"type": "action", "character": "王秀萍", "description": "把前一晚整理好的文具袋、准考证、水壶一样一样检查了三遍，又塞了两块手帕进去。"},
+        {"type": "action", "character": "陈守义", "description": "站在门口，手里攥着一把零钱——万一路上打车用。他从来不乱花钱，今天破例。"},
+        {"type": "dialogue", "character": "陈守义", "line": "书上说的不一定对，但你读的每一本都没白费。去吧。"},
+        {"type": "action", "character": "陈雪", "description": "背上书包，走出家门。楼道里站满了人——邻居们不知道谁起的头，全出来了，七嘴八舌地喊加油。"},
+        {"type": "emotion", "description": "陈雪低着头走过人群，耳朵红了。她从来没觉得这个破旧的大院这么暖——暖得让人眼眶发酸。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "考场门口", "time": "白天", "atmosphere": "少年们各自的选择"},
+      "characters": ["陈雪", "赵小磊", "马小军"],
+      "content": [
+        {"type": "action", "character": "赵小磊", "description": "站在考场门口的树下，手里攥着一块巧克力，等陈雪来。他今天穿了件干净的白衬衫——是孙丽芬给他新买的。"},
+        {"type": "action", "character": "陈雪", "description": "走到考场门口，手有点抖。看到赵小磊，愣了一下。"},
+        {"type": "dialogue", "character": "赵小磊", "line": "给你的。巧克力，补能量。你行的，别怕。"},
+        {"type": "action", "character": "陈雪", "description": "接过来，攥在手心里，笑了一下。"},
+        {"type": "dialogue", "character": "陈雪", "line": "你怎么不考？"},
+        {"type": "dialogue", "character": "赵小磊", "line": "念书有啥用——我要学修车。以后你坐火车去北京，火车坏了我去修。"},
+        {"type": "action", "character": "马小军", "description": "也来了。背着个大书包，里面装的不是书——是水和面包。他自己不考试，专门来给考生送补给的。"},
+        {"type": "dialogue", "character": "马小军", "line": "这事儿包在我身上，小意思——你们安心考，饿了渴了找我。"},
+        {"type": "emotion", "description": "三个大院的孩子站在考场门口。一个进去改命运，两个留下走另外的路。路不一样，但都是往前走的。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "考场门口", "time": "下午", "atmosphere": "考完后的释放与眼泪"},
+      "characters": ["陈雪", "陈守义", "王秀萍", "赵小磊", "马小军", "孙丽芬"],
+      "content": [
+        {"type": "emotion", "description": "最后一科考完。铃声响了，考场大门打开，人潮涌出来。"},
+        {"type": "action", "character": "陈雪", "description": "走出考场。头发被汗沾在额头上，脸上什么表情都没有——像是被掏空了。"},
+        {"type": "action", "character": "陈雪", "description": "抬头。看到门口站着一排人——父亲陈守义，母亲王秀萍，赵小磊，马小军，还有孙丽芬。"},
+        {"type": "action", "character": "王秀萍", "description": "使劲挥手，嘴里喊着什么，但被人群的声音淹没了。"},
+        {"type": "action", "character": "赵小磊", "description": "站在最边上，手里还举着没送出去的水。"},
+        {"type": "action", "character": "陈雪", "description": "看着他们，咧嘴笑了——然后眼泪下来了。"},
+        {"type": "dialogue", "character": "陈雪", "line": "我尽力了。"},
+        {"type": "action", "character": "陈守义", "description": "走过去，伸手接过女儿的书包。什么也没说，拍了拍她的后脑勺。"},
+        {"type": "emotion", "description": "考场外的阳光白花花的。陈雪被人群簇拥着往外走，身后是考场，前面是不确定的未来——但她知道，不管去哪，有人等着她回来。"}
+      ]
+    }
+  ]
+}

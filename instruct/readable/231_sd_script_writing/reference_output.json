@@ -1,0 +1,156 @@
+{
+  "episode_number": 31,
+  "title": "狗急跳墙",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "林家别墅",
+        "time": "早晨",
+        "atmosphere": "混乱、崩溃"
+      },
+      "characters": ["林诗雨", "周彦辰", "苏晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "林诗雨坐在客厅里，看着电视上的新闻"
+        },
+        {
+          "type": "action",
+          "description": "电视上正在播放周彦辰被捕的画面"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "不可能...这不可能..."
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "周彦辰怎么会被抓？"
+        },
+        {
+          "type": "action",
+          "description": "她的手机响了"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "喂？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周彦辰",
+          "line": "诗雨，救我..."
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "周彦辰？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周彦辰",
+          "line": "你一定要救我..."
+        },
+        {
+          "type": "action",
+          "description": "林诗雨挂掉电话"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "废物！"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "一点用都没有！"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "林诗雨公司",
+        "time": "上午",
+        "atmosphere": "混乱、恐慌"
+      },
+      "characters": ["林诗雨", "苏晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "林诗雨的公司里，员工们议论纷纷"
+        },
+        {
+          "type": "action",
+          "description": "苏晚晴匆匆赶来"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "诗雨，现在怎么办？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "怎么办？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "我现在自身难保"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "周彦辰已经供出我们了"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "警察很快就会来找我们"
+        },
+        {
+          "type": "action",
+          "description": "林诗雨突然大笑起来"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "哈哈哈哈哈"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "都完了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "方晓晓！你好样的！"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "我林诗雨不会放过你的！"
+        },
+        {
+          "type": "action",
+          "description": "她抓起桌上的文件，撕得粉碎"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "诗雨，你冷静点"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "冷静？你让我怎么冷静！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+ "episode_number":28,
+ "total_scenes":3,
+ "scenes_detail": [
+ {
+ "scene_header": {
+ "location": "城市",
+ "atmosphere": "挑战"
+ },
+ "characters": ["所有主要角色"],
+ "content": [
+ {
+ "type": "action",
+ "character": "所有主要角色",
+ "text": "面对新挑战"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "小区",
+ "atmosphere": "准备前线"
+ },
+ "characters": ["林战天", "团队"],
+ "content": [
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "团队真正的力量"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "特别之处",
+ "atmosphere": "爆发"
+ },
+ "characters": ["林战天", "所有主要角色"],
+ "content": [
+ {
+ "type": "action",
+ "character": "团队",
+ "text": "团队展现真正实力"
+ }
+ ]
+ }
+ ]
+}

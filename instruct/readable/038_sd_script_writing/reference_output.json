@@ -1,0 +1,60 @@
+{
+  "episode_number": 14,
+  "title": "心意渐明",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "施工现场",
+        "time": "白天",
+        "atmosphere": "工作中的默契与感动"
+      },
+      "characters": ["苏漫", "程意白"],
+      "content": [
+        {"type": "action", "description": "苏漫向程意白展示新方案的一个细节——她在餐厅入口处加了一面老照片展示墙"},
+        {"type": "dialogue", "character": "苏漫", "line": "这面墙用来展示这栋楼的历史。老照片、旧物件、这栋楼里发生过的故事。让每个走进来的人都能感受到——这不只是一家餐厅。"},
+        {"type": "action", "description": "程意白看着图纸，手指在照片墙的位置上停留了很久。他沉默了半天"},
+        {"type": "dialogue", "character": "程意白", "line": "你……怎么什么都懂。"},
+        {"type": "dialogue", "character": "苏漫", "line": "（笑）你上次也这么说。"},
+        {"type": "dialogue", "character": "程意白", "line": "因为每次都是真的。"},
+        {"type": "emotion", "description": "苏漫的心跳快了一拍。他说话的时候看着图纸，不看她——但她知道这句话是对她说的"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "咖啡馆",
+        "time": "下午",
+        "atmosphere": "三年前的秘密被揭开"
+      },
+      "characters": ["苏漫", "程意安"],
+      "content": [
+        {"type": "action", "description": "程意安约苏漫喝咖啡，笑着拿出手机翻到一张照片"},
+        {"type": "dialogue", "character": "程意安", "line": "苏漫姐，我告诉你一个秘密。我哥在巴黎的时候，钱包里一直夹着一张国内美食节的照片。"},
+        {"type": "action", "description": "程意安把手机转向苏漫——照片里是一个美食节的现场，一个女孩站在人群中认真看着厨师做菜，眼神专注而明亮"},
+        {"type": "dialogue", "character": "程意安", "line": "上面有一个看他做菜看得特别认真的女孩。他留了三年。"},
+        {"type": "action", "description": "苏漫看着照片，全身僵住了——照片里的女孩是她自己。三年前的美食节，她也拍了一张那个厨师的背影"},
+        {"type": "dialogue", "character": "苏漫", "line": "（声音发抖）这个厨师……是你哥？"},
+        {"type": "dialogue", "character": "程意安", "line": "（点头，笑容温暖）是我哥。他不知道你是谁，但他记了你三年。"},
+        {"type": "emotion", "description": "苏漫的手在发抖。三年前她也记住了那个背影——同一个人，同一个瞬间，各自记了三年"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "苏漫工作室",
+        "time": "夜晚",
+        "atmosphere": "真相大白后的幸福感动"
+      },
+      "characters": ["苏漫"],
+      "content": [
+        {"type": "action", "description": "苏漫坐在工作室里，翻出自己手机里三年前的照片——美食节上一个厨师的背影，逆光中围裙带随风飘动"},
+        {"type": "action", "description": "她把两张照片放在一起看——同一个时刻，同一个地点，他拍下了她，她拍下了他"},
+        {"type": "action", "description": "苏漫捂住嘴，眼泪和笑一起涌出来"},
+        {"type": "dialogue", "character": "苏漫", "line": "（又哭又笑，对着空气）原来是你啊……原来一直是你。"},
+        {"type": "emotion", "description": "她抱着手机缩在椅子里，窗外楼下的灯光温暖地亮着。三年的时间，一栋楼的距离——原来命运一直在把他们往一起推"}
+      ]
+    }
+  ]
+}

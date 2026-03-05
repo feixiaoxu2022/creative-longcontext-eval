@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/_SD_C_sweet_romance_60_character_h9836_episode_50_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/",
+  "source_sample_id": "SD_C_sweet_romance_60_character_h9836",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_50_script.json",
+  "output_type": "原创剧本",
+  "genre": "sweet_romance",
+  "sequence_num": 50,
+  "input_tokens_est": 20093,
+  "reference_output_tokens_est": 51,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

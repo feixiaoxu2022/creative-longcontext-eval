@@ -1,0 +1,78 @@
+{
+  "episode_number": 25,
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "商场保安室",
+        "time": "白天",
+        "atmosphere": "紧张氛围"
+      },
+      "characters": ["陆远征", "王强"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "王强",
+          "text": "你能不能有点出息？"
+        },
+        {
+          "type": "action",
+          "character": "陆远征",
+          "text": "陆远征沉默不语，继续整理保安装备。"
+        },
+        {
+          "type": "emotion",
+          "text": "空气中弥漫着令人窒息的沉默。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "商场办公室",
+        "time": "白天",
+        "atmosphere": "紧张氛围"
+      },
+      "characters": ["陆远征", "苏婉清"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "苏婉清",
+          "text": "你的眼睛跟别人不一样，来给我做安全总监。"
+        },
+        {
+          "type": "action",
+          "character": "陆远征",
+          "text": "陆远征沉默片刻，最终点头同意。"
+        },
+        {
+          "type": "emotion",
+          "text": "陆远征在挟持事件中冷静应对，成功解救人质。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "商场大厅",
+        "time": "白天",
+        "atmosphere": "紧张氛围"
+      },
+      "characters": ["陆远征", "王强"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "王强",
+          "text": "你能不能有点出息？"
+        },
+        {
+          "type": "action",
+          "character": "陆远征",
+          "text": "陆远征沉默不语，继续整理保安装备。"
+        },
+        {
+          "type": "emotion",
+          "text": "空气中弥漫着令人窒息的沉默。"
+        }
+      ]
+    }
+  ]
+}

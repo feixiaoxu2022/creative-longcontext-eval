@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_claude-opus-4-6_SD_C_mystery_thriller_60_setting_h2198_episode_55_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "claude-opus-4-6",
+  "source_sample_id": "SD_C_mystery_thriller_60_setting_h2198",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_55_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 55,
+  "input_tokens_est": 14767,
+  "length_bin": "10K-20K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

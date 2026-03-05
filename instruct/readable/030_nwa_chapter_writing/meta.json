@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv1_glm-5_NW_CLEAR_SHORT_ANGSTY_003_chapter_05",
+  "scenario": "nwa",
+  "design_version": "dsv1",
+  "source_model": "glm-5",
+  "source_sample_id": "NW_CLEAR_SHORT_ANGSTY_003",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_05.md",
+  "output_type": "小说章节",
+  "genre": "angsty",
+  "sequence_num": 5,
+  "input_tokens_est": 13686,
+  "reference_output_tokens_est": 338,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

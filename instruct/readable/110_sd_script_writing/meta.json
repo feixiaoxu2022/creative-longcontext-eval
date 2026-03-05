@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_ernie-5.0-thinking-preview_SD_C_underdog_comeback_60_opening_h3297_episode_7_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "ernie-5.0-thinking-preview",
+  "source_sample_id": "SD_C_underdog_comeback_60_opening_h3297",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_7_script.json",
+  "output_type": "原创剧本",
+  "genre": "underdog_comeback",
+  "sequence_num": 7,
+  "input_tokens_est": 20039,
+  "reference_output_tokens_est": 1301,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

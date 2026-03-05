@@ -1,0 +1,57 @@
+{
+  "episode_number": 45,
+  "total_scenes": 2,
+  "title": "老宅保住了",
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "沈家老宅",
+        "time": "上午",
+        "atmosphere": "老宅终于保住了"
+      },
+      "characters": ["沈秀兰", "沈志远", "沈志明", "周桂芳"],
+      "content": [
+        {"type": "emotion", "description": "上午，阳光明媚"},
+        {"type": "action", "character": "沈志远", "description": "接电话"},
+        {"type": "dialogue", "character": "沈志远", "line": "好，我知道了。"},
+        {"type": "action", "character": "沈志远", "description": "挂掉电话"},
+        {"type": "dialogue", "character": "沈志远", "line": "赢了！"},
+        {"type": "action", "character": "沈秀兰", "description": "站起来"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "真的？"},
+        {"type": "action", "character": "沈志远", "description": "点头"},
+        {"type": "dialogue", "character": "沈志远", "line": "法院判决我们胜诉，老宅保住了。"},
+        {"type": "action", "character": "沈志明", "description": "激动得跪在地上"},
+        {"type": "dialogue", "character": "沈志明", "line": "老宅保住了……"},
+        {"type": "emotion", "description": "眼泪掉下来"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "沈秀兰家",
+        "time": "晚上",
+        "atmosphere": "三兄妹都付出了很大的代价"
+      },
+      "characters": ["沈秀兰", "沈志远", "沈志明", "周桂芳"],
+      "content": [
+        {"type": "emotion", "description": "晚上，几个人坐在沈秀兰家"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "虽然老宅保住了……"},
+        {"type": "action", "character": "沈秀兰", "description": "犹豫了一下"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "我把超市盘出去了。"},
+        {"type": "action", "character": "沈志远", "description": "愣住了"},
+        {"type": "dialogue", "character": "沈志远", "line": "什么？"},
+        {"type": "action", "character": "沈秀兰", "line": "为了打官司，我花了不少钱。"},
+        {"type": "action", "character": "周桂芳", "description": "在旁边叹气"},
+        {"type": "action", "character": "沈志明", "description": "低下头"},
+        {"type": "dialogue", "character": "沈志明", "line": "大姐……"},
+        {"type": "dialogue", "character": "沈志明", "line": "我又欠你的了……"},
+        {"type": "action", "character": "沈秀兰", "description": "摇头"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "只要老宅在，一切都值得。"},
+        {"type": "action", "character": "沈志远", "description": "握住沈秀兰的手"},
+        {"type": "dialogue", "character": "沈志远", "line": "大姐，我以后会还你的。"},
+        {"type": "emotion", "description": "沈志远和沈志明都很愧疚"}
+      ]
+    }
+  ]
+}

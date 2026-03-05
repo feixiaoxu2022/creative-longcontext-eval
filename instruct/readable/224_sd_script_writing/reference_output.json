@@ -1,0 +1,121 @@
+{
+  "episode_number": 60,
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林家老宅客厅",
+        "time": "夜晚",
+        "atmosphere": "温暖与和解"
+      },
+      "characters": ["林秀兰", "林建国", "林小军"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "建国，小军，我们坐下来好好谈谈吧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林建国",
+          "text": "大姐，你说。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "爸走了，但这个家还在。我们能不能找到一个两全其美的办法？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "大姐，你说怎么办，我都听你的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "房子不卖，但我们可以出租部分房间，租金由我们三人平分。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林建国",
+          "text": "这个主意不错，既能保住房子，又能解决小军的债务问题。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "大姐，我保证不再赌博了，你监督我。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "小军，这是最后一次，以后你自己想办法。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林建国",
+          "text": "大姐，我决定定期回来看望，帮你们分担一些。"
+        },
+        {
+          "type": "action",
+          "character": "林秀兰",
+          "text": "林秀兰看着弟弟们，眼中闪过一丝欣慰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "好，那我们就这么定了。"
+        },
+        {
+          "type": "action",
+          "character": "林秀兰",
+          "text": "三兄妹走到父亲的遗像前，深深鞠躬。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "爸，我们和解了，但您放心，这个家永远在。"
+        },
+        {
+          "type": "emotion",
+          "character": "林建国",
+          "text": "林建国眼眶泛红，声音哽咽。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林建国",
+          "text": "爸，对不起，我回来晚了。"
+        },
+        {
+          "type": "emotion",
+          "character": "林小军",
+          "text": "林小军泪流满面，声音颤抖。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "爸，我一定改过自新，不让您失望。"
+        },
+        {
+          "type": "emotion",
+          "character": "林秀兰",
+          "text": "林秀兰看着弟弟们，眼中满是温情，但眼底深处仍有一丝不易察觉的疲惫。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "一家人在一起比什么都重要。"
+        },
+        {
+          "type": "action",
+          "character": "林秀兰",
+          "text": "三兄妹相视而笑，但笑容中带着一丝苦涩。"
+        },
+        {
+          "type": "emotion",
+          "character": "林秀兰",
+          "text": "林秀兰转身看向父亲的遗像，心中默默说道：爸，我们和解了，但那些年的委屈，我永远忘不了。"
+        }
+      ]
+    }
+  ]
+}

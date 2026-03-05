@@ -1,0 +1,42 @@
+{
+  "episode_number": 64,
+  "total_scenes": 2,
+  "title": "孩子出生",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "医院",
+        "time": "晚上",
+        "atmosphere": "紧张"
+      },
+      "characters": ["萧然", "林安然", "张秀兰"],
+      "content": [
+        {"type": "action", "description": "萧然的孩子出生"},
+        {"type": "dialogue", "character": "护士", "line": "恭喜！是个男孩！"},
+        {"type": "action", "description": "萧然激动地抱起孩子"},
+        {"type": "dialogue", "character": "萧然", "line": "我有孩子了！"},
+        {"type": "dialogue", "character": "萧然", "line": "我当爸爸了！"},
+        {"type": "action", "description": "林安然虚弱地躺在床上"},
+        {"type": "dialogue", "character": "林安然", "line": "萧然...我们的孩子..."},
+        {"type": "dialogue", "character": "萧然", "line": "安然，辛苦了"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "萧然家",
+        "time": "白天",
+        "atmosphere": "温馨"
+      },
+      "characters": ["萧然", "林安然", "张秀兰"],
+      "content": [
+        {"type": "action", "description": "张秀兰主动帮忙带孩子"},
+        {"type": "dialogue", "character": "张秀兰", "line": "萧然，你们忙工作"},
+        {"type": "dialogue", "character": "张秀兰", "line": "孩子我来带"},
+        {"type": "action", "description": "萧然看着熟睡的孩子"},
+        {"type": "dialogue", "character": "萧然", "line": "孩子"},
+        {"type": "dialogue", "character": "萧然", "line": "爸爸会让你成为最幸福的人"},
+        {"type": "emotion", "description": "萧然满怀感恩"}
+      ]
+    }
+  ]
+}

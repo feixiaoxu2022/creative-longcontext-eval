@@ -1,0 +1,30 @@
+{
+  "episode_number": 65,
+  "total_scenes": 1,
+  "title": "采访",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "电视台",
+        "time": "白天",
+        "atmosphere": "正式"
+      },
+      "characters": ["萧然", "记者"],
+      "content": [
+        {"type": "action", "description": "萧然接受采访"},
+        {"type": "dialogue", "character": "记者", "line": "萧总"},
+        {"type": "dialogue", "character": "记者", "line": "您成功的秘诀是什么？"},
+        {"type": "action", "description": "萧然笑了笑"},
+        {"type": "dialogue", "character": "萧然", "line": "我没什么秘诀"},
+        {"type": "dialogue", "character": "萧然", "line": "我只是把别人送外卖的时间"},
+        {"type": "dialogue", "character": "萧然", "line": "用来思考"},
+        {"type": "action", "description": "记者有些意外"},
+        {"type": "dialogue", "character": "记者", "line": "就这样简单？"},
+        {"type": "dialogue", "character": "萧然", "line": "是的"},
+        {"type": "dialogue", "character": "萧然", "line": "成功没有捷径"},
+        {"type": "dialogue", "character": "萧然", "line": "只有用心和努力"},
+        {"type": "emotion", "description": "采访播出后引起热议"}
+      ]
+    }
+  ]
+}

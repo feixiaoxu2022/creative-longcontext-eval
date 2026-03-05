@@ -1,0 +1,208 @@
+{
+  "episode_number": 4,
+  "title": "单采翻车现场",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "单采室",
+      "time_of_day": "上午",
+      "atmosphere": "紧张到语无伦次，社恐真实一面暴露",
+      "initial_shot": "【特写】沈央双唇一抿，再次重振旗鼓",
+      "characters": ["沈央", "导演"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【特写】沈央双唇一抿，再次重振旗鼓。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "努力自然",
+          "text": "大家好，我是沈央。很高兴能参加《心动28天》。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央停顿了一下，继续。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "紧张",
+          "text": "我来这个节目……主要是想体验一下不同的生活。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】导演没有喊停，沈央稍微放松。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "渐入状态",
+          "text": "虽然我的性格比较……嗯……不太擅长和陌生人打交道。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央抿了抿嘴唇，这是紧张时的小动作。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "诚实",
+          "text": "但是我觉得，有时候走出舒适区，也是一种成长吧。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】导演点点头，示意继续。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "思考",
+          "text": "至于对恋爱的看法……我觉得感情这种事，顺其自然就好。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "心虚",
+          "text": "其实我根本没谈过几次恋爱……"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "认真",
+          "text": "我希望能在节目里……认识一些有趣的人。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央说完，紧张地看着导演。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "满意",
+          "text": "好，可以了。下一个。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央如释重负地站起来，走出单采室。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：门开的声音"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "小洋楼客厅",
+      "time_of_day": "夜晚",
+      "atmosphere": "温馨中带着期待，短信环节的神秘感",
+      "initial_shot": "【全景】夜晚，小洋楼客厅灯光柔和，六位嘉宾围坐",
+      "characters": ["沈央", "宿寒英", "杨天驰", "龙女", "严家其", "段薇薇"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】夜晚，小洋楼客厅灯光柔和。六位嘉宾围坐在沙发上。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】每人手里都拿着一部节目组提供的手机。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "画外音",
+          "text": "现在是短信环节。请各位给今天让你心动的嘉宾发送一条匿名短信。注意，每次只能向一位合宿者发送。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央握着手机，手指悬在屏幕上方。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "纠结",
+          "text": "发给谁呢？杨天驰今天很照顾我……龙女也挺可爱的……"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央偷偷抬眼，视线扫过其他人。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】宿寒英低头看着手机，神情淡然，修长手指在屏幕上轻点。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "犹豫",
+          "text": "宿寒英……今天帮了我两次。但是发给他会不会太奇怪了？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央咬了咬嘴唇，最终在屏幕上输入。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】手机屏幕显示：今天谢谢你帮我解围。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央按下发送键，长舒一口气。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：短信发送成功的提示音"
+        },
+        {
+          "type": "action",
+          "text": "【近景】几秒钟后，沈央的手机震动了一下。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央拿起手机，屏幕亮起。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】短信内容：今天你很可爱。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央瞳孔微缩，心跳加速。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "震惊",
+          "text": "可爱？谁发的？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央偷偷抬眼，视线扫过其他人。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】杨天驰在笑，龙女低头看手机，严家其表情淡然，段薇薇嘴角上扬，宿寒英……也在看他。"
+        },
+        {
+          "type": "action",
+          "text": "【慢镜头】【特写】宿寒英的视线与沈央对上，眼神深邃。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "慌乱",
+          "text": "不会吧……难道是他？"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：暧昧心跳声渐强"
+        },
+        {
+          "type": "effect",
+          "text": "【画面定格】沈央慌乱又期待的表情"
+        }
+      ]
+    }
+  ]
+}

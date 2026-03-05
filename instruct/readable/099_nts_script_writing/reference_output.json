@@ -1,0 +1,246 @@
+{
+  "episode_number": 5,
+  "title": "钱字之谜",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "刑侦大队·审讯室",
+      "time_of_day": "夜晚",
+      "atmosphere": "正义与罪恶的终极对决，紧张到窒息",
+      "weather": "暴雨倾盆，窗外雷电交加",
+      "sfx_ambient": "暴雨声，雷声，时钟滴答声",
+      "initial_shot": "【全景】审讯室内，王洪亮坐在椅子上，脸色惨白",
+      "characters": ["骆闻舟", "王洪亮", "费渡"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】审讯室内，王洪亮瘫坐在椅子上，脑门上的汗珠滚落。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】骆闻舟将一叠照片摔在桌上——豪车照片、银行流水、何忠义的尸体照。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "冰冷",
+          "text": "王局，这辆车的车主，是你外甥吧？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】王洪亮瞳孔收缩，嘴唇颤抖。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王洪亮",
+          "emotion": "慌乱",
+          "text": "这、这跟我没关系，我不知道他干了什么！"
+        },
+        {
+          "type": "action",
+          "text": "【近景】费渡靠在门框上，双手插兜，冷眼旁观。"
+        },
+        {
+          "type": "dialogue",
+          "character": "费渡",
+          "emotion": "淡然",
+          "text": "王局，你外甥在承光公馆欠了赌债，大概有三百万。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】王洪亮脸色瞬间惨白。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "逼视",
+          "text": "何忠义只是个送货的，他怎么会有三百万？"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "步步紧逼",
+          "text": "除非，他手里有你外甥的什么把柄。'
+        },
+        {
+          "type": "sound",
+          "text": "音效：窗外一声炸雷"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "刑侦大队办公室",
+      "time_of_day": "深夜",
+      "atmosphere": "真相大白后的沉重与释然",
+      "weather": "暴雨渐歇，月光从云层中透出",
+      "sfx_ambient": "雨声渐小，键盘敲击声",
+      "initial_shot": "【全景】办公室内，众人忙碌，白板上案情已梳理清楚",
+      "characters": ["骆闻舟", "费渡", "陶然", "郎乔"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】办公室内，白板上写满案情脉络。郎乔正在整理笔录。"
+        },
+        {
+          "type": "dialogue",
+          "character": "郎乔",
+          "emotion": "汇报",
+          "text": "王洪亮的外甥已经招了。他挪用公款赌博，被何忠义撞见。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陶然",
+          "emotion": "补充",
+          "text": "何忠义只是去送咖啡，无意中听到他们的谈话。那孩子太年轻，不知道利害。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】骆闻舟站在窗前，看着窗外渐小的雨势。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "沉重",
+          "text": "他以为拿一笔钱就能解决问题，没想到对方要的是他的命。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】桌上放着的物证袋——那张写着'钱'字的白纸。"
+        },
+        {
+          "type": "dialogue",
+          "character": "费渡",
+          "emotion": "低语",
+          "text": "讽刺。凶手杀了人，还要在死者脸上写'钱'字，仿佛在说——看，这就是为钱的下场。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】骆闻舟转过身，看向费渡。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "真诚",
+          "text": "这次多亏你。要不是你认出那辆车，我们还被王洪亮牵着鼻子走。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】费渡嘴角微微上扬，眼中却带着一丝悲悯。"
+        },
+        {
+          "type": "dialogue",
+          "character": "费渡",
+          "emotion": "意味深长",
+          "text": "我只是觉得，那孩子不该死得这么不明不白。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "location": "刑侦大队门口",
+      "time_of_day": "深夜",
+      "atmosphere": "雨过天晴，新的合作即将开始",
+      "weather": "雨停，空气清新，月光皎洁",
+      "sfx_ambient": "虫鸣声，远处车流声",
+      "initial_shot": "【全景】警局门口，路灯下骆闻舟和费渡并肩而立",
+      "characters": ["骆闻舟", "费渡"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】警局门口，雨后的街道倒映着路灯，空气中弥漫着槐花香气。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】骆闻舟和费渡并肩站在台阶上，一人手里夹着一根烟。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "好奇",
+          "text": "费总，你为什么对查案这么感兴趣？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】费渡深吸一口烟，烟雾缭绕中，他的表情模糊不清。"
+        },
+        {
+          "type": "dialogue",
+          "character": "费渡",
+          "emotion": "淡然",
+          "text": "消遣。反正我闲着也是闲着。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】骆闻舟笑了，显然不信。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "调侃",
+          "text": "费总这消遣，够特别的。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】费渡从口袋里掏出一张名片，递给骆闻舟。"
+        },
+        {
+          "type": "dialogue",
+          "character": "费渡",
+          "emotion": "认真",
+          "text": "骆队，下次有有意思的案子，可以找我。我在承光公馆，消息比你们灵通。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】骆闻舟接过名片，上面烫金的字体在路灯下闪闪发光。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "意味深长",
+          "text": "费总，你这算是...投靠警方？"
+        },
+        {
+          "type": "action",
+          "text": "【近景】费渡转身走向停在路边的跑车，回头露出一个意味不明的笑。"
+        },
+        {
+          "type": "dialogue",
+          "character": "费渡",
+          "emotion": "神秘",
+          "text": "算是...互相利用吧。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】跑车引擎轰鸣，尾灯在夜色中划出红色轨迹，消失在南平大道尽头。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】骆闻舟低头看着手中的名片，嘴角微微上扬。"
+        },
+        {
+          "type": "dialogue",
+          "character": "骆闻舟",
+          "emotion": "自语",
+          "text": "有意思。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：主题曲渐起，悬疑中带着希望"
+        },
+        {
+          "type": "effect",
+          "text": "【特效】画面定格在骆闻舟手中的名片，镜头拉远，城市夜景灯火阑珊"
+        },
+        {
+          "type": "action",
+          "text": "【字幕】'于连案'告破，但更大的谜团，才刚刚开始..."
+        },
+        {
+          "type": "action",
+          "text": "【字幕】敬请期待《默读》系列下一案"
+        }
+      ]
+    }
+  ]
+}

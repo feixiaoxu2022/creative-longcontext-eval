@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/_NW_VAGUE_MEDIUM_SWEET_DRAMA_001_chapter_06",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/",
+  "source_sample_id": "NW_VAGUE_MEDIUM_SWEET_DRAMA_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_06.md",
+  "output_type": "小说章节",
+  "genre": "sweet_drama",
+  "sequence_num": 6,
+  "input_tokens_est": 10480,
+  "reference_output_tokens_est": 779,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

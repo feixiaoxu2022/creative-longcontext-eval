@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_cw_glm45air_midt2602_decay_step2000_SD_E_revenge_drama_80_episode_38_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "cw_glm45air_midt2602_decay_step2000",
+  "source_sample_id": "SD_E_revenge_drama_80",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_38_script.json",
+  "output_type": "原创剧本",
+  "genre": "revenge_drama",
+  "sequence_num": 38,
+  "input_tokens_est": 7941,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

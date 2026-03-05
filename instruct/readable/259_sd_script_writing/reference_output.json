@@ -1,0 +1,51 @@
+{
+  "episode_number": 28,
+  "title": "法庭对峙",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "法院",
+        "time": "白天",
+        "atmosphere": "紧张、对峙"
+      },
+      "characters": ["苏晚晴", "陈昊", "律师"],
+      "content": [
+        {"type": "action", "character": "苏晚晴", "description": "法庭上，苏晚晴和陈昊对簿公堂。"},
+        {"type": "dialogue", "character": "陈昊", "line": "我没有做过那些事！"},
+        {"type": "action", "character": "苏晚晴", "description": "苏晚晴毫不退缩。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "法院",
+        "time": "中午",
+        "atmosphere": "关键、转折"
+      },
+      "characters": ["沈诗涵律师", "陈昊"],
+      "content": [
+        {"type": "action", "character": "沈诗涵律师", "description": "沈诗涵的律师拿出一份关键证据——陈昊买通狗仔的转账记录。"},
+        {"type": "dialogue", "character": "律师", "line": "这份证据足以证明陈昊买凶陷害。"},
+        {"type": "action", "character": "陈昊", "description": "陈昊脸色苍白。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "法院门口",
+        "time": "下午",
+        "atmosphere": "胜利、解气"
+      },
+      "characters": ["苏晚晴", "顾言", "林小满"],
+      "content": [
+        {"type": "action", "character": "苏晚晴", "description": "陈昊被判赔偿苏晚晴并公开道歉。"},
+        {"type": "action", "character": "苏晚晴", "description": "她走出法院，阳光照在她脸上。"},
+        {"type": "action", "character": "顾言", "description": "顾言在门口等她。"},
+        {"type": "dialogue", "character": "顾言", "line": "恭喜你。"},
+        {"type": "action", "character": "苏晚晴", "description": "她扑进他怀里。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_gemini-3-pro-preview_SD_A_ancient_court_30_topic_brief",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "gemini-3-pro-preview",
+  "source_sample_id": "SD_A_ancient_court_30",
+  "stage": "topic_brief",
+  "output_file": "topic_brief.json",
+  "output_type": "选题简报",
+  "genre": "ancient_court",
+  "sequence_num": null,
+  "input_tokens_est": 10085,
+  "reference_output_tokens_est": 164,
+  "length_bin": "10K-20K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 1
+}

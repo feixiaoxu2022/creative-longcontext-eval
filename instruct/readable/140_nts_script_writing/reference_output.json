@@ -1,0 +1,330 @@
+{
+  "episode_info": {
+    "episode_number": 5,
+    "episode_title": "山神显灵",
+    "total_scenes": 3,
+    "estimated_duration": "3-4分钟"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "鹰嘴崖边缘/打糕摊",
+      "time": "午后",
+      "atmosphere": "奇迹后的震撼与骚动",
+      "opening_shot": "【全景】鹰嘴崖边，人群围着娟子，议论纷纷",
+      "characters": ["娟子", "打糕老板", "游客群"],
+      "sequence": [
+        {
+          "type": "action",
+          "content": "【中景】娟子跪坐在地上，手中攥着灰烬，浑身颤抖。"
+        },
+        {
+          "type": "dialogue",
+          "character": "打糕老板（哭腔）",
+          "emotion": "后怕",
+          "line": "娟子，你怎么掉下去的？吓死我了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（恍惚）",
+          "emotion": "震惊",
+          "line": "有人推我...不，不是...是那股力量..."
+        },
+        {
+          "type": "action",
+          "content": "【特写】娟子摊开手掌，灰烬在阳光下微微发亮。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（喃喃）",
+          "emotion": "震撼",
+          "line": "是那张符...那个小伙子给的符..."
+        },
+        {
+          "type": "action",
+          "content": "【全景】围观游客炸开了锅，几位老人激动地喊起来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "老人甲（激动）",
+          "emotion": "狂喜",
+          "line": "山神显灵！凤阳山神显灵啊！"
+        },
+        {
+          "type": "dialogue",
+          "character": "游客群（骚动）",
+          "emotion": "震惊",
+          "line": "真的假的？我亲眼看见她飞回来的！"
+        },
+        {
+          "type": "dialogue",
+          "character": "游客B（脸色惨白）",
+          "emotion": "愧疚",
+          "line": "对不起...是我推的...我不是人..."
+        },
+        {
+          "type": "action",
+          "content": "【中景】两个推人的游客凑出一千块钱，硬塞给娟子，被娟子推拒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（摇头）",
+          "emotion": "复杂",
+          "line": "不用了...我没事..."
+        },
+        {
+          "type": "action",
+          "content": "【特写】娟子握紧灰烬，猛地抬头看向打糕棚方向。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（大喊）",
+          "emotion": "急切",
+          "line": "那个小伙子呢？穿道袍那个！"
+        },
+        {
+          "type": "action",
+          "content": "【全景】打糕棚里空无一人。卫西早已消失无踪。"
+        },
+        {
+          "type": "sound",
+          "description": "音效：神秘的音乐渐起"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "景区小道",
+      "time": "午后",
+      "atmosphere": "神秘离去，伏笔回收",
+      "opening_shot": "【全景】蜿蜒的下山石阶，卫西背着竹篓独行",
+      "characters": ["卫西"],
+      "sequence": [
+        {
+          "type": "action",
+          "content": "【中景】卫西走在山道上，忽然停下脚步，回头望向山顶。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "卫西（OS·混响）",
+          "line": "符纸用了...那妇人应该无碍。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】卫西嘴角微微上扬，转瞬即逝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西（自语）",
+          "emotion": "略带欣慰",
+          "line": "师傅说的...行善积德？"
+        },
+        {
+          "type": "action",
+          "content": "【近景】他从竹篓里掏出那枚黯淡的玉佩，握在掌心。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西（低声）",
+          "emotion": "复杂",
+          "line": "老头，你把我骗得真惨。"
+        },
+        {
+          "type": "action",
+          "content": "【闪回】"
+        },
+        {
+          "type": "action",
+          "content": "【快速闪回画面】卫得道躺在床上说\"我要吃红烧肉\"，把玉佩塞给卫西。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫得道（闪回声音）",
+          "emotion": "混响",
+          "line": "你是关门弟子...光大门楣..."
+        },
+        {
+          "type": "action",
+          "content": "【回到现实】"
+        },
+        {
+          "type": "action",
+          "content": "【特写】卫西握紧玉佩，眼神逐渐坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西",
+          "emotion": "坚定",
+          "line": "太仓宗第六十二代掌门卫西...不会让你失望的。"
+        },
+        {
+          "type": "action",
+          "content": "【全景】山下是繁华的都市，高楼林立，车水马龙。"
+        },
+        {
+          "type": "sound",
+          "description": "音效：都市喧嚣声渐起"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "location": "山下都市入口",
+      "time": "黄昏",
+      "atmosphere": "新旅程的开始，开放式结局",
+      "opening_shot": "【全景】夕阳西下，卫西站在城市入口，背后是群山，面前是霓虹",
+      "characters": ["卫西", "娟子（远景）"],
+      "sequence": [
+        {
+          "type": "action",
+          "content": "【中景】卫西站在城市边缘，看着川流不息的车辆和闪烁的霓虹灯，眼神复杂。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西（肚子叫）",
+          "emotion": "尴尬",
+          "line": "先找吃的...好饿。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】卫西摸摸肚子，苦笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西",
+          "emotion": "无奈",
+          "line": "还是山里好...野猪山鸡随便抓。"
+        },
+        {
+          "type": "action",
+          "content": "【全景】卫西深吸一口气，大步走进城市。"
+        },
+        {
+          "type": "sound",
+          "description": "BGM：轻快又带点神秘的现代音乐"
+        },
+        {
+          "type": "action",
+          "content": "【中景】他边走边好奇地打量四周，路过一家餐馆，香味让他走不动道。"
+        },
+        {
+          "type": "action",
+          "content": "【近景】卫西盯着餐馆橱窗里的红烧肉，眼神发直。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西（咽口水）",
+          "emotion": "渴望",
+          "line": "红烧肉..."
+        },
+        {
+          "type": "action",
+          "content": "【特写】他摸摸口袋里的银锭，又看看餐馆里的现代收款机，一脸茫然。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西（困惑）",
+          "emotion": "茫然",
+          "line": "这...怎么用？"
+        },
+        {
+          "type": "action",
+          "content": "【全景】娟子的声音突然从身后传来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（喊）",
+          "emotion": "惊喜",
+          "line": "小伙子！等等！"
+        },
+        {
+          "type": "action",
+          "content": "【中景】卫西回头，看见娟子气喘吁吁地跑来，手里拿着一个饭盒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（递饭盒）",
+          "emotion": "感激",
+          "line": "这是谢礼！要不是你...我今天就..."
+        },
+        {
+          "type": "action",
+          "content": "【特写】卫西接过饭盒，打开一看——满满的红烧肉。"
+        },
+        {
+          "type": "action",
+          "content": "【大特写】卫西的眼睛亮了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西",
+          "emotion": "真诚",
+          "line": "...谢谢。"
+        },
+        {
+          "type": "action",
+          "content": "【全景】夕阳下，卫西和娟子站在城市入口，一个是古代道长，一个是现代妇人，画面温暖。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（好奇）",
+          "emotion": "好奇",
+          "line": "你到底是什么人？"
+        },
+        {
+          "type": "action",
+          "content": "【特写】卫西咬了一口红烧肉，满足地眯起眼睛。"
+        },
+        {
+          "type": "dialogue",
+          "character": "卫西（含混）",
+          "emotion": "随意",
+          "line": "我乃...太仓宗第六十二代掌门，卫西。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】娟子愣住，显然没听懂。"
+        },
+        {
+          "type": "dialogue",
+          "character": "娟子（茫然）",
+          "emotion": "困惑",
+          "line": "太...什么宗？"
+        },
+        {
+          "type": "action",
+          "content": "【全景】卫西已经端着饭盒大步走进城市，背影孤独又坚定。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "卫西（OS·混响）",
+          "line": "师傅，这座城市...似乎有很多'好吃的'。"
+        },
+        {
+          "type": "action",
+          "content": "【特效】画面一侧浮现信息框："
+        },
+        {
+          "type": "effect",
+          "description": "【信息框弹出】姓名：卫西 | 身份：太仓宗掌门 | 状态：饥饿但充满希望 | 新旅程：正式开始"
+        },
+        {
+          "type": "sound",
+          "description": "BGM：音乐推向高潮后渐弱"
+        },
+        {
+          "type": "effect",
+          "description": "【字幕】山主下山，都市奇闻 第一季 完"
+        },
+        {
+          "type": "effect",
+          "description": "【字幕】敬请期待：太仓宗掌门的现代生活"
+        },
+        {
+          "type": "action",
+          "content": "【黑屏】"
+        }
+      ]
+    }
+  ]
+}

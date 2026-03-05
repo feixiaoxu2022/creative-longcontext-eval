@@ -1,0 +1,219 @@
+{
+ "episode_number":12,
+ "total_scenes":3,
+ "scenes_detail": [
+ {
+ "scene_header": {
+ "location": "商业发布会现场",
+ "time": "白天",
+ "atmosphere": "盛而不安"
+ },
+ "characters": ["苏小雨", "李振东", "赵震宇", "保镖众", "刺客"],
+ "content": [
+ {
+ "type": "action",
+ "character": "赵震宇",
+ "text": "赵震宇紧张地看着四周，低声提醒苏小雨注意安全"
+ },
+ {
+ "type": "dialogue",
+ "character": "赵震宇",
+ "text": "小雨，今天的发布会都是自己人，不用担心。李振东这次邀请你，看来是服软了"
+ },
+ {
+ "type": "dialogue",
+ "character": "苏小雨",
+ "text": "只要他肯签那份合同，我就能保住公司。这是最后的机会"
+ },
+ {
+ "type": "action",
+ "character": "李振东",
+ "text": "李振东带着假笑走上台，身后跟着几个彪形大汉"
+ },
+ {
+ "type": "dialogue",
+ "character": "李振东",
+ "text": "各位来宾，今天是非常特别的一天。苏小姐，只要你点头，我们的战略合作就正式生效"
+ },
+ {
+ "type": "dialogue",
+ "character": "苏小雨",
+ "text": "李总，我希望合同能按约定执行，没有任何附加条件"
+ },
+ {
+ "type": "dialogue",
+ "character": "李振东",
+ "text": "当然，当然！我李振东说话算话——"
+ },
+ {
+ "type": "dialogue",
+ "character": "刺客",
+ "text": "（突然从人群中冲出，手持凶器刺向苏小雨）"
+ },
+ {
+ "type": "action",
+ "character": "刺客",
+ "text": "黑衣刺客从人群中杀出，直扑苏小雨，场面瞬间混乱"
+ },
+ {
+ "type": "dialogue",
+ "character": "赵震宇",
+ "text": "小雨小心！"
+ },
+ {
+ "type": "emotion",
+ "text": "苏小雨惊恐地看着逼近的刺客，保镖们被人群阻挡，无法及时救援"
+ },
+ {
+ "type": "action",
+ "character": "刺客",
+ "text": "刺客的凶器即将刺中苏小雨的瞬间，一道身影如闪电般掠过"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "商业发布会现场（战斗中）",
+ "time": "白天",
+ "atmosphere": "惊心动魄"
+ },
+ "characters": ["林战天", "苏小雨", "刺客", "李振东", "赵震宇"],
+ "content": [
+ {
+ "type": "action",
+ "character": "林战天",
+ "text": "林战天从阴影中现身，军用匕首在手中翻转，挡住了凶器的去路"
+ },
+ {
+ "type": "dialogue",
+ "character": "刺客",
+ "text": "（惊愕）你是什么人？"
+ },
+ {
+ "type": "action",
+ "character": "林战天",
+ "text": "林战天眼神冰冷如刀，军用匕首精准地格挡开凶器，反手一击将刺客打飞"
+ },
+ {
+ "type": "dialogue",
+ "character": "刺客",
+ "text": "（痛苦）咳咳...你...你是那个保安..."
+ },
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "（冷冷地）敢动我的人，找死"
+ },
+ {
+ "type": "action",
+ "character": "李振东",
+ "text": "李振东脸色惨白，难以置信地看着眼前的一切"
+ },
+ {
+ "type": "action",
+ "character": "刺客",
+ "text": "刺客挣扎着想要起身，但被林战天的气势彻底压制"
+ },
+ {
+ "type": "dialogue",
+ "character": "赵震宇",
+ "text": "林队！你怎么来了？"
+ },
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "我看到苏小雨的公司有风险，就过来了。没想到这里有埋伏"
+ },
+ {
+ "type": "action",
+ "character": "李振东",
+ "text": "李振东强装镇定，但眼中闪过一丝慌乱"
+ },
+ {
+ "type": "dialogue",
+ "character": "李振东",
+ "text": "误会，都是误会！这是个误会！我不知道会发生这种事"
+ },
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "误会？（冷笑）李总，你的诚意就是派人杀我妻子？"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "医院病房",
+ "time": "晚上",
+ "atmosphere": "温暖治愈"
+ },
+ "characters": ["林战天", "苏小雨", "赵震宇"],
+ "content": [
+ {
+ "type": "action",
+ "character": "林战天",
+ "text": "林战天手臂上有轻微的擦伤，但神色依然平静如水"
+ },
+ {
+ "type": "action",
+ "character": "苏小雨",
+ "text": "苏小雨头上缠着绷带，看到林战天进来，眼眶微红"
+ },
+ {
+ "type": "dialogue",
+ "character": "苏小雨",
+ "text": "你...你没事吧？为什么要冲过来？你会受伤的..."
+ },
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "你是我的妻子。保护你是我的责任"
+ },
+ {
+ "type": "action",
+ "character": "苏小雨",
+ "text": "苏小雨第一次在这个男人面前感到心跳加速，这个曾经在这个城市里唯唯诺诺的丈夫，此刻却如山岳般可靠"
+ },
+ {
+ "type": "dialogue",
+ "character": "苏小雨",
+ "text": "其实...谢谢你。"
+ },
+ {
+ "type": "action",
+ "character": "林战天",
+ "text": "林战天愣住了，这是五年来第一次听到妻子真心实意的感谢"
+ },
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "（有些不自在）不用谢...保护家人，是应该的"
+ },
+ {
+ "type": "action",
+ "character": "苏小雨",
+ "text": "苏小雨伸出手，轻轻握住林战天的手"
+ },
+ {
+ "type": "dialogue",
+ "character": "苏小雨",
+ "text": "你真的很强。我以前...可能真的错了"
+ },
+ {
+ "type": "dialogue",
+ "character": "林战天",
+ "text": "（想抽回手，却又停下）我说过，一切都会好起来的"
+ },
+ {
+ "type": "emotion",
+ "text": "走廊外，赵震宇看着病房内温馨的一幕，感动地抹了抹眼睛"
+ },
+ {
+ "type": "dialogue",
+ "character": "赵震宇",
+ "text": "（自言自语）林队，你的女人......她自己保护自己了"
+ }
+ ]
+ }
+ ]
+}

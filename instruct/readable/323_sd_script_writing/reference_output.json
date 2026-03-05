@@ -1,0 +1,86 @@
+{
+  "episode_number": 48,
+  "title": "再次收购",
+  "genre_type": "revenge_drama",
+  "characters": ["林晚", "苏雅琴", "顾深", "陈浩"],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "商业峰会",
+      "time": "白天",
+      "description": "林晚在商业峰会上宣布再次收购Mentor的公司，彻底击败对手。",
+      "dialogue": [
+        {
+          "character": "林晚",
+          "line": "各位，今天我宣布，我的公司将再次收购盛世集团。这次，是彻底的收购。",
+          "emotion": "坚定"
+        },
+        {
+          "character": "记者",
+          "line": "林总，这是对Mentor的彻底报复吗？",
+          "emotion": "好奇"
+        },
+        {
+          "character": "林晚",
+          "line": "这不是报复，这是商业行为。Mentor教会我的一切，我都会用在正道上。",
+          "emotion": "冷静"
+        }
+      ],
+      "action": "林晚在聚光灯下宣布收购，台下掌声雷动。"
+    },
+    {
+      "scene_number": 2,
+      "location": "Mentor的办公室",
+      "time": "傍晚",
+      "description": "苏雅琴在办公室里面对林晚的收购，感到绝望。",
+      "dialogue": [
+        {
+          "character": "苏雅琴",
+          "line": "（自言自语）你赢了，林晚。但你真的赢了吗？",
+          "emotion": "绝望"
+        },
+        {
+          "character": "陈浩",
+          "line": "Mentor，我们该怎么办？",
+          "emotion": "焦虑"
+        },
+        {
+          "character": "苏雅琴",
+          "line": "怎么办？你以为这样就结束了吗？",
+          "emotion": "阴险"
+        }
+      ],
+      "action": "苏雅琴眼中闪过一丝阴险的光芒，开始策划最后的反击。"
+    },
+    {
+      "scene_number": 3,
+      "location": "林晚的公司",
+      "time": "夜晚",
+      "description": "林晚在公司庆祝胜利，顾深在一旁支持。",
+      "dialogue": [
+        {
+          "character": "顾深",
+          "line": "恭喜你，林晚。你做到了。",
+          "emotion": "欣慰"
+        },
+        {
+          "character": "林晚",
+          "line": "谢谢。但这只是开始，Mentor不会轻易认输的。",
+          "emotion": "警惕"
+        },
+        {
+          "character": "顾深",
+          "line": "我会在你身边。",
+          "emotion": "坚定"
+        }
+      ],
+      "action": "林晚看着窗外的夜景，心中既有胜利的喜悦，也有对未来的担忧。"
+    }
+  ],
+  "hook": "林晚在商业峰会上宣布收购Mentor的公司，说：'老师，该还了。'",
+  "conflict": "林晚完成对Mentor的反击",
+  "twist": "Mentor说：'你赢了，但我不会认输。'",
+  "emotional_peak": "林晚在峰会上宣布",
+  "total_scenes": 3,
+  "word_count": 450
+}

@@ -1,0 +1,52 @@
+{
+  "episode_number": 45,
+  "title": "联盟",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "底层通道/机舱", "time": "傍晚", "atmosphere": "沈棠拿着白薇给她的船体结构图，沿着一条标注为'备用维修通道'的虚线向底层机舱摸去"},
+      "characters": ["沈棠", "顾北辰"],
+      "content": [
+        {"type": "action", "description": "维修通道极其狭窄，只容一人侧身通过。管道上凝结的水珠不断滴在沈棠的头发上。她摸到一扇维修舱盖，用力推开——底层机舱的冷风扑面而来"},
+        {"type": "dialogue", "character": "沈棠", "line": "顾北辰！如果你还活着就吼一声——我来接你出去！"},
+        {"type": "action", "description": "回声在巨大的机舱空间里碰撞了几次。然后黑暗深处传来一个嘶哑的声音"},
+        {"type": "dialogue", "character": "顾北辰", "line": "……这边。"},
+        {"type": "action", "description": "沈棠打着手电筒循声而去。找到顾北辰时他正靠坐在一根粗水管旁边——嘴唇干裂，手指关节磨破了皮，但眼神还是清醒的"},
+        {"type": "dialogue", "character": "顾北辰", "line": "你怎么找到这里的？"},
+        {"type": "dialogue", "character": "沈棠", "line": "白薇给了我船体图纸。走，从维修通道出去。"},
+        {"type": "action", "description": "顾北辰站起来时踉跄了一下——被困了整整一夜，没有水和食物。但他口袋里紧紧攥着一个东西"},
+        {"type": "dialogue", "character": "顾北辰", "line": "等一下。机舱里播放了一段视频——我师父的认罪影像。我用手机录下来了。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "图书室（临时调查室）", "time": "夜晚", "atmosphere": "图书室的门被从内侧反锁，窗帘拉严。桌上铺满了文件、硬盘、平板电脑"},
+      "characters": ["沈棠", "顾北辰", "方晴", "程砚之", "白薇", "何蔚蓝"],
+      "content": [
+        {"type": "action", "description": "六个人围坐在桌前。何蔚蓝裹着毛毯坐在角落的沙发上，脸色仍然苍白但坚持出席。白薇靠在门边，一只手随时准备开门——如果有人来"},
+        {"type": "dialogue", "character": "沈棠", "line": "把所有东西放在一起看——备份硬盘里有海棠号骗保的全部原始证据。船医日志证明沉船前有人给船员下药。篡改的调查报告证明事后有人掩盖真相。顾北辰录下的师父认罪影像证明压力来自远洋集团。方晴手上的委托文件证明陆怀瑾对海神号上的事件有预谋。白薇提供的通讯记录证明他至今在操控一切。"},
+        {"type": "action", "description": "她把所有证据在桌上摆成一条线——每一份文件就是链条上的一环，首尾相连，密不透风"},
+        {"type": "dialogue", "character": "方晴", "line": "从法律角度来说，这条证据链已经够了。预谋杀人、骗保、妨碍司法、篡改公文、非法监禁——每一项都是重罪。"},
+        {"type": "dialogue", "character": "顾北辰", "line": "证据够了。但我们还是困在船上。"},
+        {"type": "emotion", "description": "桌上的证据在灯光下安静地陈列着，像一场迟到了二十年的审判的庭前物证"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "图书室", "time": "夜晚", "atmosphere": "六个人的目光在彼此之间交汇。疲惫、伤痛、恐惧——但没有退缩"},
+      "characters": ["沈棠", "顾北辰", "方晴", "程砚之", "白薇", "何蔚蓝"],
+      "content": [
+        {"type": "dialogue", "character": "沈棠", "line": "何蔚蓝发现了陆怀瑾的私人网络——信号在顶层套房。如果我们能接入那个网络，就能发出求救信号，也能把证据同步到外面。"},
+        {"type": "dialogue", "character": "顾北辰", "line": "明天我带人突入顶层套房。"},
+        {"type": "dialogue", "character": "白薇", "line": "套房的门禁密码我知道。但他身边至少有四个私人保镖。"},
+        {"type": "dialogue", "character": "程砚之", "line": "我负责医疗准备。万一有人受伤——"},
+        {"type": "dialogue", "character": "何蔚蓝", "line": "我负责数据传输。只要给我三分钟连上网络，我能把所有文件上传到预设的云端。"},
+        {"type": "dialogue", "character": "方晴", "line": "我负责法律文书。求救信号发出的同时，我要把正式的刑事报案材料一起发给海岸警卫队和检察院。"},
+        {"type": "action", "description": "沈棠环顾六个人——一个犯罪心理学教授、一个前刑警、一个律师、一个船医、一个管家、一个博主。一群被命运和谎言拖上同一条船的人"},
+        {"type": "dialogue", "character": "沈棠", "line": "明天——我们结束这一切。"},
+        {"type": "emotion", "description": "六双手在桌上交叠。没有人说什么豪言壮语——只有沉默的握紧。这是Day5的最后一夜。窗外的大海平静得像什么都没发生过，但每个人都知道——暴风雨就在前面"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+ "ep_id":3,
+ "ep_title": "第三集：现代初体验",
+ "scene_list": [
+ {
+ "scene_no":1,
+ "location": "凤阳山鹰嘴峰",
+ "time": "清晨",
+ "atmosphere": "神秘震撼",
+ "initial_lens": "【高空俯视】云雾缭绕的山头，绳索和囚笼若隐若现",
+ "characters": ["卫西"],
+ "content_sequence": [
+ {
+ "type": "action",
+ "description": "【航拍大远景】卫西的身影在浓密树冠间穿梭，跃过岩缝，动作轻盈如猫。"
+ },
+ {
+ "type": "action",
+ "description": "【快速摇晃镜头】他接近山脊线，环境开始变得开阔，光线穿透云层。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】: 这部分需要parallax（视差）效果"
+ },
+ {
+ "type": "action",
+ "description": "【跳切】卫西一跃而起，直接越过高空中的无形障碍。"
+ },
+ {
+ "type": "sound",
+ "description": "【音效渐入】现代世界的声音突然涌入——游客的喧哗、商贩的叫卖、相机的快门"
+ },
+ {
+ "type": "action",
+ "description": "【主观视角】卫西落地，他的世界瞬间掠夺了混乱现代感。"
+ },
+ {
+ "type": "inner_voice",
+ "character": "卫西",
+ "emotion": "困惑",
+ "text": "这么多……人。"
+ },
+ {
+ "type": "action",
+ "description": "【中景】卫西本能地握紧腰间菜刀，警惕地扫视四周。"
+ },
+ {
+ "type": "sound",
+ "description": "音效：周围游客的讨论 "cosplay" "道士" 等"
+ }
+ ]
+ },
+ {
+ "scene_no":2,
+ "location": "雾中卖点",
+ "time": "日",
+ "atmosphere": "异域风情",
+ "initial_lens": "【跟随镜头】卫西穿过人群",
+ "characters": ["卫西", "老板娘", "游客"],
+ "content_sequence": [
+ {
+ "type": "action",
+ "description": "【前景】两个半裸男人在敲打打糕，显得滑稽奇特。"
+ },
+ {
+ "type": "dialogue",
+ "character": "游客",
+ "emotion": "好奇",
+ "text": "你们看那个小孩，穿那么多不热吗？"
+ },
+ {
+ "type": "action",
+ "description": "【特写】相机对着卫西不停定格。"
+ },
+ {
+ "type": "dialogue",
+ "character": "老板娘",
+ "emotion": "热情",
+ "text": "小伙子，打糕要不要？十块钱一碗。"
+ },
+ {
+ "type": "action",
+ "description": "【对切镜头】卫西看向食物，肚子发出巨大的声音。"
+ }
+ ]
+ },
+ {
+ "scene_no":3,
+ "location": "卖点摊位",
+ "time": "日",
+ "atmosphere": "幽默荒诞",
+ "initial_lens": "【全景】简易棚下的宁静一角",
+ "characters": ["卫西", "老板娘"],
+ "content_sequence": [
+ {
+ "type": "action",
+ "description": "【中景】卫西被请进棚子，好奇地打量四周。"
+ },
+ {
+ "type": "dialogue",
+ "character": "老板娘",
+ "emotion": "关切",
+ "text": "大中午的，别晒中暑了，进来歇会儿。"
+ },
+ {
+ "type": "action",
+ "description": "【特写】老板娘伸手想帮他整理破旧的道袍。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】：卫西本能闪避的动作需要细致捕捉"
+ },
+ {
+ "type": "action",
+ "description": "【中景】卫西放松下来，肚子再次叫嚷。"
+ },
+ {
+ "type": "dialogue",
+ "character": "老板娘",
+ "emotion": "好笑",
+ "text": "是饿了？打糕要不要？"
+ }
+ ]
+ },
+ {
+ "scene_no":4,
+ "location": "摊位角落",
+ "time": "日",
+ "atmosphere": "文化冲击",
+ "initial_lens": "【过肩镜头】卫西看着透明的塑料袋",
+ "characters": ["卫西", "老板娘"],
+ "content_sequence": [
+ {
+ "type": "action",
+ "description": "【特写】卫西数出几枚古铜钱递给老板娘。"
+ },
+ {
+ "type": "action",
+ "description": "【中景】老板娘愣住了，看着这些生锈的古钱发呆。"
+ },
+ {
+ "type": "dialogue",
+ "character": "老板娘",
+ "emotion": "惊讶",
+ "text": "这钱……怎么跟出土的一样？"
+ },
+ {
+ "type": "action",
+ "description": "【特写】卫西的口袋里还有一把更陈旧的铜钱扫出。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】：老板娘眼里的古怪越多，最终化为温暖。"
+ },
+ {
+ "type": "dialogue",
+ "character": "老板娘",
+ "emotion": "温和",
+ "text": "行了，阿姨请你吃的，这么俊的小伙子先吃点喝点。"
+ },
+ {
+ "type": "action",
+ "description": "【中景】卫西第一次吃现代食物，表情丰富而复杂。"
+ }
+ ]
+ }
+ ]
+}

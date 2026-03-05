@@ -1,0 +1,102 @@
+{
+  "episode_number": 29,
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林浅公寓",
+        "time": "深夜",
+        "atmosphere": "神秘感动"
+      },
+      "characters": ["林浅", "顾寒州"],
+      "content": [
+        {
+          "type": "action",
+          "description": "快递送来一个旧箱子"
+        },
+        {
+          "type": "action",
+          "description": "林浅打开，里面是母亲的日记本"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾寒州",
+          "line": "这是..."
+        },
+        {
+          "type": "dialogue",
+          "character": "林浅",
+          "line": "妈妈的日记，我以为早就丢了"
+        },
+        {
+          "type": "emotion",
+          "description": "林浅颤抖着翻开第一页"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "林浅公寓",
+        "time": "深夜",
+        "atmosphere": "泪目感动"
+      },
+      "characters": ["林浅"],
+      "content": [
+        {
+          "type": "action",
+          "description": "林浅读着日记，眼泪不断流下"
+        },
+        {
+          "type": "dialogue",
+          "character": "林浅",
+          "line": "'浅浅，如果你看到这本日记，说明我已经不在了'"
+        },
+        {
+          "type": "action",
+          "description": "翻到某一页，林浅停住了"
+        },
+        {
+          "type": "dialogue",
+          "character": "林浅",
+          "line": "'不要恨，恨会吞噬你的心，爱才能拯救你'"
+        },
+        {
+          "type": "emotion",
+          "description": "林浅崩溃大哭，释放所有情绪"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "母亲墓前",
+        "time": "清晨",
+        "atmosphere": "释怀解脱"
+      },
+      "characters": ["林浅", "顾寒州"],
+      "content": [
+        {
+          "type": "action",
+          "description": "林浅将日记放在墓碑前"
+        },
+        {
+          "type": "dialogue",
+          "character": "林浅",
+          "line": "妈，我懂了，我不恨了"
+        },
+        {
+          "type": "action",
+          "description": "顾寒州轻轻搂住她"
+        },
+        {
+          "type": "emotion",
+          "description": "阳光洒在墓碑上，气氛宁静"
+        },
+        {
+          "type": "dialogue",
+          "character": "林浅",
+          "line": "我们走吧，去建立慈善基金会"
+        }
+      ]
+    }
+  ]
+}

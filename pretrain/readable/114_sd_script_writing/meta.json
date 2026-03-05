@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/_SD_A_underdog_comeback_30_episode_24_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/",
+  "source_sample_id": "SD_A_underdog_comeback_30",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_24_script.json",
+  "output_type": "原创剧本",
+  "genre": "underdog_comeback",
+  "sequence_num": 24,
+  "input_tokens_est": 1493,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

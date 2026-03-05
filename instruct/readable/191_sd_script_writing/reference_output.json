@@ -1,0 +1,86 @@
+{
+  "episode_number": 49,
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林家老宅客厅",
+        "time": "夜晚",
+        "atmosphere": "协商与承诺"
+      },
+      "characters": ["林秀兰", "林小军", "林建国"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "建国，我同意你的方案，但有一个条件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林建国",
+          "text": "大姐，什么条件？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "小军必须承诺不再赌博。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "大姐，我...我保证不再赌博了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "小军，这是最后一次，以后你自己想办法。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "大姐，我明白。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "建国，你也要监督他。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林建国",
+          "text": "大姐，你放心，我会看着他的。"
+        },
+        {
+          "type": "action",
+          "character": "林小军",
+          "text": "林小军郑重地点头，眼神中透着决心。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "大姐，二哥，我一定改过自新。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "小军，爸在天上看着你呢。"
+        },
+        {
+          "type": "emotion",
+          "character": "林小军",
+          "text": "林小军低下头，眼眶湿润。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "我知道...我会让爸安心的。"
+        },
+        {
+          "type": "emotion",
+          "character": "林秀兰",
+          "text": "林秀兰看着弟弟，眼中闪过一丝欣慰。"
+        }
+      ]
+    }
+  ]
+}

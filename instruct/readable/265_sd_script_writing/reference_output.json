@@ -1,0 +1,199 @@
+{
+  "episode_number": 34,
+  "title": "胜利",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "厂里",
+        "time": "白天",
+        "atmosphere": "宣布竞标结果，王志强成功"
+      },
+      "characters": ["王志强", "王建国", "竞标对手", "邻居们"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "白天，厂里会议室，竞标结果宣布了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "主持人",
+          "line": "经过评审，食堂承包权归王志强！"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "激动地站起来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "谢谢各位领导！我一定做好！"
+        },
+        {
+          "type": "action",
+          "character": "竞标对手",
+          "text": "灰溜溜地走了。"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "拍拍儿子的肩膀。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "志强，好样的！"
+        },
+        {
+          "type": "action",
+          "character": "邻居们",
+          "text": "欢呼雀跃。"
+        },
+        {
+          "type": "dialogue",
+          "character": "邻居甲",
+          "line": "志强成功了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "邻居乙",
+          "line": "太好了！咱们有希望了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "谢谢大家支持，我一定不让大家失望！"
+        },
+        {
+          "type": "emotion",
+          "text": "家属院的人欢呼雀跃，王志强竞标成功。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "食堂",
+        "time": "晚上",
+        "atmosphere": "赵德发潜入，想放火烧食堂"
+      },
+      "characters": ["赵德发"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "晚上，食堂里，赵德发偷偷潜入。"
+        },
+        {
+          "type": "action",
+          "character": "赵德发",
+          "text": "鬼鬼祟祟地走进食堂，手里拿着汽油。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵德发",
+          "line": "王志强，你竞标成功？我让你成功不了！"
+        },
+        {
+          "type": "action",
+          "character": "赵德发",
+          "text": "开始倒汽油。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵德发",
+          "line": "我放火烧了食堂，看你怎么干！"
+        },
+        {
+          "type": "action",
+          "character": "赵德发",
+          "text": "拿出打火机，准备点火。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵德发",
+          "line": "王志强，你等着！"
+        },
+        {
+          "type": "emotion",
+          "text": "赵德发准备放火，气氛紧张。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "家属院",
+        "time": "深夜",
+        "atmosphere": "刘大勇发现赵德发，报警"
+      },
+      "characters": ["刘大勇", "赵德发", "警察"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "深夜，家属院里，刘大勇路过食堂，发现有人。"
+        },
+        {
+          "type": "action",
+          "character": "刘大勇",
+          "text": "透过窗户，看到赵德发在倒汽油。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘大勇",
+          "line": "赵德发！你要干啥！"
+        },
+        {
+          "type": "action",
+          "character": "赵德发",
+          "text": "吓了一跳，转身跑。"
+        },
+        {
+          "type": "action",
+          "character": "刘大勇",
+          "text": "冲进去，抓住赵德发。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘大勇",
+          "line": "赵德发，你想放火？"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵德发",
+          "line": "老刘，你放开我！"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘大勇",
+          "line": "我不放开！我要报警！"
+        },
+        {
+          "type": "action",
+          "character": "刘大勇",
+          "text": "报了警。"
+        },
+        {
+          "type": "action",
+          "character": "警察",
+          "text": "赶到，带走赵德发。"
+        },
+        {
+          "type": "dialogue",
+          "character": "警察",
+          "line": "刘大勇，谢谢你，你立功了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘大勇",
+          "line": "我不能让他毁了大家的希望。"
+        },
+        {
+          "type": "emotion",
+          "text": "赵德发被抓，刘大勇立功，家属院的人松了口气。"
+        }
+      ]
+    }
+  ]
+}

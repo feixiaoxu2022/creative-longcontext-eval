@@ -1,0 +1,95 @@
+{
+  "episode_number": 60,
+  "title": "更大的危险",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "陆远征家",
+      "time": "白天",
+      "characters": ["陆远征", "陆远征的妻子", "陆远征的家人"],
+      "dialogue": [
+        {
+          "character": "陆远征的妻子",
+          "text": "远征，又有人送来一封信。"
+        },
+        {
+          "character": "陆远征",
+          "text": "这次是什么？"
+        },
+        {
+          "character": "陆远征的妻子",
+          "text": "信上说，如果你不出现，你的家人就会有更大的危险。"
+        },
+        {
+          "character": "陆远征",
+          "text": "该死！"
+        }
+      ],
+      "action": "陆远征打开信，脸色变得凝重。"
+    },
+    {
+      "scene_number": 2,
+      "location": "商场办公室",
+      "time": "白天",
+      "characters": ["陆远征", "苏婉清"],
+      "dialogue": [
+        {
+          "character": "陆远征",
+          "text": "苏婉清，我的家人又被威胁了。"
+        },
+        {
+          "character": "苏婉清",
+          "text": "这次是谁干的？"
+        },
+        {
+          "character": "陆远征",
+          "text": "是我过去的敌人，而且这次更加强大。"
+        },
+        {
+          "character": "苏婉清",
+          "text": "你需要我做什么？"
+        },
+        {
+          "character": "陆远征",
+          "text": "帮我保护我的家人，我去解决这个麻烦。"
+        }
+      ],
+      "action": "陆远征站起身，准备离开。"
+    },
+    {
+      "scene_number": 3,
+      "location": "废弃工厂",
+      "time": "夜晚",
+      "characters": ["陆远征", "敌人"],
+      "dialogue": [
+        {
+          "character": "敌人",
+          "text": "陆远征，你终于来了。"
+        },
+        {
+          "character": "陆远征",
+          "text": "放了我的家人。"
+        },
+        {
+          "character": "敌人",
+          "text": "凭什么？"
+        },
+        {
+          "character": "陆远征",
+          "text": "就凭我是陆远征。"
+        },
+        {
+          "character": "敌人",
+          "text": "你以为你还是十年前的那个指挥官吗？"
+        },
+        {
+          "character": "陆远征",
+          "text": "我说过，碰她一下试试。"
+        }
+      ],
+      "action": "陆远征出手，与敌人展开激烈战斗。"
+    }
+  ],
+  "total_scenes": 3,
+  "characters_involved": ["陆远征", "苏婉清", "陆远征的妻子", "陆远征的家人", "敌人"]
+}

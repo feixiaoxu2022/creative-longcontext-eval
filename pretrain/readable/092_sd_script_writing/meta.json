@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_cw_glm45air_midt2602_decay_step2000_SD_E_transmigration_60_episode_4_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "cw_glm45air_midt2602_decay_step2000",
+  "source_sample_id": "SD_E_transmigration_60",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_4_script.json",
+  "output_type": "原创剧本",
+  "genre": "transmigration",
+  "sequence_num": 4,
+  "input_tokens_est": 770,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

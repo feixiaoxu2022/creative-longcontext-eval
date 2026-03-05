@@ -1,0 +1,49 @@
+{
+  "episode_number": 51,
+  "title": "调查",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "公安局", "time": "白天", "atmosphere": "法律介入的严肃"},
+      "characters": ["周建国", "马彪"],
+      "content": [
+        {"type": "emotion", "description": "公安局的走廊里弥漫着消毒水味。周建国办公室的门被贴了封条，他本人被带到了另一个地方。"},
+        {"type": "action", "character": "周建国", "description": "坐在审讯室里，面前摆着那份省报和一沓厚厚的卷宗。他的衬衫领子皱了，头发也没梳——两天前他还是红旗厂说一不二的实权人物。"},
+        {"type": "emotion", "description": "马彪在另一间审讯室等传唤。他坐在铁椅子上，看着对面墙上"坦白从宽"四个红字，喉咙发干。"},
+        {"type": "emotion", "description": "大院里有人偷偷在门口放了鞭炮。也有人叹气说：查出来又怎样，工厂也回不来了。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "公安局审讯室", "time": "白天", "atmosphere": "马彪的辩解与证据的力量"},
+      "characters": ["马彪", "陈守义"],
+      "content": [
+        {"type": "emotion", "description": "审讯室的灯管白惨惨的，把人的脸照得没有血色。"},
+        {"type": "action", "character": "马彪", "description": "坐在审讯椅上，额头上全是汗。他在努力把自己摘干净。"},
+        {"type": "dialogue", "character": "马彪", "line": "都是周建国的主意。他让我帮他处理的，我就是跑跑腿——"},
+        {"type": "emotion", "description": "审讯员把那本账本的复印件推到他面前。上面有他的签字。然后是出库单——也有他的签字。然后是工人证言——三个人指认他直接参与了设备搬运和交易。"},
+        {"type": "action", "character": "马彪", "description": "看着那些证据，嘴角抽了一下。他知道糊弄不过去了。"},
+        {"type": "emotion", "description": "隔壁的办公室里，陈守义也在做笔录。他把从发现账本到寄信的全过程一五一十说了。审讯员问：你不怕报复？陈守义说：怕。但我更怕对不起良心。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "公安局门口", "time": "傍晚", "atmosphere": "漫长等待后的释然"},
+      "characters": ["赵德柱", "陈守义"],
+      "content": [
+        {"type": "action", "character": "赵德柱", "description": "做完笔录走出公安局大门，天已经黑了。他在台阶上站了一会儿，深吸了一口气。"},
+        {"type": "emotion", "description": "空气是凉的，带着晚秋的寒意。但胸口那个堵了几个月的东西，松了。"},
+        {"type": "action", "character": "陈守义", "description": "跟着走出来，跟赵德柱并肩站在台阶上。"},
+        {"type": "dialogue", "character": "赵德柱", "line": "老陈，这事儿——终于有人管了。"},
+        {"type": "dialogue", "character": "陈守义", "line": "嗯。管了。"},
+        {"type": "dialogue", "character": "赵德柱", "line": "回家吧。我媳妇今天新研究了个酸菜鱼的配方，你来尝尝。"},
+        {"type": "action", "character": "陈守义", "description": "苦笑了一下：好。"},
+        {"type": "emotion", "description": "两个人在暮色中往回走。路灯一盏接一盏亮起来了，照着他们的背影。走了几步赵德柱忽然说："},
+        {"type": "dialogue", "character": "赵德柱", "line": "老陈，以后你下棋别老悔棋啊。"},
+        {"type": "dialogue", "character": "陈守义", "line": "我什么时候悔过棋了？"},
+        {"type": "emotion", "description": "两个人吵着嘴往家走，声音渐渐融进了大院里的炊烟和孩子的叫喊声里。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "episode_number": 57,
+  "title": "蜜月",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "海岛",
+        "time": "白天",
+        "atmosphere": "甜蜜度假"
+      },
+      "characters": ["沈若曦", "顾承泽"],
+      "content": [
+        {
+          "type": "action",
+          "description": "海岛度假村，碧海蓝天，椰风海韵"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦和顾承泽手牵手走在沙滩上"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "这里真美！"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "喜欢吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "喜欢！"
+        },
+        {
+          "type": "action",
+          "description": "她张开双臂，感受海风"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "承泽，谢谢你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "谢我什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "谢谢你给我这么浪漫的蜜月。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽笑着刮了下她的鼻子"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "这才刚刚开始呢。"
+        },
+        {
+          "type": "action",
+          "description": "两人继续往前走"
+        },
+        {
+          "type": "action",
+          "description": "突然，沈若曦看到前方有人在争吵"
+        },
+        {
+          "type": "action",
+          "description": "一对年轻情侣在拉扯"
+        },
+        {
+          "type": "dialogue",
+          "character": "女孩",
+          "line": "你放开我！"
+        },
+        {
+          "type": "dialogue",
+          "character": "男孩",
+          "line": "我爱你！你为什么要离开我？"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦想上前"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽拉住她"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "别人的事，我们别管。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "可是..."
+        },
+        {
+          "type": "action",
+          "description": "她还是走了过去"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "两位，请冷静一下。"
+        },
+        {
+          "type": "action",
+          "description": "那对情侣停下来"
+        },
+        {
+          "type": "dialogue",
+          "character": "男孩",
+          "line": "你是谁？少管闲事！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "根据法律规定，你刚才的行为已经构成骚扰。"
+        },
+        {
+          "type": "action",
+          "description": "男孩脸色变了"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "如果你再纠缠她，我可以报警处理。"
+        },
+        {
+          "type": "action",
+          "description": "女孩趁机跑开了"
+        },
+        {
+          "type": "dialogue",
+          "character": "男孩",
+          "line": "你...你给我等着！"
+        },
+        {
+          "type": "action",
+          "description": "他也跑了"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽走过来"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你呀，走到哪儿都改不了职业病。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "这叫职业素养。"
+        },
+        {
+          "type": "action",
+          "description": "两人相视而笑"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "机场",
+        "time": "傍晚",
+        "atmosphere": "温馨返程"
+      },
+      "characters": ["沈若曦", "顾承泽"],
+      "content": [
+        {
+          "type": "action",
+          "description": "机场，沈若曦和顾承泽准备返程"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦突然停下"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "承泽，我有点不舒服..."
+        },
+        {
+          "type": "action",
+          "description": "顾承泽紧张"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "怎么了？哪里不舒服？"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦捂住嘴，跑向洗手间"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽跟进"
+        },
+        {
+          "type": "action",
+          "description": "一会儿，沈若曦走出来"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "可能吃坏东西了..."
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "要不要去医院看看？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "不用了，可能是孕吐..."
+        },
+        {
+          "type": "action",
+          "description": "她突然意识到什么"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "等等，孕吐？！"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽也愣住了"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你是说...你怀孕了？"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦算了算日子"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "好像...真的有了..."
+        },
+        {
+          "type": "action",
+          "description": "顾承泽激动地抱起她"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "我要当爸爸了！"
+        },
+        {
+          "type": "action",
+          "description": "机场的人纷纷看过来"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "快放我下来，别人都看着呢！"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽放下她，但仍然很激动"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "若曦，谢谢你..."
+        },
+        {
+          "type": "action",
+          "description": "沈若曦笑了"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "我们应该去医院确认一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "对，对，去医院！"
+        },
+        {
+          "type": "action",
+          "description": "两人改变行程，直接去医院"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "（内心）这真是意外的惊喜。"
+        }
+      ]
+    }
+  ]
+}

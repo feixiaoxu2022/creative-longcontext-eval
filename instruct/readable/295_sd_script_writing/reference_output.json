@@ -1,0 +1,208 @@
+{
+  "episode_number": 20,
+  "title": "建萍的离婚",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "四川农村",
+        "time": "白天",
+        "atmosphere": "周建萍突然回家"
+      },
+      "characters": ["周建萍", "孩子"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "2015年秋天。周建萍带着五岁的儿子，突然回到了东北老家。"
+        },
+        {
+          "type": "action",
+          "character": "周建萍",
+          "description": "她站在周家门口，敲响了门。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "谁啊？"
+        },
+        {
+          "type": "action",
+          "character": "孙秀兰",
+          "description": "门打开，孙秀兰看到女儿，愣住了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "萍？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈......"
+        },
+        {
+          "type": "action",
+          "character": "周建萍",
+          "description": "她身后还跟着一个怯生生的小男孩。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈，这是我儿子。"
+        },
+        {
+          "type": "emotion",
+          "description": "孙秀兰赶紧把女儿和外孙让进屋。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "周家客厅",
+        "time": "白天",
+        "atmosphere": "说出离婚真相"
+      },
+      "characters": ["周建萍", "孙秀兰", "周德清"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "周德清从外面回来，看到女儿和外孙，愣住了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周德清",
+          "line": "萍？你咋回来了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "爸......"
+        },
+        {
+          "type": "emotion",
+          "description": "她突然跪下了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "爸，妈，我离婚了。"
+        },
+        {
+          "type": "emotion",
+          "description": "周德清和孙秀兰都愣住了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "啥？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "他在外面有人了，还要抢孩子。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周德清",
+          "line": "这个王八蛋！"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "爸，妈，是我不好。我不该不听你们的话，嫁那么远。"
+        },
+        {
+          "type": "action",
+          "character": "孙秀兰",
+          "description": "孙秀兰一把抱住女儿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "傻孩子，说啥呢。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈，我错了。"
+        },
+        {
+          "type": "emotion",
+          "description": "周建萍在母亲怀里，哭得像个孩子。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "周家客厅",
+        "time": "晚上",
+        "atmosphere": "孙秀兰的承诺"
+      },
+      "characters": ["孙秀兰", "周建萍"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "晚上，周建萍和母亲睡在一个屋。孩子已经睡着了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈，你说我是不是特没用？"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "说啥呢。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "当初非要嫁那么远，现在又离婚......"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "萍啊，人的一生哪有一帆风顺的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈，我现在咋办？"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "啥咋办？回来呗。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈......"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "你是我女儿，这是你的家。想住多久住多久。"
+        },
+        {
+          "type": "emotion",
+          "description": "周建萍看着母亲，眼泪又掉下来了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建萍",
+          "line": "妈，谢谢你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "谢啥。你是我身上掉下来的肉。"
+        },
+        {
+          "type": "emotion",
+          "description": "月光下，母女俩依偎在一起。"
+        }
+      ]
+    }
+  ]
+}

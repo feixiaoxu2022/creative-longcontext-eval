@@ -1,0 +1,17 @@
+{
+  "id": "nwa_dsv1_claude-opus-4-6_NW_CLEAR_MEDIUM_ANGSTY_001_chapter_39",
+  "scenario": "nwa",
+  "design_version": "dsv1",
+  "source_model": "claude-opus-4-6",
+  "source_sample_id": "NW_CLEAR_MEDIUM_ANGSTY_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_39.md",
+  "output_type": "小说章节",
+  "genre": "angsty",
+  "sequence_num": 39,
+  "input_tokens_est": 32864,
+  "length_bin": "20K-40K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

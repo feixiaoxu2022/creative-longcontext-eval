@@ -1,0 +1,160 @@
+{
+"episode_number":2,
+"title": "校园日常",
+"scenes": [
+{
+"scene_number":1,
+"location": "教室",
+"time": "下午",
+"atmosphere": "尴尬",
+"initial_shot": "全景 -教室，楼珹和丁雪润一前一后坐着",
+"characters": ["楼珹", "丁雪润"],
+"content_sequence": [
+{
+"type": "action",
+"description": "【全景】教室内，楼珹坐在最后一排，丁雪润坐在他后面。【推镜头到特写】楼珹懒散地撑着头，丁雪润安静地看书。"
+},
+{
+"type": "action",
+"description": "【特写】楼珹瞥了一眼丁雪润，丁雪润抬头，两人对视。"
+},
+{
+"type": "dialogue",
+"character": "楼珹",
+"emotion": "挑衅",
+"line": "新同学，适应得怎么样？"
+},
+{
+"type": "dialogue",
+"character": "丁雪润",
+"emotion": "平静",
+"line": "还好。"
+},
+{
+"type": "action",
+"description": "【音效】下课铃声响起。"
+},
+{
+"type": "action",
+"description": "【特写】楼珹站起来，伸了个懒腰。"
+},
+{
+"type": "dialogue",
+"character": "楼珹",
+"emotion": "漫不经心",
+"line": "走吧，带你熟悉校园。"
+}
+]
+},
+{
+"scene_number":2,
+"location": "校园",
+"time": "下午",
+"atmosphere": "温馨",
+"initial_shot": "全景 -校园，楼珹和丁雪润并肩走着",
+"characters": ["楼珹", "丁雪润"],
+"content_sequence": [
+{
+"type": "action",
+"description": "【全景】校园里，楼珹和丁雪润并肩走着，楼珹指着各个建筑介绍。"
+},
+{
+"type": "action",
+"description": "【特写】楼珹的手臂不小心碰到丁雪润的手。"
+},
+{
+"type": "action",
+"description": "【特写】丁雪润缩回手，楼珹挑眉。"
+},
+{
+"type": "dialogue",
+"character": "楼珹",
+"emotion": "调侃",
+"line": "怎么？怕我？"
+},
+{
+"type": "dialogue",
+"character": "丁雪润",
+"emotion": "平静",
+"line": "没有。"
+},
+{
+"type": "action",
+"description": "【音效】雨声再次响起，两人停在走廊下。"
+},
+{
+"type": "action",
+"description": "【特写】楼珹看着雨，丁雪润递过来一把伞。"
+},
+{
+"type": "dialogue",
+"character": "丁雪润",
+"emotion": "轻声",
+"line": "一起吧。"
+},
+{
+"type": "action",
+"description": "【特写】两人共撑一把伞，楼珹低头看丁雪润，心跳加速。【音效】心跳声加速 *咚咚咚*。"
+},
+{
+"type": "action",
+"description": "【特效】屏幕上方飘过弹幕："好甜！""
+}
+]
+},
+{
+"scene_number":3,
+"location": "男寝",
+"time": "傍晚",
+"atmosphere": "轻松",
+"initial_shot": "全景 -男寝楼下，楼珹和丁雪润站着",
+"characters": ["楼珹", "丁雪润"],
+"content_sequence": [
+{
+"type": "action",
+"description": "【全景】男寝楼下，楼珹和丁雪润站着，楼珹递给丁雪润校园卡。"
+},
+{
+"type": "dialogue",
+"character": "楼珹",
+"emotion": "随意",
+"line": "拿着，以后吃饭用。"
+},
+{
+"type": "dialogue",
+"character": "丁雪润",
+"emotion": "感谢",
+"line": "谢谢。"
+},
+{
+"type": "action",
+"description": "【特写】楼珹注意到丁雪润手腕上的伤痕。"
+},
+{
+"type": "dialogue",
+"character": "楼珹",
+"emotion": "关心",
+"line": "你的手……怎么回事？"
+},
+{
+"type": "dialogue",
+"character": "丁雪润",
+"emotion": "回避",
+"line": "没事。"
+},
+{
+"type": "action",
+"description": "【特写】楼珹皱眉，但没有追问。"
+},
+{
+"type": "action",
+"description": "【音效】BGM：温馨音乐渐入。"
+},
+{
+"type": "action",
+"description": "【特效】屏幕上方飘过弹幕："心疼！""
+}
+]
+}
+]
+}

@@ -1,0 +1,63 @@
+{
+  "episode_number": 51,
+  "title": "陈默的反击",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "新闻发布会",
+        "time": "白天",
+        "atmosphere": "表面正义"
+      },
+      "characters": ["陈默"],
+      "content": [
+        {"type": "emotion", "description": "闪光灯下，陈默站在讲台前，神情悲愤。"},
+        {"type": "action", "character": "陈默", "description": "对着麦克风，声音哽咽"},
+        {"type": "dialogue", "character": "陈默", "text": "昨晚，一群恐怖分子袭击了我的诊所，毁掉了多年的研究成果。"},
+        {"type": "action", "character": "记者", "description": "举手提问"},
+        {"type": "dialogue", "character": "记者", "text": "陈博士，有目击者说您在进行非法人体实验..."},
+        {"type": "action", "character": "陈默", "description": "打断，表情痛心"},
+        {"type": "dialogue", "character": "陈默", "text": "谣言。我们只是在帮助人们摆脱痛苦记忆。"},
+        {"type": "emotion", "description": "台下掌声雷动。陈默嘴角闪过一丝不易察觉的笑。"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "藏身处",
+        "time": "傍晚",
+        "atmosphere": "愤怒"
+      },
+      "characters": ["林深", "苏晚", "叶青", "赵明远"],
+      "content": [
+        {"type": "action", "character": "林深", "description": "看着电视直播，拳头紧握"},
+        {"type": "dialogue", "character": "林深", "text": "他在颠倒黑白！"},
+        {"type": "action", "character": "苏晚", "description": "指着屏幕"},
+        {"type": "dialogue", "character": "苏晚", "text": "看这个。"},
+        {"type": "emotion", "description": "屏幕上，陈默宣布诊所将'免费'为市民提供记忆治疗。"},
+        {"type": "dialogue", "character": "叶青", "text": "他要扩大实验规模。"},
+        {"type": "action", "character": "赵明远", "description": "脸色凝重"},
+        {"type": "dialogue", "character": "赵明远", "text": "如果更多人被植入记忆..."},
+        {"type": "action", "character": "林深", "description": "关掉电视"},
+        {"type": "dialogue", "character": "林深", "text": "我们得阻止他。"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "城市街头",
+        "time": "夜晚",
+        "atmosphere": "压抑"
+      },
+      "characters": ["林深", "苏晚"],
+      "content": [
+        {"type": "emotion", "description": "两人走在街头，看着路边诊所的广告牌。"},
+        {"type": "action", "character": "苏晚", "description": "停下脚步"},
+        {"type": "dialogue", "character": "苏晚", "text": "林深，如果...如果我的记忆都是假的，那我算什么？"},
+        {"type": "action", "character": "林深", "description": "转身看着她"},
+        {"type": "dialogue", "character": "林深", "text": "你是苏晚。不管记忆是真是假，你的选择、你的感受，都是真的。"},
+        {"type": "action", "character": "苏晚", "description": "眼眶泛红，露出一个微弱的笑"},
+        {"type": "dialogue", "character": "苏晚", "text": "谢谢你。"},
+        {"type": "emotion", "description": "两人继续前行，身影融入夜色。远处，诊所的霓虹灯闪烁如鬼魅。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "episode_number": 24,
+  "title": "审判",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "大理寺",
+        "time": "白昼",
+        "atmosphere": "审判开始"
+      },
+      "characters": ["沈昭", "萧衍"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "大理寺公堂，萧衍被五花大绑地押着，早就没了往日的威风。"
+        },
+        {
+          "type": "dialogue",
+          "character": "主审官",
+          "line": "萧衍，你可知罪？"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧衍",
+          "line": "本相……本相无罪！"
+        },
+        {
+          "type": "action",
+          "description": "沈昭走上前来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "萧衍，你勾结北方世族，出卖国家利益，人证物证俱在，还想抵赖？"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧衍",
+          "line": "沈昭！本相真是瞎了眼，竟然重用你这个叛徒！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "叛徒？"
+        },
+        {
+          "type": "action",
+          "description": "他冷笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "十五年前，你陷害忠良，杀人满门的时候，可想过今天？"
+        },
+        {
+          "type": "emotion",
+          "description": "萧衍脸色大变！"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "大理寺",
+        "time": "白昼",
+        "atmosphere": "真相揭露"
+      },
+      "characters": ["萧衍"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "公堂之上，萧衍突然大笑起来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧衍",
+          "line": "沈昭！你以为你赢了吗？"
+        },
+        {
+          "type": "action",
+          "description": "他站起身，披头散发，形如疯魔。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧衍",
+          "line": "本相告诉你，本相背后站着的，是北方世族！"
+        },
+        {
+          "type": "emotion",
+          "description": "此言一出，满堂皆惊！"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧衍",
+          "line": "本相倒了，对他们没有好处！所以……他们一定会杀了你！"
+        },
+        {
+          "type": "action",
+          "description": "他疯狂地大笑起来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧衍",
+          "line": "沈昭，你等着！你会死在本相前面！"
+        },
+        {
+          "type": "emotion",
+          "description": "沈昭脸色微变，但很快就恢复了平静。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "朝堂",
+        "time": "白昼",
+        "atmosphere": "朝堂震动"
+      },
+      "characters": ["沈昭"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "朝堂之上，百官面色凝重地听着萧衍的供词。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "各位大人，萧衍已经招供。"
+        },
+        {
+          "type": "action",
+          "description": "他顿了顿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "北方世族……才是真正操控这一切的幕后黑手！"
+        },
+        {
+          "type": "emotion",
+          "description": "朝堂一片哗然！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "他们通过萧衍，操控朝政，贪污腐败，出卖国家利益！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "如果不除掉这个毒瘤，大梁危矣！"
+        },
+        {
+          "type": "action",
+          "description": "他跪下磕头。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "请陛下圣裁！"
+        }
+      ]
+    }
+  ]
+}

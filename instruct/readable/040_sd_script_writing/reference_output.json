@@ -1,0 +1,319 @@
+{
+  "episode_number": 4,
+  "total_scenes": 3,
+  "title": "舆论风暴",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "新闻发布会",
+        "time": "白天",
+        "atmosphere": "紧张对峙"
+      },
+      "characters": ["林晚", "苏雅琴", "陈浩"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚站在新闻发布会的讲台上，面对众多记者。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "text": "林晚小姐，请问您是否承认泄露了公司的机密？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚深吸一口气，冷静地回答。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "我没有泄露任何机密。这是诬陷。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "text": "但是Mentor苏雅琴女士已经公开表示，您是'叛徒'。您怎么解释？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看向台下的苏雅琴，眼中闪过一丝复杂。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor是我的老师，我曾经很尊敬她。但是现在，我只能说，她的话不能代表真相。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴在台下冷笑。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "林晚，你太让我失望了。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚转身面对苏雅琴。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor，你真的相信我会背叛你吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "证据确凿，你还有什么好说的？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚冷笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "证据？什么样的证据？"
+        },
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩站起来，拿出一份文件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "这是林晚泄露机密的证据。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看着陈浩手中的文件，眼中闪过一丝愤怒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "陈浩，你伪造证据！"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "伪造？林晚，你太看得起自己了。你只是Mentor的一颗棋子，现在棋子没用了，自然要被抛弃。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚愣在原地，陈浩的话像一把刀刺进她的心里。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "棋子...我只是一颗棋子..."
+        },
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩冷笑一声，转身离开。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚站在新闻发布会的讲台上，泪水在眼眶里打转。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "记者会现场",
+        "time": "白天",
+        "atmosphere": "混乱紧张"
+      },
+      "characters": ["林晚", "顾深"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚被记者包围，顾深冲过来保护她。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "text": "林晚小姐，请您解释一下！"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深挡在林晚面前。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "各位记者，请让一让。林晚小姐需要休息。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看着顾深，眼中闪过一丝感激。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，谢谢你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "不用谢。林晚，你需要我帮你吗？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚沉默了一会儿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "我需要你帮我澄清事实。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "好，我会帮你。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深拿出手机，拨打电话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "（打电话）帮我安排一个记者会，我要澄清一些事情。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看着顾深，眼中闪过一丝希望。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，谢谢你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "不用谢。林晚，我们一起面对。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚的眼中闪过一丝温暖，她知道，她不是一个人在战斗。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "顾深的办公室",
+        "time": "夜晚",
+        "atmosphere": "专业严肃"
+      },
+      "characters": ["林晚", "顾深"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚坐在顾深的办公室里，面前放着一份文件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "这是Mentor的财务漏洞证据。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚接过文件，仔细阅读。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "（读文件）'Mentor的财务漏洞...'
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚震惊地看着顾深。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "你怎么会有这些资料？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "我调查过Mentor的过去。她年轻时也被当棋子用过，所以她现在把别人当棋子。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚沉默了一会儿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "你调查她多久了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "很久了。林晚，我想帮你，是因为我看到了你的潜力。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看着顾深，眼中闪过一丝复杂的情绪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "你为什么要帮我？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "我帮你，是因为我看到了你的潜力。林晚，你想报仇吗？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚抬起头，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "想。我一定要报仇。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "很好。那我们开始吧。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚第一次露出复仇的微笑。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚的眼中燃烧着复仇的火焰。"
+        }
+      ]
+    }
+  ]
+}

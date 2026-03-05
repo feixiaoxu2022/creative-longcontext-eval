@@ -1,0 +1,342 @@
+{
+  "episode_info": {
+    "episode_number": 4,
+    "episode_title": "天台上的告白，我的心跳停了"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "location": "学校天台",
+      "time": "日",
+      "atmosphere": "紧张、期待、浪漫",
+      "initial_camera": "【全景】学校天台，开阔的视野，夕阳西下，浪漫的氛围",
+      "characters": ["蒋丞", "顾飞"],
+      "content_sequence": [
+        {
+          "type": "action",
+          "content": "【全景】学校天台，夕阳西下，天空被染成橙红色。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】蒋丞站在天台边缘，看着远处的风景，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的手心出汗，紧张地握着栏杆。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】天台的门被推开，顾飞走了进来。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞听到声音，心跳加速，转身看到顾飞。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞走到蒋丞身边，两人并肩站着。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞偷偷看了顾飞一眼，顾飞也在看他。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】两人沉默地站着，看着远处的风景。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的心跳加速，紧张得说不出话。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞开口说话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾飞",
+          "emotion": "复杂",
+          "line": "我...一直在观察你。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞转头看着蒋丞。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的眼神复杂，似乎在思考什么。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】蒋丞也看着顾飞，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的眼神紧张，期待顾飞的话。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞继续说话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾飞",
+          "emotion": "复杂",
+          "line": "你跟别人不一样。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看到顾飞的眼神，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞继续说话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾飞",
+          "emotion": "温柔",
+          "line": "你...很特别。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速，眼眶有些湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞继续说话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾飞",
+          "emotion": "温柔",
+          "line": "我想...重新认识你。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞伸出手，轻轻握住蒋丞的手。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】两人的手握在一起。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的手在颤抖，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞继续说话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾飞",
+          "emotion": "温柔",
+          "line": "你...愿意吗？"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】蒋丞点点头，眼泪流了下来。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的眼泪流下来。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞轻轻擦去蒋丞的眼泪。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的手轻轻擦去蒋丞的眼泪。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞轻轻抱住蒋丞。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】蒋丞也轻轻抱住顾飞。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】两人的拥抱。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】夕阳西下，两人的身影在天台上拉得很长。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的眼泪流下来，但嘴角带着笑容。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】两人分开，看着对方。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞开口说话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾飞",
+          "emotion": "温柔",
+          "line": "明天...我们一起去学校。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞愣住了，心跳加速。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞看着蒋丞，眼神温柔。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞看着顾飞，心跳加速，眼眶湿润。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】蒋丞点点头，眼泪流下来。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的眼泪流下来，但嘴角带着笑容。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】顾飞轻轻擦去蒋丞的眼泪。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的手轻轻擦去蒋丞的眼泪。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】两人相视而笑。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的笑容。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的笑容。"
+        },
+        {
+          "type": "action",
+          "content": "【全景】夕阳西下，两人的身影在天台上拉得很长。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】天空被染成橙红色。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】两人并肩站着，看着远处的风景。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的手被顾飞握着。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的手握着蒋丞的手。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】两人相视而笑。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】蒋丞的笑容。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】顾飞的笑容。"
+        },
+        {
+          "type": "action",
+          "content": "【全景】夕阳西下，两人的身影在天台上拉得很长。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "episode_number": 14,
+  "title": "秘密出院",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "医院后门",
+        "time": "清晨",
+        "atmosphere": "雾蒙蒙的，没什么人"
+      },
+      "characters": ["沈清辞", "傅景深", "眼线"],
+      "content": [
+        {
+          "type": "action",
+          "description": "沈清辞穿着宽松的风衣，戴着帽子和口罩，在傅景深的搀扶下慢慢走出医院后门，脸色还有点苍白，但眼神很亮。"
+        },
+        {
+          "type": "action",
+          "description": "傅景深帮她拉开车门，护着她的头让她坐进去，黑色的轿车很快就消失在晨雾里。"
+        },
+        {
+          "type": "action",
+          "description": "不远处的拐角，顾明哲安排的眼线拿出手机拍了几张照片，但只拍到了车的背影，没拍到车里的人。"
+        },
+        {
+          "type": "dialogue",
+          "character": "眼线",
+          "line": "顾总，ICU的病人不见了，刚才有辆车接走了一个裹得很严实的女人，我没看清脸。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "傅景深私人别墅",
+        "time": "上午",
+        "atmosphere": "明亮安静，装修简约大气"
+      },
+      "characters": ["沈清辞", "傅景深"],
+      "content": [
+        {
+          "type": "action",
+          "description": "沈清辞站在落地窗前，看着楼下的花园，深深吸了一口气，这是她跳楼之后第一次呼吸到外面的新鲜空气。"
+        },
+        {
+          "type": "dialogue",
+          "character": "傅景深",
+          "line": "这里很安全，顾明哲找不到的，你安心在这里养伤，有什么需要随时告诉我。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞转过身，对着傅景深微微点了点头，脸上露出了一个淡淡的笑容。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "谢谢你，傅景深。欠我的，从今天起，我会一点一点全部拿回来。"
+        },
+        {
+          "type": "emotion",
+          "description": "阳光透过落地窗照在她脸上，褪去了之前的脆弱，只剩下坚定和冰冷的恨意，属于沈清辞的复仇之路，正式开启了。"
+        }
+      ]
+    }
+  ]
+}

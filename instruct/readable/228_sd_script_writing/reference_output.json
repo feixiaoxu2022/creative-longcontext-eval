@@ -1,0 +1,202 @@
+{
+  "episode_number": 31,
+  "title": "林雅芳的独白（上）",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "医院·病房",
+        "time": "白天",
+        "atmosphere": "安静对视，第一次真诚对话"
+      },
+      "characters": ["苏晚晴", "林雅芳"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "医院病房，苏晚晴坐在林雅芳床边，两人安静对视"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏晚晴，你为什么还要来看我？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "林雅芳，我看了你的遗书"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏晚晴，对不起，我欠你的，这辈子还不清了"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "林雅芳，我想知道真相"
+        },
+        {
+          "type": "action",
+          "character": "林雅芳",
+          "description": "沉默片刻，眼神变得遥远"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏晚晴，你想知道我为什么会变成这样？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "我想知道"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏晚晴，我年轻时，也曾像你一样天真"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "description": "震惊地看着林雅芳"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "病房·床边",
+        "time": "白天",
+        "atmosphere": "坦白过去，揭开真相"
+      },
+      "characters": ["苏晚晴", "林雅芳"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "病房床边，林雅芳开始坦白过去"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏晚晴，三十年前，我二十岁，遇到了苏振海"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "我父亲？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "是的，苏振海当时已经结婚了，你的母亲还在世"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "你是他的情人？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏振海说他会离婚娶我，我相信了他"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "然后呢？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "我怀孕了，苏振海承诺会给我一个名分"
+        },
+        {
+          "type": "action",
+          "character": "林雅芳",
+          "description": "眼中含泪"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "但是，你的母亲家族施压，苏振海抛弃了我"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "你的孩子呢？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "我失去了孩子，在医院里，苏振海一次都没有来看我"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "回忆·医院",
+        "time": "夜晚",
+        "atmosphere": "年轻林雅芳哭泣，绝望黑化"
+      },
+      "characters": ["林雅芳"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "回忆场景，三十年前的医院病房"
+        },
+        {
+          "type": "action",
+          "character": "年轻林雅芳",
+          "description": "躺在病床上，哭泣"
+        },
+        {
+          "type": "dialogue",
+          "character": "年轻林雅芳",
+          "line": "苏振海，你为什么不来？"
+        },
+        {
+          "type": "action",
+          "character": "医生",
+          "description": "走进病房"
+        },
+        {
+          "type": "dialogue",
+          "character": "医生",
+          "line": "林小姐，很抱歉，孩子保不住了"
+        },
+        {
+          "type": "action",
+          "character": "年轻林雅芳",
+          "description": "崩溃大哭"
+        },
+        {
+          "type": "dialogue",
+          "character": "年轻林雅芳",
+          "line": "我的孩子，我的孩子"
+        },
+        {
+          "type": "action",
+          "character": "年轻林雅芳",
+          "description": "眼神变得冰冷"
+        },
+        {
+          "type": "dialogue",
+          "character": "年轻林雅芳",
+          "line": "苏振海，你会后悔的"
+        },
+        {
+          "type": "action",
+          "character": "林雅芳",
+          "description": "回到现实，泪流满面"
+        },
+        {
+          "type": "dialogue",
+          "character": "林雅芳",
+          "line": "苏晚晴，我以为我在复仇，其实我只是在重复悲剧"
+        }
+      ]
+    }
+  ]
+}

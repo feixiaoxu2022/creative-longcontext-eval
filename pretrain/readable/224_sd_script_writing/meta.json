@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_doubao-seed-2-0-pro-260215_SD_B_underdog_comeback_60_episode_60_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "doubao-seed-2-0-pro-260215",
+  "source_sample_id": "SD_B_underdog_comeback_60",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_60_script.json",
+  "output_type": "原创剧本",
+  "genre": "underdog_comeback",
+  "sequence_num": 60,
+  "input_tokens_est": 9342,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nts_nts_v3_cw_glm45air_midt2601_decay_step2762_NTS_SUSPENSE_LONG_5EP_FLEX_DOUYIN_001_novel_analysis",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "cw_glm45air_midt2601_decay_step2762",
+  "source_sample_id": "NTS_SUSPENSE_LONG_5EP_FLEX_DOUYIN_001",
+  "stage": "analysis",
+  "output_file": "novel_analysis.json",
+  "output_type": "拆书分析",
+  "genre": "suspense",
+  "sequence_num": null,
+  "input_tokens_est": 20090,
+  "reference_output_tokens_est": 1250,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 1
+}

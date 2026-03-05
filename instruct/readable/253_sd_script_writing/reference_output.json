@@ -1,0 +1,379 @@
+{
+  "episode_number": 15,
+  "total_scenes": 3,
+  "title": "王牌证据",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林晚的公司",
+        "time": "白天",
+        "atmosphere": "紧张思考"
+      },
+      "characters": ["林晚", "顾深"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚坐在公司办公室里，面前放着Mentor的财务漏洞证据。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深走进办公室，看到林晚。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，你找到什么了？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚抬起头，看向顾深。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，我找到了Mentor的财务漏洞证据。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深走到林晚面前。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，这是你的机会。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚沉默了一会儿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，我...我不知道该不该用这个证据。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深愣了一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，你在犹豫什么？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚站起身，走到窗边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，Mentor是我的老师。我曾经很尊敬她。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深走到林晚身边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，她抛弃了你。她把你当棋子。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚沉默了一会儿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "我知道。但是...我还是下不了手。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深叹了口气。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，你太善良了。在商场上，善良是弱点。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚转身看向顾深。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，你为什么要帮我？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "我帮你，是因为我看到了你的潜力。林晚，你想报仇吗？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚抬起头，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "想。我一定要报仇。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "很好。那我们开始吧。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚第一次露出复仇的微笑。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚的眼中燃烧着复仇的火焰。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "顾深的办公室",
+        "time": "白天",
+        "atmosphere": "专业严肃"
+      },
+      "characters": ["林晚", "顾深"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚坐在顾深的办公室里，面前放着一份文件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，这是你的商业计划书。我看了，很有潜力。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚接过商业计划书，仔细阅读。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "（读计划书）'商业计划书...'
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚震惊地看着顾深。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "这是...我的计划书？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "是的。我帮你完善了。林晚，你有很好的想法，但是你需要学会冷酷。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚沉默了一会儿。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "冷酷？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "是的。在商场上，善良是弱点。你需要学会冷酷，才能成功。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看着顾深，眼中闪过一丝复杂的情绪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "你为什么要帮我？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "我帮你，是因为我看到了你的潜力。林晚，你想报仇吗？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚抬起头，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "想。我一定要报仇。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "很好。那我们开始吧。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚第一次露出复仇的微笑。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚的眼中燃烧着复仇的火焰。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "Mentor的办公室",
+        "time": "白天",
+        "atmosphere": "紧张焦虑"
+      },
+      "characters": ["林晚", "苏雅琴"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚走进Mentor的办公室，苏雅琴坐在办公桌后。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "林晚，你来了。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚走到苏雅琴面前。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor，我来了。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴站起身，走到林晚面前。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "林晚，你找我有什么事？"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚从包里拿出一份文件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor，这是你的财务漏洞证据。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴看到文件，脸色一变。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "你...你怎么会有这些？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "我调查过你的过去。Mentor，你年轻时也被当棋子用过，所以你现在把别人当棋子。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴震惊地看着林晚。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "你...你怎么知道？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "我调查过你的过去。Mentor，你年轻时也被当棋子用过，所以你现在把别人当棋子。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚冷笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor，你以为你能打败我？"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴愣在原地。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "你...你想怎么样？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor，我想怎么样？我想让你知道，你教会了我一切，现在我要用你教我的东西，打败你。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "苏雅琴震惊地看着林晚。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "林晚，你...你变了。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚冷笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "Mentor，我变了。我变得像你一样冷酷。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚在Mentor面前第一次打脸，眼中燃烧着复仇的火焰。"
+        }
+      ]
+    }
+  ]
+}

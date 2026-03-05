@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_ernie-5.0-thinking-preview_SD_A_revenge_drama_30_episode_29_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "ernie-5.0-thinking-preview",
+  "source_sample_id": "SD_A_revenge_drama_30",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_29_script.json",
+  "output_type": "原创剧本",
+  "genre": "revenge_drama",
+  "sequence_num": 29,
+  "input_tokens_est": 29488,
+  "reference_output_tokens_est": 564,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

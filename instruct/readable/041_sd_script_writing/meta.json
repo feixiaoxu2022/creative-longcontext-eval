@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_doubao-seed-2-0-pro-260215_SD_C_underdog_comeback_60_opening_h3297_episode_4_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "doubao-seed-2-0-pro-260215",
+  "source_sample_id": "SD_C_underdog_comeback_60_opening_h3297",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_4_script.json",
+  "output_type": "原创剧本",
+  "genre": "underdog_comeback",
+  "sequence_num": 4,
+  "input_tokens_est": 15018,
+  "reference_output_tokens_est": 588,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

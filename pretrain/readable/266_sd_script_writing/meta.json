@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_MiniMax-M2.5_SD_C_underdog_comeback_60_opening_h3297_episode_38_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "MiniMax-M2.5",
+  "source_sample_id": "SD_C_underdog_comeback_60_opening_h3297",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_38_script.json",
+  "output_type": "原创剧本",
+  "genre": "underdog_comeback",
+  "sequence_num": 38,
+  "input_tokens_est": 8719,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

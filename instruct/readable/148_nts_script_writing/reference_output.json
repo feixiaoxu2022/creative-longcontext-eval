@@ -1,0 +1,454 @@
+{
+  "episode_5": {
+    "episode_number": 5,
+    "title": "结局",
+    "scenes": [
+      {
+        "scene_header": {
+          "scene_number": 1,
+          "location": "荒山小屋",
+          "time": "日",
+          "atmosphere": "紧张",
+          "initial_shot_suggestion": "全景 - 俯视荒山小屋，雪景"
+        },
+        "characters_appearing": ["游惑", "于闻", "老于", "于遥", "纹身男", "监考官001"],
+        "content_sequence": [
+          {
+            "type": "action",
+            "description": "【全景】荒山小屋，雪景。众人围坐，收音机播报考试指令。"
+          },
+          {
+            "type": "dialogue",
+            "character": "收音机",
+            "emotion": "沙哑",
+            "line": "【考生全部入场，下面宣读考试纪律。】"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，面面相觑。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "不耐烦",
+            "line": "还研究起来了，你们疯了"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "不客气",
+            "line": "我他……"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑依然死在破沙发上。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "识时务",
+            "line": "我18。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "不耐烦",
+            "line": "称呼无所谓！坐过来，我问你，你是学生么？"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "是的吧",
+            "line": "是的吧。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "皱眉",
+            "line": "你会考试么？"
+          },
+          {
+            "type": "dialogue",
+            "character": "老于",
+            "emotion": "条件反射",
+            "line": "他会啊！他就是考试考大的！"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "不客气",
+            "line": "你可闭嘴吧。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】于闻转头看了一眼他哥，发现他哥依然死在破沙发上。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "识时务",
+            "line": "我6月刚高考完，疯球了三个多月，已经……嗯已经不太会考试了。"
+          },
+          {
+            "type": "dialogue",
+            "character": "大肚子女人",
+            "emotion": "勉强笑",
+            "line": "那也比我们强。你才三个月，我们早就忘光了。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "荒诞",
+            "line": "不是。你们平时不看小说不看电影吗？闹鬼时候的考试能是真考试？那肯定就是个代称！"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "意犹未尽",
+            "line": "呵。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑坐起身，半睁着眼扫过众人，然后闷头揉按着脖子。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】橱柜上的钟“当当”响起来。6点整。"
+          },
+          {
+            "type": "dialogue",
+            "character": "收音机",
+            "emotion": "沙哑",
+            "line": "【现在是北京时间18:00，考试正式开始。】"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，面面相觑。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "茫然",
+            "line": "狗日的考卷和答题卡不是应该先发吗？？？"
+          },
+          {
+            "type": "action",
+            "description": "【特写】大肚子女人于遥惊慌地看向橱柜。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于遥",
+            "emotion": "惊慌",
+            "line": "这面墙！"
+          },
+          {
+            "type": "action",
+            "description": "【中景】火炉子上面那堵墙，之前这块墙面除了几道刀痕，空空如也。现在却多了几行字——题干：一群旅客来到了雪山……"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "茫然",
+            "line": "这叫什么题目？问什么答什么？"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑不知什么时候走到了窗边，打开了半扇窗。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "怒道",
+            "line": "你干什么？！"
+          },
+          {
+            "type": "dialogue",
+            "character": "游惑",
+            "emotion": "冷冷",
+            "line": "你谁？"
+          },
+          {
+            "type": "action",
+            "description": "【特写】游惑把左手伸出去，殷红的血正顺着他的手指流向掌心。"
+          },
+          {
+            "type": "dialogue",
+            "character": "游惑",
+            "emotion": "随意",
+            "line": "试试逐出考场什么后果。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑随意擦了一下，又在窗台上挑挑拣拣，拿起一个生锈的铁罐丢出窗外。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】铁罐在瞬间瓦解成粉，随着雪一起散了。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，目光里充满了惊恐。"
+          }
+        ]
+      },
+      {
+        "scene_header": {
+          "scene_number": 2,
+          "location": "荒山小屋",
+          "time": "日",
+          "atmosphere": "紧张",
+          "initial_shot_suggestion": "全景 - 俯视荒山小屋，雪景"
+        },
+        "characters_appearing": ["游惑", "于闻", "老于", "于遥", "纹身男", "监考官001"],
+        "content_sequence": [
+          {
+            "type": "action",
+            "description": "【全景】荒山小屋，雪景。众人围坐，收音机播报考试指令。"
+          },
+          {
+            "type": "dialogue",
+            "character": "收音机",
+            "emotion": "沙哑",
+            "line": "【违规警告：没有使用合格的考试文具，已通知监考。监考官：001、154、922】"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，面面相觑。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】公鸡打鸣声骤然在屋内响起。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "惊恐",
+            "line": "谁？！"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑抬脚就要往大门边走，于闻死狗一样坠在袖子上，企图把他拖住。"
+          },
+          {
+            "type": "action",
+            "description": "【全景】窗外，狂风卷席的漫天大雪里，有三个人影悄无声息地到了近处。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】为首的那位个子很高，留着黑色短发，穿着修身大衣。"
+          },
+          {
+            "type": "dialogue",
+            "character": "监考官001",
+            "emotion": "戏谑",
+            "line": "还不错，知道生火。外面雪有点大，过来一趟挺冷的。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】游惑几乎是无意识地摸了一下耳钉。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "蚊子哼哼",
+            "line": "你不会认识吧？"
+          },
+          {
+            "type": "dialogue",
+            "character": "游惑",
+            "emotion": "皱眉",
+            "line": "忘了。"
+          }
+        ]
+      },
+      {
+        "scene_header": {
+          "scene_number": 3,
+          "location": "荒山小屋",
+          "time": "日",
+          "atmosphere": "紧张",
+          "initial_shot_suggestion": "全景 - 俯视荒山小屋，雪景"
+        },
+        "characters_appearing": ["游惑", "于闻", "老于", "于遥", "纹身男", "监考官001"],
+        "content_sequence": [
+          {
+            "type": "action",
+            "description": "【全景】荒山小屋，雪景。众人围坐，收音机播报考试指令。"
+          },
+          {
+            "type": "dialogue",
+            "character": "收音机",
+            "emotion": "沙哑",
+            "line": "【考生全部入场，下面宣读考试纪律。】"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，面面相觑。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "不耐烦",
+            "line": "还研究起来了，你们疯了"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "不客气",
+            "line": "我他……"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑依然死在破沙发上。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "识时务",
+            "line": "我18。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "不耐烦",
+            "line": "称呼无所谓！坐过来，我问你，你是学生么？"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "是的吧",
+            "line": "是的吧。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "皱眉",
+            "line": "你会考试么？"
+          },
+          {
+            "type": "dialogue",
+            "character": "老于",
+            "emotion": "条件反射",
+            "line": "他会啊！他就是考试考大的！"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "不客气",
+            "line": "你可闭嘴吧。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】于闻转头看了一眼他哥，发现他哥依然死在破沙发上。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "识时务",
+            "line": "我6月刚高考完，疯球了三个多月，已经……嗯已经不太会考试了。"
+          },
+          {
+            "type": "dialogue",
+            "character": "大肚子女人",
+            "emotion": "勉强笑",
+            "line": "那也比我们强。你才三个月，我们早就忘光了。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "荒诞",
+            "line": "不是。你们平时不看小说不看电影吗？闹鬼时候的考试能是真考试？那肯定就是个代称！"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "意犹未尽",
+            "line": "呵。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑坐起身，半睁着眼扫过众人，然后闷头揉按着脖子。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】橱柜上的钟“当当”响起来。6点整。"
+          },
+          {
+            "type": "dialogue",
+            "character": "收音机",
+            "emotion": "沙哑",
+            "line": "【现在是北京时间18:00，考试正式开始。】"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，面面相觑。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "茫然",
+            "line": "狗日的考卷和答题卡不是应该先发吗？？？"
+          },
+          {
+            "type": "action",
+            "description": "【特写】大肚子女人于遥惊慌地看向橱柜。"
+          },
+          {
+            "type": "dialogue",
+            "character": "于遥",
+            "emotion": "惊慌",
+            "line": "这面墙！"
+          },
+          {
+            "type": "action",
+            "description": "【中景】火炉子上面那堵墙，之前这块墙面除了几道刀痕，空空如也。现在却多了几行字——题干：一群旅客来到了雪山……"
+          },
+          {
+            "type": "dialogue",
+            "character": "于闻",
+            "emotion": "茫然",
+            "line": "这叫什么题目？问什么答什么？"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑不知什么时候走到了窗边，打开了半扇窗。"
+          },
+          {
+            "type": "dialogue",
+            "character": "纹身男",
+            "emotion": "怒道",
+            "line": "你干什么？！"
+          },
+          {
+            "type": "dialogue",
+            "character": "游惑",
+            "emotion": "冷冷",
+            "line": "你谁？"
+          },
+          {
+            "type": "action",
+            "description": "【特写】游惑把左手伸出去，殷红的血正顺着他的手指流向掌心。"
+          },
+          {
+            "type": "dialogue",
+            "character": "游惑",
+            "emotion": "随意",
+            "line": "试试逐出考场什么后果。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】游惑随意擦了一下，又在窗台上挑挑拣拣，拿起一个生锈的铁罐丢出窗外。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】铁罐在瞬间瓦解成粉，随着雪一起散了。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】众人惊恐，目光里充满了惊恐。"
+          }
+        ]
+      }
+    ]
+  }
+}

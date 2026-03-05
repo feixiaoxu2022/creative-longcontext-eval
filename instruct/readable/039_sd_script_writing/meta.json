@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_cw_glm45air_midt2601_decay_step2762_SD_A_mystery_thriller_30_episode_28_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "cw_glm45air_midt2601_decay_step2762",
+  "source_sample_id": "SD_A_mystery_thriller_30",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_28_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 28,
+  "input_tokens_est": 17890,
+  "reference_output_tokens_est": 93,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

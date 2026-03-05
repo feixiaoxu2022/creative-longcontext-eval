@@ -1,0 +1,42 @@
+{
+  "episode_number": 2,
+  "total_scenes": 2,
+  "title": "被嫌弃的赘婿",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林家客厅",
+        "time": "白天",
+        "atmosphere": "紧张的家庭会议"
+      },
+      "characters": ["萧然", "林安然", "张秀兰", "林建国"],
+      "content": [
+        {"type": "action", "description": "张秀兰坐在主位，面色铁青"},
+        {"type": "dialogue", "character": "张秀兰", "line": "安然，你说说你们公司怎么回事？上个月业绩又下滑了！"},
+        {"type": "dialogue", "character": "林安然", "line": "妈，现在电商冲击太大了，所有实体店都很难做..."},
+        {"type": "dialogue", "character": "张秀兰", "line": "别找借口！我看就是你不够努力。嫁出去的女儿泼出去的水，现在连公司都不把你当回事了"},
+        {"type": "action", "description": "萧然想开口帮忙"},
+        {"type": "dialogue", "character": "萧然", "line": "妈，其实安然已经很努力了，现在市场确实不好做..."},
+        {"type": "action", "description": "张秀兰猛地站起来"},
+        {"type": "dialogue", "character": "张秀兰", "line": "你懂什么？一个送外卖的，我们家的事你少插嘴！当初就不该让你进门"},
+        {"type": "emotion", "description": "萧然低下了头，不再说话。林安然心疼地看了丈夫一眼"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "林家公司",
+        "time": "下午",
+        "atmosphere": "繁忙的办公室"
+      },
+      "characters": ["林安然"],
+      "content": [
+        {"type": "action", "description": "林安然坐在办公室，看着电脑上的业绩报表发呆"},
+        {"type": "dialogue", "character": "林安然", "line": "（自语）该怎么办呢..."},
+        {"type": "action", "description": "手机响了，是萧然发来的消息"},
+        {"type": "dialogue", "character": "萧然", "line": "【安然，我送完这单就回家做饭。你别太累了】"},
+        {"type": "action", "description": "林安然看着手机，眼眶有些湿润"},
+        {"type": "dialogue", "character": "林安然", "line": "（自语）这个傻子...什么时候才能有点出息啊"}
+      ]
+    }
+  ]
+}

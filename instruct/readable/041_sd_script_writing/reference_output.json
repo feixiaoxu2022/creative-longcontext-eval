@@ -1,0 +1,45 @@
+{
+  "episode_number": 4,
+  "title": "苏晚晴的疑惑",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "巷子口",
+        "time": "夜晚",
+        "atmosphere": "风有点凉，空气安静"
+      },
+      "characters": ["林辰", "苏晚晴"],
+      "content": [
+        {"type": "action", "description": "苏晚晴推开车门走下来，眼眶红红的，盯着林辰的脸，声音都在抖"},
+        {"type": "dialogue", "character": "苏晚晴", "line": "这三年你去哪了？为什么要假装不认识我？为什么所有人都说你死了？"},
+        {"type": "action", "description": "林辰看着苏晚晴泛红的眼眶，心里一阵刺痛，但一想到自己现在还在被犯罪集团追杀，不能暴露身份连累她，只能硬起心肠"},
+        {"type": "dialogue", "character": "林辰", "line": "小姐，你认错人了，我不是你说的什么林辰。"},
+        {"type": "action", "description": "苏晚晴的眼泪瞬间掉了下来，刚要说话，手机突然响了，是幼儿园老师打来的"},
+        {"type": "dialogue", "character": "幼儿园老师", "line": "苏女士，您的儿子小林突然发高烧，已经烧到39度8了，您赶紧来医院吧！"},
+        {"type": "action", "description": "苏晚晴的脸色瞬间变得惨白，手都开始抖了，站都站不稳"},
+        {"type": "dialogue", "character": "苏晚晴", "line": "怎么会突然发烧？我马上就来！"},
+        {"type": "action", "description": "苏晚晴挂了电话，转身就要开车，可是腿软得差点摔倒，林辰下意识地扶住了她"},
+        {"type": "dialogue", "character": "苏晚晴", "line": "孩子...我的孩子...我该怎么办..."},
+        {"type": "dialogue", "character": "林辰", "line": "我陪你去医院，别慌。"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "苏晚晴的车上",
+        "time": "夜晚",
+        "atmosphere": "气氛压抑，苏晚晴一直在哭"
+      },
+      "characters": ["林辰", "苏晚晴"],
+      "content": [
+        {"type": "action", "description": "林辰坐在副驾驶，苏晚晴一边开车一边掉眼泪，手一直在抖"},
+        {"type": "dialogue", "character": "苏晚晴", "line": "孩子今年三岁了，从来没见过爸爸，每次问我爸爸去哪了，我都不知道怎么回答他..."},
+        {"type": "action", "description": "林辰的心脏像是被重锤砸了一下，三岁...刚好是他假死的那一年，原来晚晴怀了他的孩子"},
+        {"type": "emotion", "description": "林辰攥紧了拳头，指甲深深嵌进肉里，他亏欠这母子俩太多了"},
+        {"type": "dialogue", "character": "苏晚晴", "line": "我知道是你，林辰，你不用装了，你的眼神我永远不会忘。你知不知道这三年我是怎么过来的？"},
+        {"type": "action", "description": "林辰别过脸，看着窗外，声音沙哑"},
+        {"type": "dialogue", "character": "林辰", "line": "先去医院，孩子的事要紧。"}
+      ]
+    }
+  ]
+}

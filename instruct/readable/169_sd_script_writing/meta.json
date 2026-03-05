@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_qwen3.5-plus-2026-02-15_SD_A_transmigration_30_episode_24_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "qwen3.5-plus-2026-02-15",
+  "source_sample_id": "SD_A_transmigration_30",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_24_script.json",
+  "output_type": "原创剧本",
+  "genre": "transmigration",
+  "sequence_num": 24,
+  "input_tokens_est": 32308,
+  "reference_output_tokens_est": 685,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

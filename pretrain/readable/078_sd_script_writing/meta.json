@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_cw_glm45air_midt2601_decay_step2762_SD_E_underdog_comeback_70_episode_25_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "cw_glm45air_midt2601_decay_step2762",
+  "source_sample_id": "SD_E_underdog_comeback_70",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_25_script.json",
+  "output_type": "原创剧本",
+  "genre": "underdog_comeback",
+  "sequence_num": 25,
+  "input_tokens_est": 2077,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

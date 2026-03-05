@@ -1,0 +1,176 @@
+{
+  "episode_number": 40,
+  "title": "盛大求婚",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "游乐园",
+        "time": "夜晚",
+        "atmosphere": "浪漫"
+      },
+      "characters": ["林晚", "顾言深"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "夜晚，游乐园。灯火辉煌，却异常安静。林晚疑惑地看着四周，发现整个游乐园竟然没有其他人。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "顾言深，怎么一个人都没有？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "我包场了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "什么？！包场？！你疯了吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "没疯。我想给你一个只属于我们两个人的夜晚。"
+        },
+        {
+          "type": "action",
+          "description": "顾言深牵着林晚的手，走向游乐园中央的摩天轮。摩天轮闪烁着粉色的灯光，如梦如幻。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "这是……"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "还记得我们第一次约会，你说最想坐摩天轮吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "你……你还记得？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "你说的每一句话，我都记得。"
+        },
+        {
+          "type": "emotion",
+          "description": "林晚眼眶湿润，心中的猜测越来越清晰。顾言深带她来到摩天轮下，打开轿厢的门。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "上去吧。"
+        },
+        {
+          "type": "action",
+          "description": "林晚走进轿厢，顾言深跟了进来。摩天轮缓缓上升，城市的夜景在脚下展开。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "好美……"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "最美的风景，还没开始呢。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "摩天轮内",
+        "time": "夜晚",
+        "atmosphere": "梦幻"
+      },
+      "characters": ["林晚", "顾言深"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "摩天轮缓缓升至最高点。突然，外面的灯光全部熄灭，整个游乐园陷入黑暗。林晚惊呼一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "怎么了？停电了吗？"
+        },
+        {
+          "type": "action",
+          "description": "下一秒，数百架无人机同时亮起，在夜空中拼成三个大字——'嫁给我'。林晚捂住嘴，眼泪瞬间涌出。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "这……这是……"
+        },
+        {
+          "type": "action",
+          "description": "顾言深从口袋里拿出一个精致的丝绒盒子，单膝跪地。他打开盒子，一枚璀璨的钻戒在灯光下闪耀。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "林晚，从大学第一次见到你，我就知道，你是我此生要找的人。"
+        },
+        {
+          "type": "action",
+          "description": "顾言深的声音有些颤抖，他深吸一口气，继续说道。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "这十年，我默默看着你，守护你，等你。今天，我终于有勇气站在你面前，问你一个问题。"
+        },
+        {
+          "type": "emotion",
+          "description": "林晚泪流满面，却说不出话来。她只能拼命点头，示意顾言深继续。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "林晚，嫁给我，让我用余生宠你，爱你，保护你。你愿意吗？"
+        },
+        {
+          "type": "action",
+          "description": "林晚哽咽着，伸出手。顾言深颤抖着将戒指戴在她的无名指上，尺寸刚刚好。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "我愿意……我愿意……"
+        },
+        {
+          "type": "emotion",
+          "description": "顾言深站起身，将林晚紧紧拥入怀中。摩天轮外，无人机变换着图案，从'嫁给我'变成了一颗巨大的爱心。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "晚晚，谢谢你愿意给我这个机会。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "line": "应该是我谢谢你。谢谢你十年的等待，谢谢你给我的这一切。"
+        },
+        {
+          "type": "action",
+          "description": "顾言深捧起林晚的脸，轻轻吻去她的泪水，然后吻上她的唇。这一刻，整个世界都为他们静止。"
+        },
+        {
+          "type": "emotion",
+          "description": "摩天轮缓缓下降，但两人的幸福才刚刚开始。今夜，注定是他们人生中最难忘的一夜。"
+        }
+      ]
+    }
+  ]
+}

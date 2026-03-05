@@ -1,0 +1,121 @@
+{
+  "episode_number": 50,
+  "title": "美食帝国",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "陈氏美食城",
+        "time": "白天",
+        "atmosphere": "盛大"
+      },
+      "characters": ["陈野", "苏晚棠", "记者们"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈氏美食城开业，成为城市地标。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者A",
+          "line": "陈总，请问您的美食帝国有什么规划？"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野站在美食城门口。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我要把中华美食推向世界。"
+        },
+        {
+          "type": "emotion",
+          "description": "苏晚棠挽着陈野的手臂。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "这是他的梦想。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "美食城内部",
+        "time": "下午",
+        "atmosphere": "热闹"
+      },
+      "characters": ["顾客A", "顾客B", "服务员"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "美食城内人山人海，各国美食应有尽有。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾客A",
+          "line": "这里太棒了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾客B",
+          "line": "我听说这里的厨师都是陈总亲自培训的。"
+        },
+        {
+          "type": "action",
+          "character": "服务员",
+          "description": "服务员微笑着介绍。"
+        },
+        {
+          "type": "dialogue",
+          "character": "服务员",
+          "line": "是的，我们的陈氏菜系是招牌。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "美食城顶楼",
+        "time": "晚上",
+        "atmosphere": "浪漫"
+      },
+      "characters": ["陈野", "苏晚棠"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈野和苏晚棠在顶楼俯瞰城市夜景。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "你做到了。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野拥着苏晚棠。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "这是我们共同的成就。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "看着你成功，我真的很骄傲。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "未来还有更长的路。"
+        }
+      ]
+    }
+  ]
+}

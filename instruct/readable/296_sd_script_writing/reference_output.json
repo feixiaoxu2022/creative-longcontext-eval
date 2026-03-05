@@ -1,0 +1,164 @@
+{
+  "episode_number": 38,
+  "title": "陈野的使命",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "陈家老宅",
+        "time": "白天",
+        "atmosphere": "庄重"
+      },
+      "characters": ["陈野", "张叔叔", "陆沉"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "老宅的密室里，张叔叔展示了陈野爷爷留下的更多秘密。"
+        },
+        {
+          "type": "dialogue",
+          "character": "张叔叔",
+          "line": "你爷爷当年也是这个组织的目标。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野看着墙上的老照片。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "所以爷爷一直隐藏身份，是为了躲避他们？"
+        },
+        {
+          "type": "dialogue",
+          "character": "张叔叔",
+          "line": "没错。这个组织叫'暗网'，专门针对世界各地的正义人士。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆沉",
+          "line": "那我们现在该怎么办？"
+        },
+        {
+          "type": "dialogue",
+          "character": "张叔叔",
+          "line": "他们已经注意到陈野了。"
+        },
+        {
+          "type": "emotion",
+          "description": "陈野握紧拳头。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "那就让他们来。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "秘密基地",
+        "time": "下午",
+        "atmosphere": "紧张"
+      },
+      "characters": ["陈野", "张叔叔"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "张叔叔带陈野来到一个秘密训练基地。"
+        },
+        {
+          "type": "dialogue",
+          "character": "张叔叔",
+          "line": "你爷爷在这里训练过一批人，专门对抗'暗网'。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野看着先进的训练设施。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我需要做什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "张叔叔",
+          "line": "首先，你需要变得更强大。"
+        },
+        {
+          "type": "emotion",
+          "description": "几个教官走过来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "教官A",
+          "line": "听说你是陈老虎的孙子？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "是。"
+        },
+        {
+          "type": "dialogue",
+          "character": "教官A",
+          "line": "那就让我们看看你的本事。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "训练场",
+        "time": "晚上",
+        "atmosphere": "激烈"
+      },
+      "characters": ["陈野", "教官们"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈野在训练场上接受各种极限训练。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野完成了一个高难度的格斗动作。"
+        },
+        {
+          "type": "dialogue",
+          "character": "教官B",
+          "line": "不错，比你爷爷当年还快。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野汗如雨下，但眼神坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我还可以继续。"
+        },
+        {
+          "type": "dialogue",
+          "character": "教官A",
+          "line": "有骨气！"
+        },
+        {
+          "type": "emotion",
+          "description": "训练结束后，陈野独自坐在角落里。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "爸，爷爷，我一定不会让你们失望。"
+        }
+      ]
+    }
+  ]
+}

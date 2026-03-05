@@ -1,0 +1,21 @@
+{
+  "episode_number": 28,
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "苏晴家",
+        "time": "夜晚",
+        "atmosphere": "紧张"
+      },
+      "characters": ["苏晴", "林晓"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "苏晴",
+          "text": "我什么都不知道"
+        }
+      ]
+    }
+  ]
+}

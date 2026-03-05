@@ -1,0 +1,45 @@
+{
+  "episode_number": 48,
+  "total_scenes": 2,
+  "title": "刘婶的离去",
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "刘婶家",
+        "time": "早晨",
+        "atmosphere": "刘婶去世了"
+      },
+      "characters": ["刘婶"],
+      "content": [
+        {"type": "emotion", "description": "一个平常的早晨"},
+        {"type": "action", "character": "刘婶", "description": "静静地躺在床上"},
+        {"type": "emotion", "description": "刘婶去世了"},
+        {"type": "emotion", "description": "走得很安详"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "殡仪馆",
+        "time": "下午",
+        "atmosphere": "三兄妹都很伤心"
+      },
+      "characters": ["沈秀兰", "沈志远", "沈志明", "刘婶"],
+      "content": [
+        {"type": "emotion", "description": "下午，殡仪馆里"},
+        {"type": "action", "character": "沈秀兰", "description": "和沈志远、沈志明站在刘婶遗像前"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "刘婶……"},
+        {"type": "action", "character": "沈志远", "description": "鞠躬"},
+        {"type": "dialogue", "character": "沈志远", "line": "刘婶，谢谢您照顾我们一家。"},
+        {"type": "action", "character": "沈志明", "description": "擦眼泪"},
+        {"type": "dialogue", "character": "沈志明", "line": "刘婶临走前把老相册留给了我们。"},
+        {"type": "action", "character": "沈秀兰", "description": "抱住相册"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "刘婶说……"},
+        {"type": "action", "character": "沈秀兰", "description": "眼泪掉下来"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "替我好好守着老宅。"},
+        {"type": "emotion", "description": "三个人站在殡仪馆里，久久不愿离去"}
+      ]
+    }
+  ]
+}

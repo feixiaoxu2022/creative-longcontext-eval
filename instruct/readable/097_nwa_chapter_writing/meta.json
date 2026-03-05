@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_gemini-3-pro-preview_NW_VAGUE_MEDIUM_SWEET_DRAMA_001_chapter_17",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "gemini-3-pro-preview",
+  "source_sample_id": "NW_VAGUE_MEDIUM_SWEET_DRAMA_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_17.md",
+  "output_type": "小说章节",
+  "genre": "sweet_drama",
+  "sequence_num": 17,
+  "input_tokens_est": 23327,
+  "reference_output_tokens_est": 875,
+  "length_bin": "20K-40K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

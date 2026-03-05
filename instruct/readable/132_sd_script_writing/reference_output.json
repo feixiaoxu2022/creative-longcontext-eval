@@ -1,0 +1,68 @@
+{
+  "episode_number": 23,
+  "title": "反击开始",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "记者会现场",
+        "time": "白天",
+        "atmosphere": "紧张、期待"
+      },
+      "characters": ["沈念", "记者们"],
+      "content": [
+        {"type": "emotion", "description": "记者会现场，座无虚席"},
+        {"type": "action", "character": "沈念", "description": "走上台，面色冷静"},
+        {"type": "dialogue", "character": "沈念", "line": "今天我要揭露沈德忠的真面目"},
+        {"type": "dialogue", "character": "沈念", "line": "他不仅害死了我的生父"},
+        {"type": "dialogue", "character": "沈念", "line": "还策划了商业犯罪、贿赂、谋杀..."},
+        {"type": "action", "character": "记者们", "description": "疯狂地拍照"},
+        {"type": "dialogue", "character": "记者", "line": "沈小姐，你有什么证据？"},
+        {"type": "dialogue", "character": "沈念", "line": "证据...就在这里"},
+        {"type": "action", "character": "沈念", "description": "大屏幕上开始播放证据"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "记者会后台",
+        "time": "白天",
+        "atmosphere": "震惊、意外"
+      },
+      "characters": ["沈念", "苏晚棠"],
+      "content": [
+        {"type": "emotion", "description": "后台里，沈念正在整理文件"},
+        {"type": "action", "character": "苏晚棠", "description": "突然出现"},
+        {"type": "action", "character": "沈念", "description": "警惕地看着她"},
+        {"type": "dialogue", "character": "沈念", "line": "你来做什么？来看我笑话？"},
+        {"type": "action", "character": "苏晚棠", "description": "摇摇头"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "我想...我想帮你作证"},
+        {"type": "action", "character": "沈念", "description": "愣住了"},
+        {"type": "dialogue", "character": "沈念", "line": "你？"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "沈德忠...他用我母亲的命威胁我"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "但我现在不怕了"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "记者会现场",
+        "time": "白天",
+        "atmosphere": "震撼、感动"
+      },
+      "characters": ["沈念", "苏晚棠", "记者们"],
+      "content": [
+        {"type": "emotion", "description": "记者会上，苏晚棠走上台"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "我是苏晚棠...今天我要说出真相"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "三年前，是我配合沈德忠陷害了沈念"},
+        {"type": "action", "character": "沈念", "description": "站在一旁，眼眶红了"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "我背叛过她...但现在我想赎回自己的灵魂"},
+        {"type": "dialogue", "character": "苏晚棠", "line": "沈德忠才是幕后黑手...他有罪"},
+        {"type": "action", "character": "沈念", "description": "走上前，拉住苏晚棠的手"},
+        {"type": "dialogue", "character": "沈念", "line": "谢谢...谢谢你愿意站出来"},
+        {"type": "emotion", "description": "两人相拥而泣，记者们疯狂拍照"}
+      ]
+    }
+  ]
+}

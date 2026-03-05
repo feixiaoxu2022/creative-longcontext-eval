@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_gemini-3-pro-preview_SD_C_revenge_drama_60_conflict_h9398_outline",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "gemini-3-pro-preview",
+  "source_sample_id": "SD_C_revenge_drama_60_conflict_h9398",
+  "stage": "outline",
+  "output_file": "outline.json",
+  "output_type": "分集大纲",
+  "genre": "revenge_drama",
+  "sequence_num": null,
+  "input_tokens_est": 10705,
+  "reference_output_tokens_est": 4941,
+  "length_bin": "10K-20K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 2
+}

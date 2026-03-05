@@ -1,0 +1,211 @@
+{
+  "episode_number": 21,
+  "title": "母爱关怀",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "方晓晓家",
+        "time": "早晨",
+        "atmosphere": "温馨、日常"
+      },
+      "characters": ["方晓晓", "陈桂兰", "方建国"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "清晨，阳光从窗户照进来"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰在厨房里准备早餐"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "晓晓，起来了？"
+        },
+        {
+          "type": "action",
+          "description": "方晓晓从房间里走出来"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，早"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰注意到女儿眼底的青黑"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "你又熬夜了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "嗯，写点东西"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "女孩子家家的，别太辛苦了"
+        },
+        {
+          "type": "dialogue",
+          "character": "方建国",
+          "line": "好了好了，先吃饭"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "菜场",
+        "time": "上午",
+        "atmosphere": "热闹、温馨"
+      },
+      "characters": ["陈桂兰"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈桂兰在菜场买菜"
+        },
+        {
+          "type": "action",
+          "description": "她突然听到旁边两个人的议论"
+        },
+        {
+          "type": "dialogue",
+          "character": "路人甲",
+          "line": "你看过那个小说《重生37%》吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "路人乙",
+          "line": "看过啊，可火了"
+        },
+        {
+          "type": "dialogue",
+          "character": "路人甲",
+          "line": "据说作者是个大学生呢"
+        },
+        {
+          "type": "emotion",
+          "description": "陈桂兰心中一动"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "(内心)晓晓最近天天熬夜写东西..."
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "(内心)难道那个小说是我女儿写的？"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰买菜的动作变得心不在焉"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "方晓晓家",
+        "time": "夜晚",
+        "atmosphere": "温馨、关怀"
+      },
+      "characters": ["方晓晓", "陈桂兰", "方建国"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "晚上，方晓晓在房间里工作"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰端着一杯牛奶走进来"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "晓晓，喝点牛奶"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "谢谢妈"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰坐在女儿旁边"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "晓晓，你最近小心一点"
+        },
+        {
+          "type": "emotion",
+          "description": "方晓晓抬起头，有些惊讶"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，你这话是什么意思？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "我今天在菜场听到人家说"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "你写的小说好像得罪了什么人"
+        },
+        {
+          "type": "action",
+          "description": "方晓晓心中一暖，原来妈妈一直在关心她"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，你放心，我有分寸"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "傻孩子，有什么事一定要跟爸妈说"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "我们虽然帮不上什么忙"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "但至少可以陪着你"
+        },
+        {
+          "type": "emotion",
+          "description": "方晓晓的眼泪差点掉下来"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，我知道了"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "(内心)这一世，我一定会保护好你们的"
+        }
+      ]
+    }
+  ]
+}

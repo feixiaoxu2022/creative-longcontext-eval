@@ -1,0 +1,70 @@
+{
+"episode_id":3,
+"title": "北方信徒的诡异祈福",
+"scenes": [
+{
+"scene_id":1,
+"location": "北方信徒祈福地",
+"time": "夜",
+"atmosphere": "阴森诡异，气氛紧张",
+"initial_shot": "全景 -北方信徒祈福地，黑雾弥漫，信徒聚集",
+"characters": ["谢怜", "信徒首领", "花城（暗中）"],
+"content": [
+{"type": "action","content": "【全景】北方信徒祈福地，黑雾弥漫，信徒聚集在一起，进行诡异的祈福仪式。"
+},
+{"type": "action","content": "【推镜头】谢怜到达祈福地，观察信徒的行为，发现异常。"
+},
+{"type": "dialogue","character": "谢怜","emotion": "疑惑","content": "这些信徒的行为好诡异……"
+},
+{"type": "action","content": "【特写】信徒首领发现谢怜，命令信徒围攻谢怜。"
+},
+{"type": "dialogue","character": "信徒首领","emotion": "凶狠","content": "你是什么人？竟敢闯入我们的祈福地！"
+},
+{"type": "action","content": "【慢镜头】谢怜与信徒展开打斗，展现武力。"
+},
+{"type": "dialogue","character": "谢怜","emotion": "坚定","content": "我是来调查你们祈福事件的！"
+},
+{"type": "action","content": "【特写】花城暗中观察，准备帮助谢怜。"
+},
+{"type": "dialogue","character": "花城（OS·混响）","emotion": "混响","content": "殿下，我来帮你。"
+},
+{"type": "action","content": "【慢镜头】花城出手帮助谢怜，击退信徒。"
+},
+{"type": "dialogue","character": "谢怜","emotion": "惊讶","content": "是谁在帮我？"
+},
+{"type": "action","content": "【全景】信徒首领见势不妙，逃跑。"
+},
+{"type": "dialogue","character": "信徒首领","emotion": "凶狠","content": "你等着，我们不会放过你的！"
+},
+{"type": "action","content": "【特写】谢怜的表情，从惊讶到坚定。"
+},
+{"type": "dialogue","character": "谢怜","emotion": "坚定","content": "我一定会查清真相的！"
+}
+]
+},
+{
+"scene_id":2,
+"location": "一念桥（回忆）",
+"time": "日",
+"atmosphere": "古老神秘，气氛回忆",
+"initial_shot": "全景 -一念桥，桥下流水，谢怜回忆",
+"characters": ["谢怜", "鬼魂（回忆）", "神武大帝（回忆）"],
+"content": [
+{"type": "action","content": "【全景】一念桥，桥下流水，谢怜回忆起与鬼魂战斗的往事。"
+},
+{"type": "action","content": "【闪回】谢怜与鬼魂在一念桥上大战，展现武力与信念。"
+},
+{"type": "action","content": "【闪回】鬼魂消失后，谢怜在桥头种下花树，神武大帝出现。"
+},
+{"type": "action","content": "【闪回】神武大帝对谢怜的评价：'此子将来，不可限量。'"
+},
+{"type": "action","content": "【特写】谢怜的表情，从回忆到坚定。"
+},
+{"type": "dialogue","character": "谢怜（OS·混响）","emotion": "混响","content": "我一定会证明给你们看的，我不是废物。"
+},
+{"type": "action","content": "【全景】谢怜离开一念桥，继续调查信徒祈福事件。"
+}
+]
+}
+]
+}

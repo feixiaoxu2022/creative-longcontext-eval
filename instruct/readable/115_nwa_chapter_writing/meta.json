@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_qwen3-max-2026-01-23_NW_IP_MEDIUM_NEUTRAL_001_chapter_05",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "qwen3-max-2026-01-23",
+  "source_sample_id": "NW_IP_MEDIUM_NEUTRAL_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_05.md",
+  "output_type": "小说章节",
+  "genre": "neutral",
+  "sequence_num": 5,
+  "input_tokens_est": 26703,
+  "reference_output_tokens_est": 3033,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

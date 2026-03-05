@@ -1,0 +1,6 @@
+{
+ "episode_number":17,
+ "title":"申请贷款",
+ "total_scenes":3,
+ "scenes_detail": [{"scene_header":{"location":"银行", "time":"上午", "atmosphere":"正式"},"scene_number":1,"characters":["李建国","银行经理"],"content":[{"type":"action","description":"李建国提交申请材料"},{"type":"dialogue","character":"银行经理","text":"我们会尽快审核。"},{"type":"action","description":"李建国松了一口气"}]},{"scene_header":{"location":"李家", "time":"晚上", "atmosphere":"温馨"},"scene_number":2,"characters":["李建国", "刘凤兰"],"content":[{"type":"dialogue","character":"刘凤兰","text":"建国，好紧张啊。"},{"type":"dialogue","character":"李建国","text":"别担心，一定可以的。"},{"type":"emotion","description":"夫妻互相鼓励"}]},{"scene_header":{"location":"街道", "time":"傍晚", "atmosphere":"夕阳"},"scene_number":3,"characters":["李秀芳"],"content":[{"type":"action","description":"李秀芳放学回家"},{"type":"dialogue","character":"李秀芳","text":"（自言自语）希望爸妈能顺利。"},{"type":"emotion","description":"她为父母祈祷"}]}]
+}

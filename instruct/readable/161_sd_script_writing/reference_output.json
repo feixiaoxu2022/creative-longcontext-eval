@@ -1,0 +1,79 @@
+{
+  "episode_number": 21,
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "林家老宅",
+        "time": "白天",
+        "atmosphere": "愤怒与失望"
+      },
+      "characters": ["林秀兰", "林小军"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "白天，林家老宅里，林秀兰正在整理东西。突然听到门外有动静。"
+        },
+        {
+          "type": "action",
+          "character": "林秀兰",
+          "text": "林秀兰走到门口，看到老三林小军带着一个租客在院子里看房子。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "（愤怒）小军！你在干什么？"
+        },
+        {
+          "type": "action",
+          "character": "林小军",
+          "text": "林小军吓了一跳，脸色一变。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "（支支吾吾）大姐，我..."
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "（走向租客）这位先生，你是谁？"
+        },
+        {
+          "type": "dialogue",
+          "character": "租客",
+          "text": "（微笑）我是来租房的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "（冷冷地）租房？谁让你来的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "（辩解）大姐，租客已经付了定金。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "（愤怒）你眼里还有我这个大姐吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林小军",
+          "text": "（沉默）..."
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀兰",
+          "text": "（冷笑）小军，你太让我失望了。"
+        },
+        {
+          "type": "emotion",
+          "text": "林小军低下头，不敢看大姐的眼睛。"
+        }
+      ]
+    }
+  ]
+}

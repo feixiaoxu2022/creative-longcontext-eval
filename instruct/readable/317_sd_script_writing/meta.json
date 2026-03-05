@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_cw_glm45air_midt2602_decay_step2000_SD_E_revenge_drama_80_episode_63_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "cw_glm45air_midt2602_decay_step2000",
+  "source_sample_id": "SD_E_revenge_drama_80",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_63_script.json",
+  "output_type": "原创剧本",
+  "genre": "revenge_drama",
+  "sequence_num": 63,
+  "input_tokens_est": 79116,
+  "reference_output_tokens_est": 1366,
+  "length_bin": "70K-100K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

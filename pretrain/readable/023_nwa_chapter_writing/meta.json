@@ -1,0 +1,17 @@
+{
+  "id": "nwa_dsv1_openai/EB5-0209-A35B-midtrain-128k-chat_NW_ULTRA_SHORT_ANGSTY_002_chapter_39",
+  "scenario": "nwa",
+  "design_version": "dsv1",
+  "source_model": "openai/EB5-0209-A35B-midtrain-128k-chat",
+  "source_sample_id": "NW_ULTRA_SHORT_ANGSTY_002",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_39.md",
+  "output_type": "小说章节",
+  "genre": "angsty",
+  "sequence_num": 39,
+  "input_tokens_est": 6302,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

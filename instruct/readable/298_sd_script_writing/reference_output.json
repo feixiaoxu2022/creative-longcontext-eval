@@ -1,0 +1,131 @@
+{
+  "episode_number": 54,
+  "title": "永恒的誓言",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "海岛婚礼现场",
+        "time": "白天",
+        "atmosphere": "浪漫"
+      },
+      "characters": ["陈野", "苏晚棠", "宾客们"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈野和苏晚棠的婚礼在海岛举行。"
+        },
+        {
+          "type": "dialogue",
+          "character": "主持人",
+          "line": "陈野先生，你愿意娶苏晚棠小姐为妻吗？"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野深情地看着苏晚棠。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我愿意。"
+        },
+        {
+          "type": "dialogue",
+          "character": "主持人",
+          "line": "苏晚棠小姐，你愿意嫁给陈野先生吗？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚棠",
+          "description": "苏晚棠眼中含泪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "我愿意。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "婚礼现场",
+        "time": "下午",
+        "atmosphere": "幸福"
+      },
+      "characters": ["陈野", "苏晚棠"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "两人交换戒指。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野轻轻为苏晚棠戴上戒指。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "我爱你。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚棠",
+          "description": "苏晚棠为陈野戴上戒指。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "我也爱你。"
+        },
+        {
+          "type": "emotion",
+          "description": "宾客们掌声雷动。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "海边",
+        "time": "晚上",
+        "atmosphere": "温馨"
+      },
+      "characters": ["陈野", "苏晚棠", "小平安"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "婚礼结束后，陈野和苏晚棠在海边散步。"
+        },
+        {
+          "type": "action",
+          "character": "小平安",
+          "description": "小平安跑过来扑进父母怀里。"
+        },
+        {
+          "type": "dialogue",
+          "character": "小平安",
+          "line": "爸爸妈妈新婚快乐！"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野抱起儿子。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "谢谢你，平安。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚棠",
+          "line": "这就是我最幸福的时刻。"
+        }
+      ]
+    }
+  ]
+}

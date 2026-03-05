@@ -1,0 +1,157 @@
+{
+ "total_episodes":30,
+ "story_synopsis": "林晚意是林氏集团最耀眼的继承人，却在公司最艰难的时刻遭遇了来自亲信和族长们的背叛。被扫地出门100天后，她以一个神秘投资人的身份归来，开始一场精心布局的复仇。在这个过程中，她不得不面对道德的困境：当敌人跪在你面前时，你是否会给予原谅？当复仇走到尽头，你是否还是当初那个自己？",
+ "arc_description": "故事以林晚意为中心，展现一个商业精英从信任到被背叛，再到黑化复仇的完整弧线。核心戏剧张力在于：复仇的快感与道德代价之间的拉扯，以及让反派获得读者理解但不同情的角色塑造。",
+ "episodes": [
+ {
+ "episode_number":16,
+ "hook": "林晚意发现新敌人的真相",
+ "conflict": "原来最大的敌人是过去最信任的人",
+ "twist": "真相比想象中更复杂",
+ "emotional_peak": "林晚意第一次流泪",
+ "scenes": ["林家老宅密室"],
+ "characters_involved": ["林晚意"],
+ "title": "盟友"
+ },
+ {
+ "episode_number":17,
+ "hook": "陈景锋带来一个真相：林老太太只是冰山一角",
+ "conflict": "这是一个更大的阴谋",
+ "twist": "当年背叛林晚意的另有其人",
+ "emotional_peak": "林晚意重新审视自己的复仇对象",
+ "scenes": ["陈景锋律师事务所"],
+ "characters_involved": ["林晚意", "陈景锋"],
+ "title": "更大的网"
+ },
+ {
+ "episode_number":18,
+ "hook": "沈思瑶决定反水",
+ "conflict": "她开始收集证据",
+ "twist": "这需要她付出代价",
+ "emotional_peak": "沈思瑶做出牺牲",
+ "scenes": ["咖啡厅", "沈思瑶公寓"],
+ "characters_involved": ["林晚意", "沈思瑶"],
+ "title": "背叛的代价"
+ },
+ {
+ "episode_number":19,
+ "hook": "林晚意收到一个包裹",
+ "conflict": "里面有她母亲留下的东西",
+ "twist": "母亲早已预料到这一切",
+ "emotional_peak": "林晚意的复仇有了新的动力",
+ "scenes": ["林晚意公寓"],
+ "characters_involved": ["林晚意"],
+ "title": "母亲的力量"
+ },
+ {
+ "episode_number":20,
+ "hook": "林老太太动手了",
+ "conflict": "她开始用极端手段",
+ "twist": "沈思瑶被抓了",
+ "emotional_peak": "林晚意的道德困境加剧",
+ "scenes": ["林氏集团", "林老太太书房"],
+ "characters_involved": ["林老太太", "沈思瑶"],
+ "title": "绝地反击"
+ },
+ {
+ "episode_number":21,
+ "hook": "林晚意面临选择",
+ "conflict": "是救沈思瑶还是继续复仇",
+ "twist": "林晚意决定两者都要",
+ "emotional_peak": "她展示了真正的格局",
+ "scenes": ["林氏集团", "医院"],
+ "characters_involved": ["林晚意", "陈景锋", "沈思瑶"],
+ "title": "抉择"
+ },
+ {
+ "episode_number":22,
+ "hook": "第一波反击成功",
+ "conflict": "林老太太的势力开始瓦解",
+ "twist": "但真相还没完全揭开",
+ "emotional_peak": "林晚意胜利但并不喜悦",
+ "scenes": ["林氏集团", "林家老宅"],
+ "characters_involved": ["林晚意", "林老太太"],
+ "title": "第三幕高潮"
+ },
+ {
+ "episode_number":23,
+ "hook": "林晚意找到了证据",
+ "conflict": "所有真相将大白于天下",
+ "twist": "但最大的真相让人心碎",
+ "emotional_peak": "林晚意的复仇初心被动摇",
+ "scenes": ["档案室", "林晚意公寓"],
+ "characters_involved": ["林晚意"],
+ "title": "真相大白"
+ },
+ {
+ "episode_number":24,
+ "hook": "第四幕开始：林老太太最后的手段",
+ "conflict": "她要以命搏命",
+ "twist": "林晚意发现了林老太太的软肋",
+ "emotional_peak": "两代人的矛盾达到顶点",
+ "scenes": ["林老太太病房", "林氏集团"],
+ "characters_involved": ["林晚意", "林老太太"],
+ "title": "最后的博弈"
+ },
+ {
+ "episode_number":25,
+ "hook": "最后的对决",
+ "conflict": "正面交锋，生死对决",
+ "twist": "结果出乎意料",
+ "emotional_peak": "林晚意看到了人性",
+ "scenes": ["林家老宅", "大厅"],
+ "characters_involved": ["林晚意", "林老太太", "陈景锋"],
+ "title": "最终对决"
+ },
+ {
+ "episode_number":26,
+ "hook": "大结局前的黎明",
+ "conflict": "一切尘埃落定",
+ "twist": "但复仇的感觉不一样了",
+ "emotional_peak": "林晚意的内心平静",
+ "scenes": ["清晨的老城区", "林晚意公寓"],
+ "characters_involved": ["林晚意"],
+ "title": "黎明前的宁静"
+ },
+ {
+ "episode_number":27,
+ "hook": "真相最终揭晓",
+ "conflict": "当年背叛的真正原因",
+ "twist": "复杂的人性",
+ "emotional_peak": "理解但不同情",
+ "scenes": ["林氏集团董事会"],
+ "characters_involved": ["林晚意", "林老太太", "沈思瑶"],
+ "title": "理解的边界"
+ },
+ {
+ "episode_number":28,
+ "hook": "给所有人一个交代",
+ "conflict": "善有善报恶有恶报，但不是那么简单",
+ "twist": "每个人都有自己的结局",
+ "emotional_peak": "观众的情感共鸣",
+ "scenes": ["新闻发布会", "林氏集团"],
+ "characters_involved": ["林晚意", "沈思瑶", "陈景锋"],
+ "title": "交代"
+ },
+ {
+ "episode_number":29,
+ "hook": "林晚意的内心独白",
+ "conflict": "复仇之后，我是谁",
+ "twist": "她找到了答案",
+ "emotional_peak": "角色的成长完成",
+ "scenes": ["老城区咖啡厅", "街道"],
+ "characters_involved": ["林晚意"],
+ "title": "我是谁"
+ },
+ {
+ "episode_number":30,
+ "hook": "尾声：新的开始",
+ "conflict": "故事告一段落",
+ "twist": "林晚意没有彻底黑化",
+ "emotional_peak": "余韵悠长",
+ "scenes": ["林氏集团", "街道"],
+ "characters_involved": ["林晚意", "陈景锋"],
+ "title": "新的开始"
+ }
+ ]
+}

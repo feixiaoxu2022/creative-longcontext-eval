@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_cw_glm45air_midt2602_decay_step2000_SD_E_son_in_law_70_episode_61_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "cw_glm45air_midt2602_decay_step2000",
+  "source_sample_id": "SD_E_son_in_law_70",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_61_script.json",
+  "output_type": "原创剧本",
+  "genre": "son_in_law",
+  "sequence_num": 61,
+  "input_tokens_est": 5467,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

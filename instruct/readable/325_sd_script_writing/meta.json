@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_glm-5_SD_C_mystery_thriller_60_setting_h2198_episode_43_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "glm-5",
+  "source_sample_id": "SD_C_mystery_thriller_60_setting_h2198",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_43_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 43,
+  "input_tokens_est": 111921,
+  "reference_output_tokens_est": 2144,
+  "length_bin": "70K-100K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

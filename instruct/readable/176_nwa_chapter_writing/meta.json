@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_gemini-3-pro-preview_NW_CLEAR_MEDIUM_SWEET_001_chapter_10",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "gemini-3-pro-preview",
+  "source_sample_id": "NW_CLEAR_MEDIUM_SWEET_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_10.md",
+  "output_type": "小说章节",
+  "genre": "sweet",
+  "sequence_num": 10,
+  "input_tokens_est": 20345,
+  "reference_output_tokens_est": 940,
+  "length_bin": "20K-40K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

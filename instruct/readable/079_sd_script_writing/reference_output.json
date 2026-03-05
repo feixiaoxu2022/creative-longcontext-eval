@@ -1,0 +1,74 @@
+{
+ "episode_number":9,
+ "total_scenes":2,
+ "scenes_detail": [
+ {
+ "scene_header": {
+ "location": "林小萌家",
+ "time": "晚上10:00",
+ "atmosphere": "深夜的焦虑"
+ },
+ "characters": ["林小萌", "王思琪"],
+ "content": [
+ {
+ "type": "dialogue",
+ "character": "林小萌",
+ "line": "思琪，我总觉得顾夜晨在隐瞒什么"
+ },
+ {
+ "type": "dialogue",
+ "character": "王思琪",
+ "line": "也许他真的有不想说的事情"
+ },
+ {
+ "type": "action",
+ "character": "林小萌",
+ "description": "林小萌叹气，眼神担忧"
+ },
+ {
+ "type": "dialogue",
+ "character": "林小萌",
+ "line": "我有点害怕，不知道该不该问"
+ },
+ {
+ "type": "emotion",
+ "text": "闺蜜之间的延迟沟通，映照出林小萌内心的矛盾"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "林小萌家阳台",
+ "time": "晚上11:00",
+ "atmosphere": "打破沉默的时刻"
+ },
+ "characters": ["林小萌", "顾夜晨"],
+ "content": [
+ {
+ "type": "dialogue",
+ "character": "林小萌",
+ "line": "你还有事情瞒着我吗"
+ },
+ {
+ "type": "action",
+ "character": "顾夜晨",
+ "description": "顾夜晨犹豫的小动作"
+ },
+ {
+ "type": "dialogue",
+ "character": "顾夜晨",
+ "line": "不是不想说，是怕改变你对我的看法"
+ },
+ {
+ "type": "dialogue",
+ "character": "林小萌",
+ "line": "我更想了解真实的你"
+ },
+ {
+ "type": "emotion",
+ "text": "两人对视，达成和解的决心"
+ }
+ ]
+ }
+ ]
+}

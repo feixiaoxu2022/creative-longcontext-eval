@@ -1,0 +1,71 @@
+{
+  "episode_number": 27,
+  "title": "全线出击",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "罗峥办公室",
+        "time": "清晨",
+        "atmosphere": "五条战线同时展开"
+      },
+      "characters": ["沈厉", "罗峥", "苏小盏", "郑可薇", "陈若筠", "韩正勋"],
+      "content": [
+        {"type": "action", "character": "沈厉", "description": "白板上画着五条平行线——每条线的负责人和任务清清楚楚。沈厉站在白板前，这一次他不只是听众，他是指挥官。"},
+        {"type": "dialogue", "character": "沈厉", "line": "各战线确认。罗峥——"},
+        {"type": "dialogue", "character": "罗峥", "line": "商业围堵。联合赵锦程的前合作伙伴和竞争对手，切断他所有的资金来源和退路。今天之内完成。"},
+        {"type": "dialogue", "character": "沈厉", "line": "小盏——"},
+        {"type": "dialogue", "character": "苏小盏", "line": "信息战。持续追踪雇佣兵动向，实时同步给韩叔那边的军方行动组。所有电子眼都是我的眼睛。"},
+        {"type": "dialogue", "character": "沈厉", "line": "可薇——"},
+        {"type": "dialogue", "character": "郑可薇", "line": "舆论战。赵锦程的商业犯罪证据今天下午通过三家媒体同步发布。他的公众形象今天死。"},
+        {"type": "dialogue", "character": "沈厉", "line": "若筠——"},
+        {"type": "dialogue", "character": "陈若筠", "line": "法律证据整理。检方需要的所有材料我已经归档完毕。今天上午递交。"},
+        {"type": "dialogue", "character": "沈厉", "line": "韩叔——"},
+        {"type": "dialogue", "character": "韩正勋", "line": "军方特别行动组已部署到位。雇佣兵的落脚点已锁定。等你的信号。"},
+        {"type": "dialogue", "character": "沈厉", "line": "我负责正面——如果有任何漏网之鱼。"},
+        {"type": "emotion", "description": "五条战线，五个战场。每个人都在做自己最擅长的事。这不是一个战神碾压一切的故事——这是一个团队每个人都不可替代的故事。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "商业区停车场",
+        "time": "下午",
+        "atmosphere": "师生逆转的时刻"
+      },
+      "characters": ["沈厉", "罗峥"],
+      "content": [
+        {"type": "action", "character": "罗峥", "description": "罗峥在完成一场切断赵锦程资金链的商业会面后，走向停车场。两个陌生人从柱子后面闪出来——雇佣兵的目标不只是沈厉，队友也在名单上。"},
+        {"type": "action", "character": "罗峥", "description": "罗峥没有慌。他想起沈厉教过他的应急处理——利用地形。他翻过一辆车的引擎盖拉开距离，用手机按下了紧急求援。"},
+        {"type": "dialogue", "character": "罗峥", "line": "沈厉教的——利用遮挡物拉开距离，等待支援。"},
+        {"type": "action", "character": "罗峥", "description": "他坚持了四分钟。然后停车场的另一端传来急促的脚步声——沈厉到了。"},
+        {"type": "action", "character": "沈厉", "description": "两个雇佣兵转向沈厉。结果在十秒内结束——沈厉的速度和精准度让这两个职业杀手完全没有还手之力。"},
+        {"type": "dialogue", "character": "沈厉", "line": "老罗，没事吧？"},
+        {"type": "dialogue", "character": "罗峥", "line": "没事。你教我的那一套——管用。"},
+        {"type": "dialogue", "character": "沈厉", "line": "看来我们互相教了不少。"},
+        {"type": "emotion", "description": "罗峥教沈厉做生意，沈厉教罗峥保命。最好的团队就是这样——每个人补上另一个人的短板。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "媒体中心",
+        "time": "傍晚",
+        "atmosphere": "舆论战场的冲锋号"
+      },
+      "characters": ["郑可薇", "罗峥"],
+      "content": [
+        {"type": "action", "character": "郑可薇", "description": "新闻发布会现场。台下坐满了记者。郑可薇站在台侧准备上场——她的手在抖。"},
+        {"type": "action", "character": "郑可薇", "description": "手机震动。罗峥的消息：'怕了？'"},
+        {"type": "action", "character": "郑可薇", "description": "她打字回复：'怕个屁。'"},
+        {"type": "action", "character": "郑可薇", "description": "然后她把手机收起来，深吸一口气，踩着高跟鞋走上台。"},
+        {"type": "dialogue", "character": "郑可薇", "line": "各位媒体朋友，今天我代表多家受害企业，公开一份关于锦程地产赵锦程的完整犯罪证据链——"},
+        {"type": "action", "character": "郑可薇", "description": "她的声音稳定而有力。投影仪上显示出苏小盏整理的数据、罗峥提供的录音、陈若筠归档的法律文件。"},
+        {"type": "emotion", "description": "她不是一个人在战斗。台上是她的声音，背后是整个团队的弹药。每一份证据背后都有一个人的名字——罗峥的冒险、苏小盏的不眠夜、陈若筠的细致、沈厉的保护。"},
+        {"type": "dialogue", "character": "郑可薇", "line": "赵锦程先生的'君子商人'形象背后——是行贿、洗钱、非法拘禁、威胁恐吓。以上证据已同步提交检方。"},
+        {"type": "emotion", "description": "闪光灯此起彼伏。赵锦程的帝国——在舆论场上也开始崩塌了。"}
+      ]
+    }
+  ]
+}

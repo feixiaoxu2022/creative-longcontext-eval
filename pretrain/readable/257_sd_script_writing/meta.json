@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_MiniMax-M2.5_SD_E_transmigration_60_episode_35_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "MiniMax-M2.5",
+  "source_sample_id": "SD_E_transmigration_60",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_35_script.json",
+  "output_type": "原创剧本",
+  "genre": "transmigration",
+  "sequence_num": 35,
+  "input_tokens_est": 7697,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

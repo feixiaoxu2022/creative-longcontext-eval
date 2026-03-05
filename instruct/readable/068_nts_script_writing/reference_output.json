@@ -1,0 +1,332 @@
+{
+  "episode_number": 3,
+  "title": "室友的私密时刻",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "男生卧室",
+      "time_of_day": "上午",
+      "atmosphere": "私密空间中微妙的心动感",
+      "initial_shot": "【中景】众人放好行李，沈央和宿寒英进入他们的房间",
+      "characters": ["沈央", "宿寒英"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【中景】众人放好行李，沈央和宿寒英进入他们的房间。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】房间以蓝色为主色调，两张单人床，衣柜，落地窗透入柔和光线。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央带的东西不多，很快整理好。他见宿寒英还在慢条斯理地挂衣服。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "顺口",
+          "text": "要帮忙吗？"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央以为以宿寒英的高冷会拒绝，但对方却笑了笑。"
+        },
+        {
+          "type": "dialogue",
+          "character": "宿寒英",
+          "emotion": "温和",
+          "text": "谢谢。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央被宿寒英的笑晃了下眼睛。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "心动",
+          "text": "这人笑起来可真好看……不对，不笑的时候也很好看，一笑就是好看x2。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "吐槽",
+          "text": "作为钢铁直男，我的形容词一贯匮乏。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：温柔心动的钢琴曲"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "男生卧室",
+      "time_of_day": "上午",
+      "atmosphere": "尴尬又微妙的亲密时刻",
+      "initial_shot": "【中景】宿寒英已经归置好了杂物，行李箱中还放着几套衣裤",
+      "characters": ["沈央", "宿寒英"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "客气",
+          "text": "不客气。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央见宿寒英已经归置好了杂物，行李箱中还放着几套衣裤，分别用几个密封袋装着。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "观察",
+          "text": "仅这一个细节，我就读出了"洁癖"、"龟毛"两个词……莫非宿寒英还是个处女座？"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央毫无愧疚地拉开密封袋，发现宿寒英的衣服最次也是轻奢。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "推断",
+          "text": "家境应该很好。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】行李箱的东西逐渐减少，最后就只剩下一个包装精致的纸盒。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央本能地拿起来，一看居然是盒四条装的内裤，顿时抖了下手。"
+        },
+        {
+          "type": "action",
+          "text": "【慢镜头】【特写】沈央匆匆上缴，两人传递纸盒时手指相触。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】宿寒英五指修长，微微泛凉。沈央下意识松开手。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：心跳声加速 *咚咚咚*"
+        },
+        {
+          "type": "action",
+          "text": "【中景】就在两人传递时，导演突然驾临。"
+        },
+        {
+          "type": "action",
+          "text": "【仰拍】导演站在门口，脸犹如中学时教导主任。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "严肃",
+          "text": "你们收拾好了吗？"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央回头，对上导演的脸，不自觉气弱。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "温驯",
+          "text": "差不多好了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "公事公办",
+          "text": "那准备录单采，其他人都已经录了。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央愣了下，想起节目组提前交代过第一期要录制单人采访，忍不住吞了口唾沫。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "紧张",
+          "text": "心里一阵紧张……"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "询问",
+          "text": "你俩谁先来？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央不知所措，看向宿寒英。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】宿寒英关上衣柜门。"
+        },
+        {
+          "type": "dialogue",
+          "character": "宿寒英",
+          "emotion": "平静",
+          "text": "他先去。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "无奈",
+          "text": "……好。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "庆幸",
+          "text": "丝毫没有反抗精神，甚至庆幸对方替他做了选择。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：紧张感音乐渐入"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "location": "单采室",
+      "time_of_day": "上午",
+      "atmosphere": "紧张压抑，被镜头包围的压迫感",
+      "initial_shot": "【全景】封闭小房间，密集摄像机和设备，冷色调灯光",
+      "characters": ["沈央", "导演"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】单采室是封闭小房间，密集的摄像机和设备，冷色调灯光。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央进入单采室，深吸口气，僵硬入座。"
+        },
+        {
+          "type": "action",
+          "text": "【主观镜头】望着前方密集的设备和人头，沈央有种罪犯面临审问的荒诞感。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "安抚",
+          "text": "别紧张，就随便介绍下自己，说说你对恋爱的看法，或者为什么来这个节目、有什么展望等等，自由发挥，都可以。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央深吸口气。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "指令",
+          "text": "ok，开始。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央勉强挤出笑容，一口朗诵腔。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "朗诵腔",
+          "text": "观众朋友们大家好！我是嘉宾沈央，沈是——"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "皱眉",
+          "text": "停！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】导演皱了皱眉。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "无奈",
+          "text": "这段播出时会给字幕，你不用说得太具体，放松点儿……"
+        },
+        {
+          "type": "action",
+          "text": "【近景】见沈央茫然眨眼，导演隐隐头疼。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "放弃",
+          "text": "算了，你随便说。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央双唇一抿，重振旗鼓。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "认真",
+          "text": "电视机前的朋友们——"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "纠正",
+          "text": "我们是网播。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央表情凝固。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "崩溃",
+          "text": "……"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "再来",
+          "text": "朋友们好，我叫沈央，很高兴受到节目组邀约，能参加《心动28天》这档新奇有趣的综艺。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "紧张",
+          "text": "在来节目之前我曾一度犹豫，因为我的性格比较内向，不擅与陌生人——"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "喊停",
+          "text": "停！人设崩了！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央表情彻底僵住。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "绝望",
+          "text": "所谓一鼓作气势如虎，再而衰三而竭……"
+        },
+        {
+          "type": "effect",
+          "text": "【画面定格】沈央生无可恋的脸"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：喜剧效果的尴尬音乐"
+        }
+      ]
+    }
+  ]
+}

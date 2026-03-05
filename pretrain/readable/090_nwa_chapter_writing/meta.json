@@ -1,0 +1,17 @@
+{
+  "id": "nwa_dsv2_claude-opus-4-5-20251101_NW_CLEAR_MEDIUM_HEROINE_001_chapter_14",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "claude-opus-4-5-20251101",
+  "source_sample_id": "NW_CLEAR_MEDIUM_HEROINE_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_14.md",
+  "output_type": "小说章节",
+  "genre": "heroine",
+  "sequence_num": 14,
+  "input_tokens_est": 20596,
+  "length_bin": "20K-40K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

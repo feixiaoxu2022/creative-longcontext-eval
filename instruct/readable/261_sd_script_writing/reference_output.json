@@ -1,0 +1,51 @@
+{
+  "episode_number": 55,
+  "title": "转移",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "海神号各层（撤离中）", "time": "凌晨", "atmosphere": "船体倾斜角度越来越大，走廊里的物品滚落一地，乘客们在恐慌中互相推搡"},
+      "characters": ["程砚之", "方晴"],
+      "content": [
+        {"type": "action", "description": "程砚之把最后一个行动不便的老年乘客背在肩上，在倾斜的走廊里艰难前行。方晴走在队伍前面，用律师法庭上练出来的穿透力嗓音指挥"},
+        {"type": "dialogue", "character": "方晴", "line": "不要跑！扶着扶手有序前进！左侧楼梯通往三层甲板——所有人向三层以上转移！"},
+        {"type": "action", "description": "一名年轻女乘客脚下一滑差点摔倒，程砚之一只手背着老人一只手稳住了她"},
+        {"type": "dialogue", "character": "程砚之", "line": "抓紧我的胳膊，跟着走。"},
+        {"type": "action", "description": "海水已经淹没了底层和一层的大部分区域。走廊里的灯光全部熄灭，只有乘客们手里零星的手电筒和手机屏幕在黑暗中摇晃，像一条由光点组成的河流向上流淌"},
+        {"type": "emotion", "description": "混乱中人性的两面同时暴露——有人推搡抢路，也有人主动帮助老弱。程砚之的白大褂在黑暗中格外醒目，像一面移动的白旗，引导着惊恐的人群"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "二层走廊", "time": "凌晨", "atmosphere": "二层走廊尽头处，何蔚蓝靠在墙上无法前进——她的腿完全使不上力"},
+      "characters": ["程砚之", "何蔚蓝"],
+      "content": [
+        {"type": "action", "description": "程砚之把老人交给方晴后跑回来找何蔚蓝。她蜷在走廊角落里，脸色蜡黄，嘴唇发紫。之前被追兵推倒时的伤口在衣服下渗出了血"},
+        {"type": "dialogue", "character": "程砚之", "line": "你的伤——让我看看。"},
+        {"type": "action", "description": "他掀开何蔚蓝的外套——腰部有一道深长的裂伤，一直在流血，她用围巾压住了但血已经浸透了。中毒后遗症加上失血，她的身体已经到了极限"},
+        {"type": "dialogue", "character": "何蔚蓝", "line": "别管我。硬盘在你那里——你得活着出去。"},
+        {"type": "dialogue", "character": "程砚之", "line": "让我先看看伤口。"},
+        {"type": "action", "description": "他从口袋里掏出随身携带的急救包，快速做了加压包扎。然后二话不说蹲下身去"},
+        {"type": "dialogue", "character": "程砚之", "line": "上来。我背你。"},
+        {"type": "dialogue", "character": "何蔚蓝", "line": "你疯了吗——你还要管别的伤员——"},
+        {"type": "dialogue", "character": "程砚之", "line": "你也是我的伤员。上来。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "高层甲板", "time": "黎明前", "atmosphere": "三层以上的甲板挤满了转移上来的乘客，暴风雨开始减弱但风仍然很大"},
+      "characters": ["程砚之", "何蔚蓝", "方晴"],
+      "content": [
+        {"type": "action", "description": "程砚之背着何蔚蓝走上高层甲板时，天边有了一丝灰白——黎明快到了。暴风雨的威力在减弱，浪头没有之前那么疯狂了"},
+        {"type": "action", "description": "他把何蔚蓝放在一处避风的角落，方晴跑过来递上毛毯和水"},
+        {"type": "dialogue", "character": "何蔚蓝", "line": "我以前只想着保护自己……没想到最后一次勇敢是为了别人。"},
+        {"type": "action", "description": "她苦笑了一下，虚弱地靠在舱壁上。走了一路的血迹从二层延伸到这里"},
+        {"type": "dialogue", "character": "方晴", "line": "所有乘客已经转移到三层以上。底层和一层全部被淹。船体倾斜还在加大——如果阀门关不上……"},
+        {"type": "dialogue", "character": "程砚之", "line": "顾北辰下去了。"},
+        {"type": "action", "description": "三个人沉默。方晴看向船尾的方向——底舱入口的位置。海水还在涌入，但顾北辰已经进去了很久，没有消息"},
+        {"type": "emotion", "description": "黎明前最黑暗的时刻。整艘船在暴风雨中缓慢倾斜，像一头受伤的巨兽在海面上挣扎。所有人的命运都系在一个潜入船底的人身上"}
+      ]
+    }
+  ]
+}

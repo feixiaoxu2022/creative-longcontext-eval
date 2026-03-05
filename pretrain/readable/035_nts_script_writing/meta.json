@@ -1,0 +1,17 @@
+{
+  "id": "nts_nts_v3_/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/_NTS_URBAN_FANTASY_LONG_5EP_FLEX_DOUYIN_001_episode_2",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/",
+  "source_sample_id": "NTS_URBAN_FANTASY_LONG_5EP_FLEX_DOUYIN_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_2.json",
+  "output_type": "改编剧本",
+  "genre": "urban_fantasy",
+  "sequence_num": 2,
+  "input_tokens_est": 4199,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

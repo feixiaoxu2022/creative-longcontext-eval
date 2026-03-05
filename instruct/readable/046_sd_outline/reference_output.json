@@ -1,0 +1,546 @@
+{
+  "total_episodes": 60,
+  "story_synopsis": "天才建筑师林浅被恩师顾城陷害入狱，三年后出狱，她利用顾城教给她的一切手段，步步为营，从底层清洁工做起，先利用师妹苏曼的嫉妒心瓦解顾城的防线，最终在顾城最在意的全球地标设计大赛上，用顾城无法破解的'完美设计'将其击败，揭露其伪善面目。",
+  "episodes": [
+    {
+      "episode_number": 1,
+      "hook": "庆功宴上，顾城当众宣布林浅是项目负责人，随即警察进场逮捕林浅。",
+      "conflict": "林浅被指控商业欺诈，顾城拿出伪造的证据。",
+      "twist": "林浅以为是误会向师父求助，顾城冷漠地关上了车门。",
+      "emotional_peak": "林浅被带上警车，看着顾城在媒体前假装痛心疾首。",
+      "scenes": ["庆功宴大厅", "警车内"],
+      "characters_involved": ["林浅", "顾城", "苏曼", "警察"]
+    },
+    {
+      "episode_number": 2,
+      "hook": "监狱探视室，顾城隔着玻璃递给林浅一份认罪书。",
+      "conflict": "顾城用林浅家人的前途威胁她认罪。",
+      "twist": "顾城说出真相：'你的才华太耀眼，挡了我的路'。",
+      "emotional_peak": "林浅含泪签下认罪书，眼神从绝望变得冰冷。",
+      "scenes": ["监狱探视室", "林浅牢房"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 3,
+      "hook": "三年后出狱，林浅站在顾城设计的地标大楼下，大楼屏幕正播放顾城的演讲。",
+      "conflict": "林浅找工作处处碰壁，被行业封杀。",
+      "twist": "林浅在垃圾桶捡到一张陆野公司的招聘传单（清洁工）。",
+      "emotional_peak": "林浅看着自己粗糙的双手，握紧了拳头。",
+      "scenes": ["监狱大门", "人才市场", "街头"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 4,
+      "hook": "林浅在陆野公司做清洁，听到陆野在会议室发火骂设计师是废物。",
+      "conflict": "陆野的项目遇到结构难题，无人能解。",
+      "twist": "林浅趁夜深人静，在白板上画出了解决方案。",
+      "emotional_peak": "陆野第二天看到图纸的震惊。",
+      "scenes": ["陆野公司会议室", "茶水间"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 5,
+      "hook": "陆野调监控找到林浅，把她堵在厕所门口。",
+      "conflict": "陆野质疑清洁工怎么懂建筑结构。",
+      "twist": "林浅承认身份，陆野反而笑了：'敌人的敌人'。",
+      "emotional_peak": "陆野扔给林浅一套职业装：'别给我丢人'。",
+      "scenes": ["公司走廊", "陆野办公室"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 6,
+      "hook": "林浅作为陆野助理出席行业酒会，冤家路窄遇到苏曼。",
+      "conflict": "苏曼当众羞辱林浅是劳改犯。",
+      "twist": "林浅不卑不亢，指出苏曼身上礼服的设计缺陷，导致苏曼当场出丑。",
+      "emotional_peak": "苏曼气急败坏，顾城在远处冷眼旁观。",
+      "scenes": ["酒会现场"],
+      "characters_involved": ["林浅", "苏曼", "顾城", "陆野"]
+    },
+    {
+      "episode_number": 7,
+      "hook": "顾城主动走过来和林浅打招呼，表现得像个宽容的长辈。",
+      "conflict": "顾城暗示陆野不要用有污点的人。",
+      "twist": "陆野当众搂住林浅：'我就喜欢有故事的人'。",
+      "emotional_peak": "林浅看着顾城虚伪的笑脸，心中燃起复仇之火。",
+      "scenes": ["酒会角落"],
+      "characters_involved": ["林浅", "顾城", "陆野"]
+    },
+    {
+      "episode_number": 8,
+      "hook": "陆野公司竞标顾城的项目，林浅主笔。",
+      "conflict": "苏曼试图收买陆野公司的员工偷图纸。",
+      "twist": "林浅早就料到，故意放了一份假图纸。",
+      "emotional_peak": "林浅看着监控里的内鬼，冷笑：'师父教的第一课，防人之心'。",
+      "scenes": ["陆野公司设计部", "监控室"],
+      "characters_involved": ["林浅", "陆野", "苏曼"]
+    },
+    {
+      "episode_number": 9,
+      "hook": "竞标现场，苏曼自信满满地展示方案（偷来的假方案）。",
+      "conflict": "评委指出方案中的致命结构错误。",
+      "twist": "林浅拿出真正的方案，完美解决了所有问题。",
+      "emotional_peak": "苏曼在台上不知所措，顾城脸色铁青。",
+      "scenes": ["竞标会议室"],
+      "characters_involved": ["林浅", "苏曼", "顾城", "陆野"]
+    },
+    {
+      "episode_number": 10,
+      "hook": "顾城在后台狠狠打了苏曼一巴掌。",
+      "conflict": "顾城警告苏曼不要再轻敌。",
+      "twist": "林浅在门外听得一清二楚，录下了声音。",
+      "emotional_peak": "林浅意识到顾城开始慌了。",
+      "scenes": ["后台休息室", "走廊"],
+      "characters_involved": ["林浅", "苏曼", "顾城"]
+    },
+    {
+      "episode_number": 11,
+      "hook": "林浅把录音匿名发给苏曼的竞争对手。",
+      "conflict": "苏曼在公司地位受损，急于立功。",
+      "twist": "林浅故意在社交媒体放出'灵感碎片'，引诱苏曼抄袭。",
+      "emotional_peak": "苏曼看着那些精妙的设计，贪婪战胜了理智。",
+      "scenes": ["苏曼办公室", "林浅公寓"],
+      "characters_involved": ["林浅", "苏曼"]
+    },
+    {
+      "episode_number": 12,
+      "hook": "苏曼发布新设计，获得好评。",
+      "conflict": "陆野担心林浅被抢了风头。",
+      "twist": "林浅淡定喝茶：'让子弹飞一会儿'。",
+      "emotional_peak": "林浅眼中的算计让陆野感到一丝寒意。",
+      "scenes": ["陆野办公室"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 13,
+      "hook": "苏曼的设计在施工中出现严重沉降问题。",
+      "conflict": "顾城公司面临巨额索赔。",
+      "twist": "那个设计缺陷是林浅特意留下的'陷阱'。",
+      "emotional_peak": "苏曼崩溃求助顾城，顾城却在考虑弃车保帅。",
+      "scenes": ["施工现场", "顾城办公室"],
+      "characters_involved": ["苏曼", "顾城", "林浅"]
+    },
+    {
+      "episode_number": 14,
+      "hook": "顾城召开新闻发布会，将责任全推给苏曼。",
+      "conflict": "苏曼不甘心背锅，想要爆料。",
+      "twist": "顾城拿出苏曼贪污公款的证据威胁她闭嘴。",
+      "emotional_peak": "苏曼绝望地看着曾经敬仰的师父。",
+      "scenes": ["发布会现场", "后台"],
+      "characters_involved": ["顾城", "苏曼"]
+    },
+    {
+      "episode_number": 15,
+      "hook": "林浅在酒吧找到买醉的苏曼。",
+      "conflict": "苏曼想打林浅，却被林浅制住。",
+      "twist": "林浅递给苏曼一张机票：'滚得越远越好'。",
+      "emotional_peak": "苏曼问为什么，林浅：'因为我要亲手收拾他，你不够格'。",
+      "scenes": ["酒吧", "街头"],
+      "characters_involved": ["林浅", "苏曼"]
+    },
+    {
+      "episode_number": 16,
+      "hook": "顾城亲自接手项目，试图挽回声誉。",
+      "conflict": "顾城发现业内开始流传'顾城江郎才尽'的谣言。",
+      "twist": "谣言的源头正是陆野控制的媒体。",
+      "emotional_peak": "顾城看着负面报道，摔碎了心爱的茶杯。",
+      "scenes": ["顾城书房", "陆野办公室"],
+      "characters_involved": ["顾城", "陆野"]
+    },
+    {
+      "episode_number": 17,
+      "hook": "顾城邀请林浅'回家'吃饭。",
+      "conflict": "鸿门宴，顾城试探林浅的底牌。",
+      "twist": "顾城提出让林浅重回师门，条件是离开陆野。",
+      "emotional_peak": "林浅笑着拒绝：'师父，好马不吃回头草'。",
+      "scenes": ["顾城家餐厅"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 18,
+      "hook": "顾城开始动用人脉封杀陆野的公司。",
+      "conflict": "陆野的资金链断裂，项目停工。",
+      "twist": "林浅拿出自己积攒的所有积蓄支持陆野。",
+      "emotional_peak": "陆野感动，两人关系升温。",
+      "scenes": ["陆野公司", "银行"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 19,
+      "hook": "林浅提议参加'未来城市'概念设计赛，奖金丰厚。",
+      "conflict": "顾城也是评委之一。",
+      "twist": "林浅使用了化名参赛。",
+      "emotional_peak": "顾城看着那份熟悉风格的设计稿，陷入沉思。",
+      "scenes": ["组委会办公室", "林浅工作室"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 20,
+      "hook": "顾城试图找出化名背后的设计师。",
+      "conflict": "顾城派人跟踪林浅。",
+      "twist": "林浅利用反跟踪技巧，把人引到了顾城的竞争对手那里。",
+      "emotional_peak": "顾城以为是竞争对手在搞鬼，转移了注意力。",
+      "scenes": ["街道", "竞争对手公司楼下"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 21,
+      "hook": "比赛结果公布，化名选手夺冠。",
+      "conflict": "颁奖典礼上，林浅盛装出席领奖。",
+      "twist": "顾城不得不亲自给林浅颁奖。",
+      "emotional_peak": "林浅在耳边对顾城说：'师父，这奖杯沉吗？'。",
+      "scenes": ["颁奖典礼舞台"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 22,
+      "hook": "顾城恼羞成怒，决定对林浅下狠手。",
+      "conflict": "顾城找人破坏林浅正在负责的工地。",
+      "twist": "林浅每晚都亲自巡视工地，抓住了破坏者。",
+      "emotional_peak": "破坏者供出是顾城指使，但没有实证。",
+      "scenes": ["工地夜景", "派出所"],
+      "characters_involved": ["林浅", "陆野", "顾城"]
+    },
+    {
+      "episode_number": 23,
+      "hook": "林浅决定主动出击，调查顾城的成名作。",
+      "conflict": "资料都被销毁了，无从查起。",
+      "twist": "陆野找到了当年顾城自杀徒弟的日记本。",
+      "emotional_peak": "林浅读着日记，仿佛看到了当年的自己。",
+      "scenes": ["旧图书馆", "林浅公寓"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 24,
+      "hook": "林浅拿着日记复印件去找顾城。",
+      "conflict": "顾城看到日记脸色大变，试图抢夺。",
+      "twist": "林浅告诉他这只是复印件，原件在安全的地方。",
+      "emotional_peak": "顾城第一次在林浅面前露出了恐惧。",
+      "scenes": ["顾城办公室"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 25,
+      "hook": "顾城假装妥协，提出退休，推荐林浅接班。",
+      "conflict": "陆野警告林浅这是陷阱。",
+      "twist": "林浅明知是计，偏要入局：'不入虎穴，焉得虎子'。",
+      "emotional_peak": "林浅走进顾氏大楼，众人侧目。",
+      "scenes": ["顾氏大楼大堂", "陆野车内"],
+      "characters_involved": ["林浅", "陆野", "顾城"]
+    },
+    {
+      "episode_number": 26,
+      "hook": "林浅接手顾氏的一个烂尾项目。",
+      "conflict": "项目资金亏空巨大，是顾城留下的雷。",
+      "twist": "林浅利用这个项目做成了公益社区，赢得了政府支持。",
+      "emotional_peak": "顾城看着新闻报道，发现自己反而帮了林浅。",
+      "scenes": ["烂尾楼现场", "政府办公室"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 27,
+      "hook": "顾城联合董事会弹劾林浅。",
+      "conflict": "董事们只看利益，被顾城煽动。",
+      "twist": "陆野突然出现，宣布收购了顾氏30%的股份。",
+      "emotional_peak": "陆野坐在董事席上：'现在，谁赞成，谁反对？'。",
+      "scenes": ["董事会议室"],
+      "characters_involved": ["林浅", "陆野", "顾城"]
+    },
+    {
+      "episode_number": 28,
+      "hook": "顾城意识到必须除掉陆野才能动林浅。",
+      "conflict": "顾城向监管机构举报陆野资金来源不明。",
+      "twist": "陆野被带走调查，公司资产冻结。",
+      "emotional_peak": "林浅看着陆野被带走，陆野用口型说：'信我'。",
+      "scenes": ["陆野公司大楼", "林浅办公室"],
+      "characters_involved": ["林浅", "陆野", "顾城"]
+    },
+    {
+      "episode_number": 29,
+      "hook": "林浅孤立无援，顾城重掌大权。",
+      "conflict": "顾城逼林浅交出日记本，否则让陆野坐牢。",
+      "twist": "林浅交出了日记本，顾城当面烧毁。",
+      "emotional_peak": "火光映照着顾城狰狞的脸，林浅面无表情。",
+      "scenes": ["顾城别墅壁炉前"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 30,
+      "hook": "顾城以为高枕无忧，宣布复出。",
+      "conflict": "林浅被赶出顾氏，回到原点。",
+      "twist": "林浅其实早就扫描了日记，且日记只是诱饵。",
+      "emotional_peak": "林浅在雨中看着顾氏大楼：'好戏才刚开始'。",
+      "scenes": ["雨夜街头"],
+      "characters_involved": ["林浅"]
+    },
+    {
+      "episode_number": 31,
+      "hook": "全球地标设计大赛启动，这是建筑界的奥林匹克。",
+      "conflict": "顾城势在必得，想要以此封神。",
+      "twist": "林浅以个人名义报名，抵押了房产交报名费。",
+      "emotional_peak": "林浅在报名表上签下名字，笔尖划破纸张。",
+      "scenes": ["报名处", "林浅家中"],
+      "characters_involved": ["林浅"]
+    },
+    {
+      "episode_number": 32,
+      "hook": "陆野洗清嫌疑回归，但元气大伤。",
+      "conflict": "两人没钱没团队，只能在地下室办公。",
+      "twist": "以前被顾城打压过的设计师们纷纷来投奔林浅。",
+      "emotional_peak": "看着满屋子志同道合的人，林浅热泪盈眶。",
+      "scenes": ["地下室工作室"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 33,
+      "hook": "顾城买通评委，修改比赛规则针对林浅。",
+      "conflict": "规则要求必须有甲级资质单位推荐。",
+      "twist": "一位隐退多年的老建筑师出山推荐了林浅。",
+      "emotional_peak": "老建筑师正是当年被顾城逼走的前辈。",
+      "scenes": ["评委会", "老建筑师家"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 34,
+      "hook": "第一轮初赛，题目是'重生'。",
+      "conflict": "顾城的设计华丽宏大，林浅的设计朴实无华。",
+      "twist": "林浅的设计理念暗合了城市环保主题，高分晋级。",
+      "emotional_peak": "顾城在台下握断了笔。",
+      "scenes": ["初赛展示厅"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 35,
+      "hook": "顾城派人偷林浅的电脑。",
+      "conflict": "工作室被盗，所有数据丢失。",
+      "twist": "林浅早就把核心数据存在了云端，且加密了。",
+      "emotional_peak": "小偷打开电脑只看到一行字：'师父，这招过时了'。",
+      "scenes": ["工作室", "顾城办公室"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 36,
+      "hook": "顾城利用媒体造谣林浅抄袭国外作品。",
+      "conflict": "舆论哗然，组委会要求林浅解释。",
+      "twist": "林浅拿出创作全过程的延时摄影，自证清白。",
+      "emotional_peak": "舆论反转，网友开始质疑顾城的人品。",
+      "scenes": ["新闻发布会", "网络论坛"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 37,
+      "hook": "决赛前夕，顾城约见林浅。",
+      "conflict": "顾城打感情牌，回忆当年的师徒情。",
+      "twist": "林浅不为所动，指出顾城当年如何利用她的信任。",
+      "emotional_peak": "顾城撕下面具：'既然你找死，就别怪我'。",
+      "scenes": ["咖啡馆"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 38,
+      "hook": "顾城绑架了陆野，威胁林浅退赛。",
+      "conflict": "林浅必须在比赛和爱人之间做选择。",
+      "twist": "陆野在电话里大喊：'赢给他看！'。",
+      "emotional_peak": "林浅挂断电话，含泪走上赛场。",
+      "scenes": ["赛场后台", "废弃仓库"],
+      "characters_involved": ["林浅", "陆野", "顾城"]
+    },
+    {
+      "episode_number": 39,
+      "hook": "林浅报警并利用手机定位寻找陆野。",
+      "conflict": "比赛即将开始，林浅心急如焚。",
+      "twist": "警察及时救出陆野，陆野带伤赶到现场。",
+      "emotional_peak": "看到陆野出现在观众席，林浅心定了。",
+      "scenes": ["赛场", "废弃仓库"],
+      "characters_involved": ["林浅", "陆野", "警察"]
+    },
+    {
+      "episode_number": 40,
+      "hook": "决赛展示，顾城拿出了一份惊艳的设计。",
+      "conflict": "林浅发现那份设计竟然和她入狱前的构思一模一样。",
+      "twist": "顾城偷了她当年的手稿加以修改。",
+      "emotional_peak": "全场欢呼，林浅陷入绝境。",
+      "scenes": ["决赛舞台"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 41,
+      "hook": "轮到林浅展示，她没有展示新图纸。",
+      "conflict": "评委催促，观众起哄。",
+      "twist": "林浅放出了当年手稿的原始元数据和修改记录。",
+      "emotional_peak": "林浅指着大屏幕：'这是我三年前的作品，师父，您存了很久吧？'。",
+      "scenes": ["决赛舞台"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 42,
+      "hook": "现场一片哗然，顾城辩解是林浅偷了他的。",
+      "conflict": "双方各执一词，陷入僵局。",
+      "twist": "林浅指出设计中一个只有她知道的隐藏签名。",
+      "emotional_peak": "放大图纸细节，'Lin'的字样隐藏在结构线中。",
+      "scenes": ["决赛舞台"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 43,
+      "hook": "顾城声称那是巧合，拒不承认。",
+      "conflict": "评委会决定暂停比赛，进行调查。",
+      "twist": "苏曼突然出现，作为证人指证顾城。",
+      "emotional_peak": "顾城看着被自己抛弃的棋子反咬一口。",
+      "scenes": ["赛场后台"],
+      "characters_involved": ["林浅", "顾城", "苏曼"]
+    },
+    {
+      "episode_number": 44,
+      "hook": "苏曼交出了当年顾城指使她陷害林浅的录音。",
+      "conflict": "顾城试图攻击苏曼，被保安拦下。",
+      "twist": "原来林浅早就策反了苏曼（在第15集埋下的伏笔）。",
+      "emotional_peak": "顾城众叛亲离。",
+      "scenes": ["调查室"],
+      "characters_involved": ["林浅", "顾城", "苏曼"]
+    },
+    {
+      "episode_number": 45,
+      "hook": "顾城被取消比赛资格，林浅夺冠。",
+      "conflict": "顾城不甘失败，准备逃亡。",
+      "twist": "陆野早就安排人守住了所有出口。",
+      "emotional_peak": "林浅捧着奖杯，看着顾城狼狈逃窜。",
+      "scenes": ["赛场外", "机场"],
+      "characters_involved": ["林浅", "陆野", "顾城"]
+    },
+    {
+      "episode_number": 46,
+      "hook": "顾城在机场被警方拦截。",
+      "conflict": "顾城拒捕，挟持人质。",
+      "twist": "林浅赶到，主动提出交换人质。",
+      "emotional_peak": "林浅走向顾城：'师父，我们该做个了结了'。",
+      "scenes": ["机场大厅"],
+      "characters_involved": ["林浅", "顾城", "警察"]
+    },
+    {
+      "episode_number": 47,
+      "hook": "顾城拿刀抵着林浅的脖子。",
+      "conflict": "顾城疯狂地质问林浅为什么要毁了他。",
+      "twist": "林浅冷静地背诵顾城当年的教诲：'为了赢，可以牺牲一切'。",
+      "emotional_peak": "顾城愣住的瞬间，被狙击手击中肩膀。",
+      "scenes": ["机场大厅"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 48,
+      "hook": "顾城被捕入狱，等待审判。",
+      "conflict": "林浅去医院包扎伤口，陆野心疼不已。",
+      "twist": "林浅却觉得心里空落落的。",
+      "emotional_peak": "复仇结束后的虚无感袭来。",
+      "scenes": ["医院病房"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 49,
+      "hook": "林浅去监狱看望顾城。",
+      "conflict": "顾城在狱中疯疯癫癫，还在画图。",
+      "twist": "顾城画的正是林浅的获奖作品，嘴里念叨着'这是我的'。",
+      "emotional_peak": "林浅意识到顾城已经彻底毁了，转身离开。",
+      "scenes": ["监狱精神病区"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 50,
+      "hook": "林浅重新成立了自己的事务所。",
+      "conflict": "业务繁忙，但她找不到创作激情。",
+      "twist": "陆野带她去了一个贫困山区。",
+      "emotional_peak": "看到孩子们在危房里上课，林浅找回了初心。",
+      "scenes": ["事务所", "山区学校"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 51,
+      "hook": "林浅决定为山区设计免费学校。",
+      "conflict": "公司股东反对做不赚钱的项目。",
+      "twist": "林浅力排众议，甚至愿意出让股份。",
+      "emotional_peak": "陆野全力支持：'你建房子，我出钱'。",
+      "scenes": ["事务所会议室"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 52,
+      "hook": "学校建设过程中遇到地质灾害。",
+      "conflict": "工程受阻，有人质疑林浅的设计有问题。",
+      "twist": "林浅亲自下工地勘测，发现是地下河改道。",
+      "emotional_peak": "林浅在泥泞中坚持工作，感动了工人。",
+      "scenes": ["山区工地"],
+      "characters_involved": ["林浅"]
+    },
+    {
+      "episode_number": 53,
+      "hook": "顾城的残余势力试图抹黑林浅的公益项目。",
+      "conflict": "媒体报道学校是'豆腐渣工程'。",
+      "twist": "一场地震突袭山区。",
+      "emotional_peak": "周围房屋倒塌，只有林浅设计的学校屹立不倒。",
+      "scenes": ["山区", "新闻直播间"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 54,
+      "hook": "地震后的学校成为避难所。",
+      "conflict": "林浅的设计救了全村人的命。",
+      "twist": "媒体风向彻底逆转，林浅被誉为'良心建筑师'。",
+      "emotional_peak": "孩子们在废墟中对着林浅微笑。",
+      "scenes": ["学校操场"],
+      "characters_involved": ["林浅"]
+    },
+    {
+      "episode_number": 55,
+      "hook": "林浅获得国际人道主义建筑奖。",
+      "conflict": "颁奖礼上，主持人提到顾城的名字。",
+      "twist": "林浅平静地说：'他教会我技术，生活教会我良知'。",
+      "emotional_peak": "全场起立鼓掌，林浅彻底走出了师父的阴影。",
+      "scenes": ["国际颁奖礼"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 56,
+      "hook": "陆野向林浅求婚。",
+      "conflict": "林浅犹豫，觉得自己背负太多过去。",
+      "twist": "陆野拿出当年林浅在狱中画的'梦想之家'草图。",
+      "emotional_peak": "陆野：'我已经按图纸建好了，缺个女主人'。",
+      "scenes": ["海边别墅"],
+      "characters_involved": ["林浅", "陆野"]
+    },
+    {
+      "episode_number": 57,
+      "hook": "苏曼出狱（因立功减刑），来找林浅。",
+      "conflict": "苏曼想求林浅给个工作机会。",
+      "twist": "林浅拒绝了，但推荐她去偏远地区支教赎罪。",
+      "emotional_peak": "苏曼痛哭流涕，鞠躬离开。",
+      "scenes": ["林浅办公室"],
+      "characters_involved": ["林浅", "苏曼"]
+    },
+    {
+      "episode_number": 58,
+      "hook": "林浅怀孕，准备暂时隐退。",
+      "conflict": "公司新来的实习生很像当年的林浅。",
+      "twist": "实习生崇拜地看着林浅：'老师，我想成为你'。",
+      "emotional_peak": "林浅恍惚看到了当年的自己，微笑着纠正：'做你自己'。",
+      "scenes": ["事务所"],
+      "characters_involved": ["林浅"]
+    },
+    {
+      "episode_number": 59,
+      "hook": "顾城在狱中病危，想见林浅最后一面。",
+      "conflict": "陆野不希望林浅去。",
+      "twist": "林浅还是去了，为了最后的告别。",
+      "emotional_peak": "顾城临死前流下一滴泪：'对不起'。林浅：'我不恨你了，也不原谅你'。",
+      "scenes": ["监狱医院"],
+      "characters_involved": ["林浅", "顾城"]
+    },
+    {
+      "episode_number": 60,
+      "hook": "林浅带着孩子和陆野在海边散步。",
+      "conflict": "无冲突，只有平静。",
+      "twist": "孩子抓周抓了一支画笔。",
+      "emotional_peak": "林浅看着大海，内心独白：'复仇不是终点，重生才是'。全剧终。",
+      "scenes": ["海边"],
+      "characters_involved": ["林浅", "陆野"]
+    }
+  ]
+}

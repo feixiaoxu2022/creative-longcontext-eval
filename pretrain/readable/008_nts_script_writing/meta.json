@@ -1,0 +1,17 @@
+{
+  "id": "nts_nts_v3_gemini-3-pro-preview_NTS_SURVIVAL_GAME_SHORT_5EP_STRICT_XHS_001_episode_3",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "gemini-3-pro-preview",
+  "source_sample_id": "NTS_SURVIVAL_GAME_SHORT_5EP_STRICT_XHS_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_3.json",
+  "output_type": "改编剧本",
+  "genre": "survival_game",
+  "sequence_num": 3,
+  "input_tokens_est": 2120,
+  "length_bin": "<10K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

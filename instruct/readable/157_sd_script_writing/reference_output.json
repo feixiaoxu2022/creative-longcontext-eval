@@ -1,0 +1,201 @@
+{
+ "episode_number":9,
+ "total_scenes":3,
+ "scenes_detail": [
+ {
+ "scene_header": {
+ "location": "皇帝寝宫",
+ "time": "清晨",
+ "atmosphere": "奢华庄严，气氛紧张"
+ },
+ "characters": ["赵无极", "沈灼", "皇帝"],
+ "content": [
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"陛下，今日子时，臣夜观天象，觉得司马旺有异动啊"
+ },
+ {
+ "type":"action",
+ "character":"赵无极",
+ "description":"赵无极躬身行礼，眼中闪过一丝阴狠"
+ },
+ {
+ "type":"dialogue",
+ "character":"皇帝",
+ "line":"爱卿何意？"
+ },
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"今晚寿宴，不妨让司马旺多露露脸，臣也好......检验检验他的忠诚"
+ },
+ {
+ "type":"action",
+ "character":"沈灼",
+ "description":"沈灼跪在一旁，听到这话心中一惊"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "line":"丞相大人说得有理，司马旺确实该好好表现"
+ },
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"（盯着沈灼）太子殿下也是这样想的吗？"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "line":"是是，一切听丞相安排"
+ },
+ {
+ "type":"emotion",
+ "description":"赵无极嘴角露出一丝冷笑，沈灼只是他手中的一颗棋子，必要时随时可以牺牲"
+ }
+ ],
+ "scene_number":1
+ },
+ {
+ "scene_header": {
+ "location": "皇帝寿宴大厅",
+ "time": "晚间",
+ "atmosphere": "奢华热闹，鸿门宴气氛"
+ },
+ "characters": ["皇帝", "赵无极", "沈灼", "司马旺", "沈辞"],
+ "content": [
+ {
+ "type":"action",
+ "character":"沈灼",
+ "description":"沈灼带着司马旺站在大殿一侧，司马旺 dressed 得光鲜亮丽"
+ },
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"司马司马旺，最近在朝中可还安分？"
+ },
+ {
+ "type":"dialogue",
+ "character":"司马旺",
+ "line":"回丞相大人，臣自然会遵从大人的旨意"
+ },
+ {
+ "type":"action",
+ "character":"沈灼",
+ "description":"沈灼注意到门外有些骚动"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "line":"丞相大人，外面好像有些动静......"
+ },
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"（不以为意）无妨，让他表演舞蹈吧"
+ },
+ {
+ "type":"action",
+ "character":"沈灼",
+ "line":"（低语）司马旺，待会儿只要好好表现就好了，不要乱来"
+ },
+ {
+ "type":"dialogue",
+ "character":"司马旺",
+ "line":"太子殿下放心，臣一定拿出最好的表演"
+ },
+ {
+ "type":"action",
+ "character":"司马旺",
+ "description": "就在这时，一匹受惊的脉马突然冲破守卫，直奔大殿而来！"
+ },
+ {
+ "type":"dialogue",
+ "character":"众臣",
+ "line":"啊！马！马！快跑！"
+ },
+ {
+ "type":"emotion",
+ "description": "大殿顿时大乱，皇帝怒斥侍卫，宴席被毁。赵无极脸色铁青，而沈灼偷偷看向角落里的署名楚......"
+ }
+ ],
+ "scene_number":2
+ },
+ {
+ "scene_header": {
+ "location": "皇帝寿宴大厅",
+ "time": "晚间",
+ "atmosphere": "混乱紧张，皇帝震怒"
+ },
+ "characters": ["皇帝", "赵无极", "沈灼", "主宰"],
+ "content": [
+ {
+ "type":"action",
+ "character":"皇帝",
+ "description":"皇帝扶着龙椅，脸色难看"
+ },
+ {
+ "type":"dialogue",
+ "character":"皇帝",
+ "line":"刺客！快抓刺客！是谁这么大胆！"
+ },
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"陛下息怒，臣必定抓到凶手"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "description":"沈灼满头大汗，跪在大殿中央"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "line":"父皇吉祥，儿臣...儿臣一定...一定维护您的安全"
+ },
+ {
+ "type":"dialogue",
+ "character":"皇帝",
+ "line":"司马旺呢？他今天负责安排节目，这事怎么解释？"
+ },
+ {
+ "type":"action",
+ "character":"沈灼",
+ "description":"沈灼看向司马旺的方向，脸色惨白"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "line":"（结巴）儿臣...儿臣会对...对一切...负责"
+ },
+ {
+ "type":"dialogue",
+ "character":"皇帝",
+ "line":"（加重语气）你担得起吗？"
+ },
+ {
+ "type":"dialogue",
+ "character":"沈灼",
+ "line":"父皇息怒！儿臣......"
+ },
+ {
+ "type":"action",
+ "character":"赵无极",
+ "description":"赵无极眼中闪过一丝失望和厌恶"
+ },
+ {
+ "type":"dialogue",
+ "character":"赵无极",
+ "line":"太子殿下，当今天子处，最好不要这样慌乱。陛下需要的是一个冷静的监国者，不是这样成事不足"
+ },
+ {
+ "type":"emotional",
+ "description":"沈灼感到前所未有的恐惧，一只无形的手扼住了他的咽喉。那个署名楚离开时嘴角露出一丝不易察觉的微笑......"
+ }
+ ],
+ "scene_number":3
+ }
+]
+}

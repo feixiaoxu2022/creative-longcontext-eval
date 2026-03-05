@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv1_openai/EB5-0209-A35B-midtrain-128k-chat_NW_CLEAR_SHORT_SWEET_002_chapter_09",
+  "scenario": "nwa",
+  "design_version": "dsv1",
+  "source_model": "openai/EB5-0209-A35B-midtrain-128k-chat",
+  "source_sample_id": "NW_CLEAR_SHORT_SWEET_002",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_09.md",
+  "output_type": "小说章节",
+  "genre": "sweet",
+  "sequence_num": 9,
+  "input_tokens_est": 10620,
+  "reference_output_tokens_est": 707,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

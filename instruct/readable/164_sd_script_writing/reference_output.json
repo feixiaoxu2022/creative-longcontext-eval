@@ -1,0 +1,128 @@
+{
+  "episode_number": 41,
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "核心区域入口",
+        "time": "凌晨",
+        "atmosphere": "科技感与危险并存"
+      },
+      "characters": ["林深", "陈墨", "赵凯"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "在生物识别面板上扫描"
+        },
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "也进行生物识别"
+        },
+        {
+          "type": "action",
+          "character": "系统",
+          "text": "验证通过，大门缓缓打开"
+        },
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "带头走进核心区域"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "欢迎来到真相的中心"
+        },
+        {
+          "type": "emotion",
+          "text": "林深感到强烈的不安"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "核心区域实验室",
+        "time": "凌晨",
+        "atmosphere": "冰冷残酷"
+      },
+      "characters": ["林深", "陈墨", "赵凯"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "看到实验室中央的培养舱"
+        },
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "走到控制台前"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "这就是你要找的妹妹"
+        },
+        {
+          "type": "action",
+          "character": "培养舱打开",
+          "text": "里面躺着一个女孩"
+        },
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "冲向培养舱"
+        },
+        {
+          "type": "emotion",
+          "text": "看到妹妹面容的瞬间，林深僵住了"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "核心区域实验室",
+        "time": "凌晨",
+        "atmosphere": "绝望崩溃"
+      },
+      "characters": ["林深", "陈墨", "赵凯"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "仔细观察培养舱里的女孩"
+        },
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "冷笑着按下按钮"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "仔细看看，这真的是你妹妹吗？"
+        },
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "发现女孩脖子上有编号：CLONE-001"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "真正的林瑶三年前就死了，这只是克隆体"
+        },
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "瘫倒在地，绝望地嘶吼"
+        },
+        {
+          "type": "emotion",
+          "text": "得知真相的林深陷入崩溃"
+        }
+      ]
+    }
+  ]
+}

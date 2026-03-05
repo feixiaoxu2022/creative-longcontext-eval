@@ -1,0 +1,165 @@
+{
+  "episode_number": 25,
+  "title": "变天",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "朝堂",
+        "time": "白昼",
+        "atmosphere": "论功行赏"
+      },
+      "characters": ["沈昭", "赵贞", "宁王"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "朝堂之上，皇帝正在论功行赏。"
+        },
+        {
+          "type": "dialogue",
+          "character": "皇帝",
+          "line": "沈昭，你扳倒萧衍有功，说吧，想要什么赏赐？"
+        },
+        {
+          "type": "action",
+          "description": "沈昭跪下磕头。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "臣不敢居功。臣只想为家父平反。"
+        },
+        {
+ "emotion",
+          "type":          "description": "朝堂一片寂静。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵贞",
+          "line:": "沈大人，你这是什么意思？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "臣要告发宁王，十五年前，是他指使萧衍陷害臣的父亲！"
+        },
+        {
+          "type": "action",
+          "description": "此言一出，满堂皆惊！"
+        },
+        {
+          "type": "dialogue",
+          "character": "宁王",
+          "line": "大胆！"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "朝堂",
+        "time": "白昼",
+        "atmosphere": "各方争功"
+      },
+      "characters": ["沈昭", "赵贞", "宁王"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "朝堂上，宁王面色铁青，赵贞也是一脸阴郁。"
+        },
+        {
+          "type": "dialogue",
+          "character": "宁王",
+          "line": "沈昭，你血口喷人！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "是不是血口喷人，王爷心里清楚。"
+        },
+        {
+          "type": "action",
+          "description": "他让人把证据呈上来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "这是十五年前，王爷与萧衍的书信往来。请陛下过目。"
+        },
+        {
+          "type": "emotion",
+          "description": "皇帝看完龙颜大怒！"
+        },
+        {
+          "type": "dialogue",
+          "character": "皇帝",
+          "line": "宁王，你好大的胆子！"
+        },
+        {
+          "type": "dialogue",
+          "character": "宁王",
+          "line": "陛下……"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵贞",
+          "line": "陛下，宁王狼子野心，意图谋反！"
+        },
+        {
+          "type": "action",
+          "description": "他话锋一转。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵贞",
+          "line": "微臣建议，将宁王打入天牢，严加审问！"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "朝堂",
+        "time": "白昼",
+        "atmosphere": "沈昭被围"
+      },
+      "characters": ["沈昭", "赵贞", "宁王"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "朝堂上形势突变，宁王和赵贞竟然联手了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "宁王",
+          "line": "沈昭，你以为你有证据就能定本王的罪？"
+        },
+        {
+          "type": "action",
+          "description": "他冷笑一声，一挥手，殿外冲进一群禁军！"
+        },
+        {
+          "type": "dialogue",
+          "character": "宁王",
+          "line": "本王忍辱负重这么多年，今天就是夺位之时！"
+        },
+        {
+          "type": "emotion",
+          "description": "沈昭脸色大变！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "不好！他要谋反！"
+        },
+        {
+          "type": "action",
+          "description": "他快速分析形势。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈昭",
+          "line": "（内心）看来只能使用最后的底牌了。"
+        }
+      ]
+    }
+  ]
+}

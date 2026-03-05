@@ -1,0 +1,237 @@
+{
+  "episode_number": 18,
+  "title": "建党的公司",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "北京某互联网公司",
+        "time": "白天",
+        "atmosphere": "意气风发的周建党"
+      },
+      "characters": ["周建党", "赵大海", "员工"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "2012年，周建党的互联网公司估值过亿。他接受了记者采访。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "line": "周总，听说您的公司马上要上市了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "有这个计划。"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者",
+          "line": "您创业的初心是什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "想让家人过上好日子。"
+        },
+        {
+          "type": "emotion",
+          "description": "采访结束，周建党回到办公室。赵大海已经在等他了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "建党，可以啊，采访得不错。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "大海，这次融资谈得咋样？"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "差不多了。对了，建党，我有个事想跟你商量。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "啥事？"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "就是我那个远方表弟，想来公司上班。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "来呗。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "我想让他当财务总监。"
+        },
+        {
+          "type": "emotion",
+          "description": "周建党愣了一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "这不太合适吧？他懂财务吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "可以学嘛。咱俩啥关系。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "周建党办公室",
+        "time": "深夜",
+        "atmosphere": "忙碌与孤独"
+      },
+      "characters": ["周建党"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "深夜，周建党的办公室还亮着灯。他看着手机，犹豫了一下，拨通了家里的电话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "（电话音）妈。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "（电话音）建党？这么晚了还打电话？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "（电话音）妈，我......想回家看看。"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "（电话音）回来呗。你爸也想你了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "（电话音）我最近太忙了，等忙完这阵......"
+        },
+        {
+          "type": "dialogue",
+          "character": "孙秀兰",
+          "line": "（电话音）忙忙忙，你就知道忙。"
+        },
+        {
+          "type": "emotion",
+          "description": "周建党还想说什么，但电话那头已经挂了。"
+        },
+        {
+          "type": "emotion",
+          "description": "他坐在办公室里，看着窗外的北京夜景。高楼大厦，灯火辉煌，却没有一盏灯是属于自己的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "（自语）爸，妈，儿子不孝。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "赵大海办公室",
+        "time": "白天",
+        "atmosphere": "赵大海露出真面目"
+      },
+      "characters": ["周建党", "赵大海"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "2015年，周建党发现公司账目有问题。他闯进赵大海的办公室。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "赵大海！你给我解释解释，这是怎么回事？"
+        },
+        {
+          "type": "action",
+          "character": "周建党",
+          "description": "他把一叠报表摔在赵大海桌上。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "建党，你这是干啥？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "我问你，为啥公司账上少了两千万？"
+        },
+        {
+          "type": "emotion",
+          "description": "赵大海冷笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "两千万？那是我的辛苦费。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "你......"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "周建党，你真以为自己是老板呢？要不是我，你能有今天？"
+        },
+        {
+          "type": "emotion",
+          "description": "周建党如遭雷击。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "你想咋样？"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "这样吧，我给你十万块，咱们的账两清了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "十万？"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵大海",
+          "line": "念在老同学一场，我够意思了。"
+        },
+        {
+          "type": "emotion",
+          "description": "周建党抓起桌上的现金，摔在赵大海脸上。"
+        },
+        {
+          "type": "dialogue",
+          "character": "周建党",
+          "line": "赵大海，我跟你没完！"
+        }
+      ]
+    }
+  ]
+}

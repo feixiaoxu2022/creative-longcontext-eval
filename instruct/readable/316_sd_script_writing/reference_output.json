@@ -1,0 +1,54 @@
+{
+  "episode_number": 58,
+  "title": "回家",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "陈家餐桌", "time": "夜晚", "atmosphere": "生疏的团圆"},
+      "characters": ["陈守义", "王秀萍", "陈雪"],
+      "content": [
+        {"type": "emotion", "description": "炖鸡端上了桌。三个人围坐着，筷子碰碗的声音格外清晰——因为没人说话。"},
+        {"type": "action", "character": "王秀萍", "description": "不停地往陈雪碗里夹鸡腿，手忙脚乱的，像是不知道该干什么才好。"},
+        {"type": "dialogue", "character": "陈雪", "line": "妈，咸了。"},
+        {"type": "action", "character": "王秀萍", "description": "愣了一下，赶紧要去重做。"},
+        {"type": "dialogue", "character": "陈守义", "line": "坐着吧。咸点好，下饭。"},
+        {"type": "emotion", "description": "三个人继续吃。鸡确实炖咸了，但谁也没再提。陈雪偷偷看看爸，又偷偷看看妈——两个人像隔了一堵看不见的墙，客气得像邻居。"},
+        {"type": "dialogue", "character": "陈雪", "line": "爸，妈炖的鸡比你做的好吃多了。"},
+        {"type": "action", "character": "陈守义", "description": "嘴角动了一下，没接话。"},
+        {"type": "emotion", "description": "饭吃完了。碗筷收拾了。陈雪回了自己屋，把门关上——留给他们两个人一个安静的夜晚。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "陈家卧室", "time": "深夜", "atmosphere": "迟来二十年的坦诚"},
+      "characters": ["陈守义", "王秀萍"],
+      "content": [
+        {"type": "emotion", "description": "深夜。卧室的灯关了又开。王秀萍坐在床沿，陈守义靠在书桌旁的椅子上，两个人隔着半个房间。"},
+        {"type": "dialogue", "character": "王秀萍", "line": "守义，有些话我得跟你说清楚。"},
+        {"type": "action", "character": "陈守义", "description": "没抬头，手指捏着铅笔，指关节发白。"},
+        {"type": "dialogue", "character": "王秀萍", "line": "在娘家那段日子……有个人对我好。没越线，但我心里……确实动过。"},
+        {"type": "emotion", "description": "房间里安静得能听见墙上挂钟的秒针走动。"},
+        {"type": "action", "character": "陈守义", "description": "铅笔断了。他低头看着断成两截的笔，好半天没动。"},
+        {"type": "dialogue", "character": "陈守义", "line": "我知道我亏欠你。二十年了，你心里装的都是我和小雪，我心里装的全是图纸……但我不知道怎么补。"},
+        {"type": "dialogue", "character": "王秀萍", "line": "你不用补。你做了该做的事——举报那些人，是对的。我只是……想让你知道真话。"},
+        {"type": "emotion", "description": "两个人沉默了很久。窗外有风，把窗帘吹起来又放下。陈守义最终没有走过去，王秀萍也没有要求他走过来。这一夜，他们各自睡了，但门没关。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "陈家", "time": "清晨", "atmosphere": "一杯水的分量"},
+      "characters": ["陈守义", "王秀萍", "陈雪"],
+      "content": [
+        {"type": "emotion", "description": "清晨的光从窗帘缝里挤进来，落在床头柜上。"},
+        {"type": "action", "character": "陈守义", "description": "比王秀萍早醒了半小时。他笨手笨脚地烧了一壶水，倒了一杯，放在她床头——杯子摆了三次才觉得位置对。"},
+        {"type": "action", "character": "王秀萍", "description": "醒了。看见床头那杯水，眼睛盯着看了好半天，像是在确认那不是自己倒的。"},
+        {"type": "emotion", "description": "二十年了。这个男人第一次给她倒了一杯水放在床头。"},
+        {"type": "action", "character": "王秀萍", "description": "慢慢伸手，端起来，喝了一口。水温刚好——他大概试过了。"},
+        {"type": "action", "character": "陈雪", "description": "从房间出来，看见父亲在厨房热昨晚的剩菜，母亲在卧室叠被子。没人说话，但空气不一样了。"},
+        {"type": "dialogue", "character": "陈雪", "line": "书上说的不一定对——但爸妈在一起，一定是对的。"},
+        {"type": "emotion", "description": "阳光彻底铺满了陈家的客厅。那杯水空了，杯底还留着一圈水印。有些东西不需要说出来——一杯水，够了。"}
+      ]
+    }
+  ]
+}

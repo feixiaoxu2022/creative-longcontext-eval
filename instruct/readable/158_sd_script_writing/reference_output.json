@@ -1,0 +1,41 @@
+{
+  "episode_number": 14,
+  "total_scenes": 2,
+  "title": "业绩回升",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "城西分店",
+        "time": "一个月后",
+        "atmosphere": "忙碌的店铺"
+      },
+      "characters": ["萧然", "店长", "员工们"],
+      "content": [
+        {"type": "action", "description": "一个月后，业绩开始上升"},
+        {"type": "dialogue", "character": "店长", "line": "（激动）萧然！营业额上涨了20%！"},
+        {"type": "dialogue", "character": "萧然", "line": "店长，这只是开始。只要继续优化，一定能更好"},
+        {"type": "action", "description": "员工们欢呼雀跃"},
+        {"type": "dialogue", "character": "员工", "line": "萧然哥，你太厉害了！"},
+        {"type": "emotion", "description": "萧然谦虚地笑了"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "林家客厅",
+        "time": "晚上",
+        "atmosphere": "家庭对话"
+      },
+      "characters": ["萧然", "林安然", "张秀兰"],
+      "content": [
+        {"type": "action", "description": "林安然回家提起城西分店的事"},
+        {"type": "dialogue", "character": "林安然", "line": "妈，我听说城西分店的业绩好像涨了"},
+        {"type": "dialogue", "character": "张秀兰", "line": "哼，估计是运气好吧"},
+        {"type": "action", "description": "萧然坐在一旁，没有说话"},
+        {"type": "dialogue", "character": "林安然", "line": "我听说他们请了专业人士帮忙改造"},
+        {"type": "dialogue", "character": "张秀兰", "line": "就那个破店，请谁都没用"},
+        {"type": "action", "description": "萧然默默起身去厨房做饭"},
+        {"type": "emotion", "description": "林安然看了萧然一眼，若有所思"}
+      ]
+    }
+  ]
+}

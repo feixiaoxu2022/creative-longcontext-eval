@@ -1,0 +1,50 @@
+{
+  "episode_1": {
+    "episode_number": 1,
+    "episode_title": "命案初现",
+    "scenes": [
+      {
+        "scene_number": 1,
+        "location": "废弃工厂",
+        "time": "深夜",
+        "atmosphere": "紧张",
+        "initial_shot_suggestion": "全景 - 俯视废弃工厂后巷，暴雨如注，氛围紧张",
+        "characters_appearing": ["韩锋", "赵老三", "林默"],
+        "scene_content_sequence": [
+          {
+            "type": "action",
+            "description": "【全景】暴雨如注的深夜，城南废弃工厂的后巷里发现了一具男尸。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】死者是当地臭名昭著的高利贷放贷人'赵老三'。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】刑警队长韩锋赶到现场时，尸体已经被雨水冲刷得惨白。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】法医初步鉴定，死因为头部受到重击，死亡时间约为今晚9点至10点。"
+          },
+          {
+            "type": "action",
+            "description": "【全景】现场极其干净，没有指纹，没有脚印。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】唯一的线索是死者手里紧紧攥着一颗纽扣，那是一种只有某所私立高中校服才会使用的特制金属扣。"
+          },
+          {
+            "type": "action",
+            "description": "【中景】韩锋的目光锁定了人群中一个瑟瑟发抖的高中生——林默。"
+          },
+          {
+            "type": "action",
+            "description": "【特写】他是赵老三最近逼债最紧的对象的儿子。"
+          }
+        ]
+      }
+    ]
+  }
+}

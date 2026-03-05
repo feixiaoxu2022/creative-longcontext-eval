@@ -1,0 +1,120 @@
+{
+  "episode_number": 59,
+  "total_scenes": 3,
+  "title": "最后的审判",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "法庭",
+        "time": "白天",
+        "atmosphere": "紧张对峙"
+      },
+      "characters": ["沈清辞", "陆景琛", "林诗雨", "法官", "律师"],
+      "content": [
+        {
+          "type": "action",
+          "description": "法庭上，陆景琛和林诗雨坐在被告席上，沈清辞坐在原告席上。"
+        },
+        {
+          "type": "dialogue",
+          "character": "法官",
+          "line": "现在，原告方请出示证据。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞站起来，拿出一个U盘。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "法官大人，我这里有陆景琛和林诗雨的录音证据。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛的律师",
+          "line": "反对！录音证据不能作为直接证据！"
+        },
+        {
+          "type": "dialogue",
+          "character": "法官",
+          "line": "反对无效，请继续。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "法庭",
+        "time": "白天",
+        "atmosphere": "震惊恐惧"
+      },
+      "characters": ["沈清辞", "陆景琛", "林诗雨", "法官", "律师"],
+      "content": [
+        {
+          "type": "action",
+          "description": "沈清辞按下录音笔的播放键，法庭里响起陆景琛和林诗雨的对话声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "录音中的陆景琛",
+          "line": "诗雨，等我们转移完资产，沈清辞就什么都没有了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "录音中的林诗雨",
+          "line": "景琛，你真的要这么做吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "录音中的陆景琛",
+          "line": "她挡了我的路，我必须除掉她。"
+        },
+        {
+          "type": "action",
+          "description": "陆景琛和林诗雨听到自己的声音，脸色惨白，浑身发抖。"
+        },
+        {
+          "type": "emotion",
+          "description": "陆景琛和林诗雨的恐惧，他们意识到自己被彻底揭穿了。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "法庭",
+        "time": "白天",
+        "atmosphere": "彻底绝望"
+      },
+      "characters": ["沈清辞", "陆景琛", "林诗雨", "法官", "律师"],
+      "content": [
+        {
+          "type": "action",
+          "description": "法官听完录音，脸色严肃。"
+        },
+        {
+          "type": "dialogue",
+          "character": "法官",
+          "line": "被告方，你们还有什么要说的吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "line": "法官大人...我...我认罪..."
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨",
+          "line": "我也认罪..."
+        },
+        {
+          "type": "action",
+          "description": "沈清辞冷笑，她知道胜利就在眼前。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "欠我的，一分不少地还回来。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "episode_number": 35,
+  "title": "母女情深",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "方晓晓家",
+        "time": "早晨",
+        "atmosphere": "温馨、关怀"
+      },
+      "characters": ["方晓晓", "陈桂兰", "方建国"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "早上，陈桂兰在厨房做饭"
+        },
+        {
+          "type": "action",
+          "description": "电视上正在播放昨天的新闻"
+        },
+        {
+          "type": "dialogue",
+          "character": "主持人",
+          "line": "昨日，方晓晓召开记者会"
+        },
+        {
+          "type": "dialogue",
+          "character": "主持人",
+          "line": "揭露了苏家和林诗雨的罪行"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰手中的锅铲掉到了地上"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "什么？"
+        },
+        {
+          "type": "action",
+          "description": "方晓晓从房间里走出来"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "晓晓！这是怎么回事？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "你...你怎么对付起苏家来了？"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰的声音在颤抖"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈..."
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "你知道苏家是什么人吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "他们不会放过你的！"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰突然晕倒了"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "方晓晓家",
+        "time": "夜晚",
+        "atmosphere": "温馨、感动"
+      },
+      "characters": ["方晓晓", "陈桂兰", "方建国"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "晚上，陈桂兰醒来"
+        },
+        {
+          "type": "action",
+          "description": "方晓晓坐在床边"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "晓晓..."
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，你醒了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "你这个傻孩子"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "为什么要一个人承担？"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，我是你的女儿"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "保护你是应该的"
+        },
+        {
+          "type": "action",
+          "description": "她握住母亲的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "妈，不管你是什么身份"
+        },
+        {
+          "type": "dialogue",
+          "character": "方晓晓",
+          "line": "你永远是我们的妈妈"
+        },
+        {
+          "type": "action",
+          "description": "陈桂兰的眼泪掉下来"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "晓晓..."
+        },
+        {
+          "type": "dialogue",
+          "character": "陈桂兰",
+          "line": "妈妈谢谢你"
+        },
+        {
+          "type": "dialogue",
+          "character": "方建国",
+          "line": "好了好了"
+        },
+        {
+          "type": "dialogue",
+          "character": "方建国",
+          "line": "一家人不要说两家话"
+        },
+        {
+          "type": "dialogue",
+          "character": "方建国",
+          "line": "只要我们一家人在一起"
+        },
+        {
+          "type": "dialogue",
+          "character": "方建国",
+          "line": "什么都不怕"
+        }
+      ]
+    }
+  ]
+}

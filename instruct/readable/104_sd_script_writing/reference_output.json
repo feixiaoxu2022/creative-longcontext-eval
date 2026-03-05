@@ -1,0 +1,265 @@
+{
+  "episode_number": 7,
+  "title": "神秘的周慕云",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "殡仪馆 追思会",
+        "time": "一周后",
+        "atmosphere": "庄重，来宾们穿着黑色或深色服装"
+      },
+      "characters": ["周慕云", "林晚棠", "陆沉舟", "苏明哲"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "沈墨白追思会现场，遗像被白玫瑰环绕"
+        },
+        {
+          "type": "action",
+          "description": "一个穿着黑色西装的中年男人悄然走入"
+        },
+        {
+          "type": "action",
+          "description": "他手里拿着一束白玫瑰——但花瓣是黑色的"
+        },
+        {
+          "type": "action",
+          "description": "林晚棠注意到这个人从来没有见过"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚棠",
+          "line": "请问您是？"
+        },
+        {
+          "type": "action",
+          "description": "男人抬起头，露出一张保养得很好的脸"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "我是墨白父亲的老朋友...来送他最后一程"
+        },
+        {
+          "type": "action",
+          "description": "他的声音低沉而优雅，但眼神里有种说不出的诡异"
+        },
+        {
+          "type": "action",
+          "description": "他把玫瑰放在遗像前，玫瑰的黑色花瓣在白玫瑰中格外显眼"
+        },
+        {
+          "type": "action",
+          "description": "林晚棠想追问，但苏明哲走过来拉住她"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏明哲",
+          "line": "那是周慕云...墨白父亲生前的合作伙伴"
+        },
+        {
+          "type": "action",
+          "description": "陆沉舟也注意到了这边，他看到这个男人时，表情明显变了"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆沉舟",
+          "line": "他怎么来了..."
+        },
+        {
+          "type": "action",
+          "description": "周慕云转身离开，经过陆沉舟身边时，两人的视线短暂相接"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "陆总，别来无恙"
+        },
+        {
+          "type": "action",
+          "description": "陆沉舟没有回答，但他的手指紧紧握成了拳头"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "陈雨薇调查-档案室",
+        "time": "当天",
+        "atmosphere": "陈雨薇在追查周慕云的身份"
+      },
+      "characters": ["陈雨薇"],
+      "content": [
+        {
+          "type": "action",
+          "description": "陈雨薇通过关系查到了周慕云的档案"
+        },
+        {
+          "type": "action",
+          "description": "档案显示：周慕云，52岁，海外归来商人，现任多家公司法律顾问"
+        },
+        {
+          "type": "action",
+          "description": "但她注意到一个细节：他的第一份工作是在22年前——沈墨白父亲的公司"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈雨薇",
+          "line": "22年前...那正好是沈墨白母亲去世的那年"
+        },
+        {
+          "type": "action",
+          "description": "她继续深挖，发现了一个被封存的关系"
+        },
+        {
+          "type": "action",
+          "description": "周慕云和沈墨白母亲——他们曾经是恋人"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈雨薇",
+          "line": "恋人...所以他就是那个和沈墨白母亲有关系的男人？"
+        },
+        {
+          "type": "action",
+          "description": "她的手机收到一封邮件——是一张老照片"
+        },
+        {
+          "type": "action",
+          "description": "照片里，周慕云和年轻的沈墨白母亲站在一起，两人的关系看起来很亲密"
+        },
+        {
+          "type": "action",
+          "description": "照片背面写着日期：1998年"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈雨薇",
+          "line": "1998年...她去世前一年...他们还在联系"
+        },
+        {
+          "type": "action",
+          "description": "她查到了更多：沈墨白父亲当时已经发现了这段关系"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈雨薇",
+          "line": "所以...这是一个三角恋？"
+        },
+        {
+          "type": "emotion",
+          "description": "她的直觉告诉她，这里有更深的秘密"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "私人会所",
+        "time": "当天晚上",
+        "atmosphere": "VIP包间，灯光幽暗"
+      },
+      "characters": ["周慕云", "林晚棠"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "林晚棠按照周慕云留下的名片找来了"
+        },
+        {
+          "type": "action",
+          "description": "周慕云坐在包间里，面前摆着两杯红酒"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "林小姐，请坐"
+        },
+        {
+          "type": "action",
+          "description": "林晚棠坐下，直视他的眼睛"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚棠",
+          "line": "你认识我丈夫"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "不仅认识...我可以说是看着他长大的"
+        },
+        {
+          "type": "action",
+          "description": "他推过来一杯红酒"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "你丈夫的死，不是我做的——但我确实希望他死"
+        },
+        {
+          "type": "action",
+          "description": "林晚棠的手顿住了"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚棠",
+          "line": "你..."
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "别紧张，我说的'希望'和'做'是两回事"
+        },
+        {
+          "type": "action",
+          "description": "他轻轻摇晃着红酒杯"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "22年前，我爱上一个女人——但她选择了我最好的朋友"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "后来她死了...所有人都说是意外，但我知道不是"
+        },
+        {
+          "type": "action",
+          "description": "林晚棠握紧了拳头"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚棠",
+          "line": "沈墨白的母亲..."
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "是清浅...她死的那个晚上，我也在现场"
+        },
+        {
+          "type": "action",
+          "description": "林晚棠猛地站起来"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚棠",
+          "line": "所以你看到了什么？"
+        },
+        {
+          "type": "action",
+          "description": "周慕云抬起头，眼神变得深邃"
+        },
+        {
+          "type": "dialogue",
+          "character": "周慕云",
+          "line": "我看到了...真相的代价"
+        }
+      ]
+    }
+  ]
+}

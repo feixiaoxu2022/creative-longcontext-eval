@@ -1,0 +1,85 @@
+{
+  "episode_number": 56,
+  "total_scenes": 2,
+  "title": "裂痕",
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "沈家老宅",
+        "time": "下午",
+        "atmosphere": "就在大家以为一切完美的时候，意外的冲突再次爆发"
+      },
+      "characters": ["沈志明", "沈志远", "沈秀兰", "周桂芳"],
+      "content": [
+        {"type": "emotion", "description": "下午的阳光照进老宅客厅，一切看起来平静而美好"},
+        {"type": "action", "character": "沈志明", "description": "拿着一本账本走进客厅"},
+        {"type": "action", "character": "沈志远", "description": "正在和沈秀兰商量民宿的经营计划"},
+        {"type": "dialogue", "character": "沈志明", "line": "二姐，你来看看这账本"},
+        {"type": "action", "character": "沈秀兰", "description": "接过账本"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "这是什么？"},
+        {"type": "dialogue", "character": "沈志明", "line": "这半年民宿的流水，我算了算，总觉得不对"},
+        {"type": "action", "character": "沈志远", "description": "皱起眉头"},
+        {"type": "dialogue", "character": "沈志远", "line": "志明，你这是什么意思？"},
+        {"type": "dialogue", "character": "沈志明", "line": "我没什么意思，我就想问清楚，这钱都花哪儿去了"},
+        {"type": "dialogue", "character": "沈志明", "line": "民宿赚的钱，我们三家分成，凭什么你说多少就是多少"},
+        {"type": "action", "character": "沈秀兰", "description": "急忙解释"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "志明，这账目都是透明的，每一笔支出都有记录"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "你可以自己查"},
+        {"type": "dialogue", "character": "沈志明", "line": "查？我要是会查账还用问你？"},
+        {"type": "dialogue", "character": "沈志明", "line": "我就想知道，那笔八万块的装修款，到底花在哪儿了"},
+        {"type": "action", "character": "沈志远", "description": "脸色变得很难看"},
+        {"type": "dialogue", "character": "沈志远", "line": "沈志明，你这是怀疑我从中做手脚？"},
+        {"type": "dialogue", "character": "沈志明", "line": "我可没指名道姓，是你自己承认的"},
+        {"type": "action", "character": "周桂芳", "description": "从厨房走出来"},
+        {"type": "dialogue", "character": "周桂芳", "line": "都消消气，有话好好说"},
+        {"type": "dialogue", "character": "周桂芳", "line": "都是一家人，为了点钱伤和气值得吗"},
+        {"type": "dialogue", "character": "沈志明", "line": "姐夫，这不关你的事"},
+        {"type": "action", "character": "沈秀兰", "description": "按住沈志明的手臂"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "志明，你少说两句"},
+        {"type": "dialogue", "character": "沈志明", "line": "二姐，你也别护着他"},
+        {"type": "dialogue", "character": "沈志明", "line": "当年爸在的时候，家里的钱都是他管，现在爸走了，是不是该轮到我了"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "沈家老宅",
+        "time": "紧接着",
+        "atmosphere": "两人大打出手，积压的情绪彻底爆发"
+      },
+      "characters": ["沈志明", "沈志远", "沈秀兰", "周桂芳"],
+      "content": [
+        {"type": "action", "character": "沈志远", "description": "猛地站起来"},
+        {"type": "dialogue", "character": "沈志远", "line": "沈志明，你还有脸提爸？"},
+        {"type": "dialogue", "character": "沈志远", "line": "爸活着的时候，你管过这个家什么？"},
+        {"type": "dialogue", "character": "沈志远", "line": "你欠的那些赌债，是谁帮你还的？"},
+        {"type": "action", "character": "沈志明", "description": "冲上前"},
+        {"type": "dialogue", "character": "沈志明", "line": "你还有脸说我？"},
+        {"type": "dialogue", "character": "沈志明", "line": "你二十年不回这个家，现在回来当好人了？"},
+        {"type": "dialogue", "character": "沈志明", "line": "你当教授了不起啊？你不就是嫌这个家穷，嫌我们丢人吗"},
+        {"type": "action", "character": "沈志远", "description": "一把推开沈志明"},
+        {"type": "dialogue", "character": "沈志远", "line": "你胡说什么"},
+        {"type": "action", "character": "沈志明", "description": "不甘示弱，推了回去"},
+        {"type": "action", "character": "沈秀兰", "description": "想要拉开两人"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "你们别打了"},
+        {"type": "action", "character": "沈志明", "description": "两人扭打在一起"},
+        {"type": "dialogue", "character": "沈志明", "line": "别以为你是我哥我就不敢动手"},
+        {"type": "dialogue", "character": "沈志远", "line": "来啊，谁怕谁"},
+        {"type": "action", "character": "周桂芳", "description": "赶紧上去拉架"},
+        {"type": "action", "character": "沈秀兰", "description": "被推得踉跄后退"},
+        {"type": "dialogue", "character": "沈秀兰", "line": "不要打了"},
+        {"type": "emotion", "description": "客厅里一片混乱，椅子被撞倒，茶几上的东西散落一地"},
+        {"type": "action", "character": "沈志明", "description": "被周桂芳拉住"},
+        {"type": "dialogue", "character": "沈志明", "line": "放开我"},
+        {"type": "action", "character": "沈志远", "description": "也被拉开"},
+        {"type": "dialogue", "character": "沈志远", "line": "这就是你们说的和解？"},
+        {"type": "dialogue", "character": "沈志远", "line": "我看这个家永远好不了"},
+        {"type": "action", "character": "沈志明", "description": "喘着粗气"},
+        {"type": "dialogue", "character": "沈志明", "line": "你少来这套"},
+        {"type": "dialogue", "character": "沈志明", "line": "有钱就了不起啊"},
+        {"type": "emotion", "description": "沈秀兰看着两个弟弟，眼眶泛红"}
+      ]
+    }
+  ]
+}

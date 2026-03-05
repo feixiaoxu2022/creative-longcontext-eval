@@ -1,0 +1,327 @@
+{
+  "episode_number": 2,
+  "title": "冤家同桌",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "高二四班教室",
+      "time_of_day": "午后",
+      "atmosphere": "教室里的微妙气氛",
+      "weather": "阳光透过窗户",
+      "initial_shot": "【全景】下午阳光洒进教室，最后一排靠阳台门",
+      "characters": ["楼珹", "丁雪润", "窦老师"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】窦老师站在讲台上，丁雪润站在旁边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "窦老师",
+          "emotion": "温和",
+          "text": "同学们，这是新转来的丁雪润同学。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】窦老师转向丁雪润，语气变得温和。"
+        },
+        {
+          "type": "dialogue",
+          "character": "窦老师",
+          "emotion": "鼓励",
+          "text": "雪润啊，跟大家介绍一下自己。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润站在讲台旁，脸上有伤，但表情平静。"
+        },
+        {
+          "type": "dialogue",
+          "character": "丁雪润",
+          "emotion": "淡淡的",
+          "text": "我叫丁雪润。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】教室后排传来一声轻笑。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹坐在最后一排，单手撑头，嘴角带笑。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】窦老师瞪了楼珹一眼，继续说。"
+        },
+        {
+          "type": "dialogue",
+          "character": "窦老师",
+          "emotion": "骄傲",
+          "text": "雪润同学成绩很好，大家要向他学习。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹挑眉，露出不可思议的表情。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：窃窃私语声"
+        },
+        {
+          "type": "action",
+          "text": "【中景】窦老师指向楼珹旁边的空位。"
+        },
+        {
+          "type": "dialogue",
+          "character": "窦老师",
+          "emotion": "安排",
+          "text": "你就坐那儿，最后一排，靠门。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润点点头，面无表情地走下讲台。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】丁雪润走到楼珹身后坐下。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹回头看他，两人大眼瞪小眼。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】窦老师走回讲台，开始发试卷。"
+        },
+        {
+          "type": "dialogue",
+          "character": "窦老师",
+          "emotion": "严肃",
+          "text": "明天小考，都给我好好复习！"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "高二四班教室",
+      "time_of_day": "课间",
+      "atmosphere": "暧昧的试探",
+      "weather": "阳光正好",
+      "initial_shot": "【中景】同学们各自活动，教室后排两人独处",
+      "characters": ["楼珹", "丁雪润"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】课间，同学们走出教室玩闹。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹转身，趴在丁雪润桌上，凑近他。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "好奇",
+          "text": "学霸？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润抬头看了他一眼，继续看书。"
+        },
+        {
+          "type": "dialogue",
+          "character": "丁雪润",
+          "emotion": "平静",
+          "text": "嗯。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹注意到丁雪润脖子上的伤疤。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹指了指自己脸上的伤。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "痞气",
+          "text": "打架打的？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润翻书的手顿了一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "丁雪润",
+          "emotion": "淡淡的",
+          "text": "嗯。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹挑眉，露出感兴趣的表情。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "痞气",
+          "text": "为什么帮我作证？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润手指捏着书页，指节发白。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】丁雪润沉默了几秒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "丁雪润",
+          "emotion": "平静",
+          "text": "没为什么。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹盯着他看，目光在他脸上的伤停留。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹突然笑了一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "痞气",
+          "text": "挺会装。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润翻书的手停了停。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹转身坐好，拄着拐杖站起来。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】楼珹走出教室，留下丁雪润一人。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润低头看着书，嘴唇微抿。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "丁雪润",
+          "emotion": "触动",
+          "text": "第一次，有人相信我。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "location": "教学楼走廊",
+      "time_of_day": "傍晚",
+      "atmosphere": "青春的悸动",
+      "weather": "黄昏的光线",
+      "initial_shot": "【全景】走廊窗边，夕阳西下",
+      "characters": ["楼珹", "丁雪润"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】走廊窗边，楼珹站着打电话。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】丁雪润从教室走出来，经过楼珹身边。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹看了他一眼，冲电话那头说。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "不耐烦",
+          "text": "不打球了，有点事。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】丁雪润走远的背影，瘦削挺拔。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹挂了电话，看着丁雪润的背影。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹拄着拐杖跟上去。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】走廊尽头，丁雪润靠在窗边，夕阳给他镀上一层金边。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润，侧脸在光影里，有些孤独。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹走过去，站在他旁边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "随意",
+          "text": "学霸，下午那道题……"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润偏头看他。"
+        },
+        {
+          "type": "dialogue",
+          "character": "丁雪润",
+          "emotion": "淡淡的",
+          "text": "哪道？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】楼珹笑了一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "楼珹",
+          "emotion": "痞气",
+          "text": "逗你的。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】丁雪润无语地看了他一眼。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】两人并肩站在窗边，夕阳把他们的影子拉长。"
+        },
+        {
+          "type": "effect",
+          "text": "【慢镜头】两人的影子交叠在一起"
+        },
+        {
+          "type": "action",
+          "text": "【特写】楼珹低头，看不见表情。"
+        },
+        {
+          "type": "effect",
+          "text": "【定格】画面定格"
+        },
+        {
+          "type": "sound",
+          "text": "字幕：下集预告 - 太阳雨的心动"
+        }
+      ]
+    }
+  ]
+}

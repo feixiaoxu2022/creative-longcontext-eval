@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_openai/EB5-0209-A35B-midtrain-128k-chat_NW_CLEAR_SHORT_ANGSTY_001_chapter_15",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "openai/EB5-0209-A35B-midtrain-128k-chat",
+  "source_sample_id": "NW_CLEAR_SHORT_ANGSTY_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_15.md",
+  "output_type": "小说章节",
+  "genre": "angsty",
+  "sequence_num": 15,
+  "input_tokens_est": 26788,
+  "reference_output_tokens_est": 1458,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

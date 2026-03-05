@@ -1,0 +1,86 @@
+{
+  "episode_number": 45,
+  "title": "感情抉择",
+  "genre_type": "revenge_drama",
+  "characters": ["林晚", "顾深"],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "林晚的公寓",
+      "time": "夜晚",
+      "description": "林晚独自在公寓里，面对舆论的压力，顾深前来安慰。",
+      "dialogue": [
+        {
+          "character": "顾深",
+          "line": "林晚，你还好吗？",
+          "emotion": "关心"
+        },
+        {
+          "character": "林晚",
+          "line": "我没事。只是觉得，这场复仇，让我失去了太多。",
+          "emotion": "疲惫"
+        },
+        {
+          "character": "顾深",
+          "line": "我愿意为你放弃一切。",
+          "emotion": "真诚"
+        }
+      ],
+      "action": "顾深握住林晚的手，眼中满是真诚。"
+    },
+    {
+      "scene_number": 2,
+      "location": "回忆场景",
+      "time": "过去",
+      "description": "林晚回忆起与顾深的过去，以及Mentor对她的培养。",
+      "dialogue": [
+        {
+          "character": "林晚",
+          "line": "（内心独白）我曾经以为，Mentor是我最信任的人。但现在，我连自己都不信任了。",
+          "emotion": "迷茫"
+        },
+        {
+          "character": "顾深",
+          "line": "（内心独白）我观察你很久了，林晚。你值得更好的。",
+          "emotion": "心疼"
+        }
+      ],
+      "action": "回忆画面中，林晚在Mentor的指导下学习，顾深在远处默默观察。"
+    },
+    {
+      "scene_number": 3,
+      "location": "林晚的公寓",
+      "time": "深夜",
+      "description": "林晚在深夜里思考，决定接受顾深的感情。",
+      "dialogue": [
+        {
+          "character": "林晚",
+          "line": "顾深，谢谢你。",
+          "emotion": "感激"
+        },
+        {
+          "character": "顾深",
+          "line": "谢什么？",
+          "emotion": "疑惑"
+        },
+        {
+          "character": "林晚",
+          "line": "谢谢你一直在我身边。",
+          "emotion": "感动"
+        },
+        {
+          "character": "顾深",
+          "line": "我愿意为你放弃一切。",
+          "emotion": "坚定"
+        }
+      ],
+      "action": "林晚靠在顾深肩上，两人相拥。"
+    }
+  ],
+  "hook": "顾深对林晚说：'我愿意为你放弃一切。'",
+  "conflict": "林晚面临感情抉择",
+  "twist": "林晚开始接受顾深",
+  "emotional_peak": "林晚在深夜里思考",
+  "total_scenes": 3,
+  "word_count": 420
+}

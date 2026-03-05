@@ -1,0 +1,17 @@
+{
+  "id": "nts_nts_v3_kimi-k2.5_NTS_SUSPENSE_LONG_5EP_FLEX_DOUYIN_001_episode_5",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "kimi-k2.5",
+  "source_sample_id": "NTS_SUSPENSE_LONG_5EP_FLEX_DOUYIN_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_5.json",
+  "output_type": "改编剧本",
+  "genre": "suspense",
+  "sequence_num": 5,
+  "input_tokens_est": 4426,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

@@ -1,0 +1,64 @@
+{
+  "episode_number": 65,
+  "title": "最终对决",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "地下实验室",
+        "time": "凌晨",
+        "atmosphere": "激烈"
+      },
+      "characters": ["林深", "陈默"],
+      "content": [
+        {"type": "emotion", "description": "林深从地上爬起，嘴角流血，但眼神坚定。"},
+        {"type": "action", "character": "林深", "description": "再次冲向陈默"},
+        {"type": "dialogue", "character": "林深", "text": "今天，一切都要结束！"},
+        {"type": "action", "character": "陈默", "description": "电击器击中林深肩膀"},
+        {"type": "dialogue", "character": "陈默", "text": "结束？我花了二十年，怎么可能让你结束！"},
+        {"type": "action", "character": "林深", "description": "忍痛抓住陈默的手臂，两人扭打在一起"},
+        {"type": "emotion", "description": "林深逐渐不支，陈默的疯狂赋予他惊人的力量。"},
+        {"type": "dialogue", "character": "林深", "description": "喘息", "text": "苏晚！快！"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "控制台",
+        "time": "凌晨",
+        "atmosphere": "紧张"
+      },
+      "characters": ["苏晚", "叶青", "陈言"],
+      "content": [
+        {"type": "emotion", "description": "苏晚在控制台前飞速操作，叶青和陈言赶来支援。"},
+        {"type": "dialogue", "character": "叶青", "text": "怎么样？"},
+        {"type": "dialogue", "character": "苏晚", "description": "焦急", "text": "需要密码！陈默说没人猜得到！"},
+        {"type": "action", "character": "陈言", "description": "看着屏幕上的密码提示"},
+        {"type": "dialogue", "character": "陈言", "text": "提示是'她最后说的话'...是我侄女。"},
+        {"type": "action", "character": "苏晚", "description": "快速翻阅陈默的实验记录"},
+        {"type": "dialogue", "character": "苏晚", "text": "这里...陈默的女儿叫陈念..."},
+        {"type": "emotion", "description": "苏晚突然意识到什么，手指悬在键盘上。"},
+        {"type": "dialogue", "character": "苏晚", "text": "不对...密码不是名字，是她最后说的话。"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "实验室",
+        "time": "凌晨",
+        "atmosphere": "悲壮"
+      },
+      "characters": ["苏晚", "林深", "陈默"],
+      "content": [
+        {"type": "action", "character": "苏晚", "description": "深吸一口气，对着控制台大声喊道"},
+        {"type": "dialogue", "character": "苏晚", "text": "陈念！"},
+        {"type": "emotion", "description": "听到女儿的名字，陈默瞬间愣住，动作停滞。"},
+        {"type": "action", "character": "林深", "description": "趁机将陈默按倒在地"},
+        {"type": "dialogue", "character": "陈默", "description": "喃喃自语", "text": "念念..."},
+        {"type": "action", "character": "苏晚", "description": "继续输入"},
+        {"type": "dialogue", "character": "苏晚", "text": "系统要求验证——她最后说的话是什么？"},
+        {"type": "action", "character": "陈默", "description": "眼神空洞，仿佛回到二十年前"},
+        {"type": "dialogue", "character": "陈默", "description": "声音颤抖", "text": "她说...爸爸救我..."},
+        {"type": "emotion", "description": "苏晚输入这行字，系统却显示错误。倒计时：10分钟。"}
+      ]
+    }
+  ]
+}

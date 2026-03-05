@@ -1,0 +1,18 @@
+{
+  "id": "nts_nts_v3_doubao-seed-2-0-pro-260215_NTS_ENTERTAINMENT_SHORT_3EP_FLEX_DOUYIN_001_episode_1",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "doubao-seed-2-0-pro-260215",
+  "source_sample_id": "NTS_ENTERTAINMENT_SHORT_3EP_FLEX_DOUYIN_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_1.json",
+  "output_type": "改编剧本",
+  "genre": "entertainment",
+  "sequence_num": 1,
+  "input_tokens_est": 10499,
+  "reference_output_tokens_est": 1208,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

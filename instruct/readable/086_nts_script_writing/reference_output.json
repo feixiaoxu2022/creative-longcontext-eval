@@ -1,0 +1,156 @@
+{
+ "episode": {
+ "episode_number":1,
+ "title":"初次调查",
+ "opening_hook": {
+ "type":"悬念",
+ "description": "顾言推开门，扑面而来的苦杏仁味，特写画中十二只眼睛"
+ },
+ "scenes": [
+ {
+ "scene_header": {
+ "scene_number":1,
+ "location":"老旧公寓楼 - 林默工作室门前",
+ "time":"日",
+ "atmosphere":"阴郁、老旧",
+ "initial_shot":"【全景】顾言站在破旧公寓楼下，仰视天空"
+ },
+ "characters":["顾言"],
+ "sequence": [
+ {
+ "type":"action",
+ "content":"【全景】水泥墙斑驳的老旧公寓楼，爬山虎缠绕，窗户破败"
+ },
+ {
+ "type":"action", 
+ "content":"【中景】顾言整理西装领口，深呼吸，按响门铃"
+ },
+ {
+ "type":"sound",
+ "content":"【音效】沉闷的门铃声回荡*ding dong*"
+ },
+ {
+ "type":"action",
+ "content":"【入口】门缓缓打开，走廊昏暗光线透出"
+ },
+ {
+ "type":"dialogue",
+ "character":"林默",
+ "emotion":"平静",
+ "content":"你来了。"
+ },
+ {
+ "type":"action",
+ "content":"【跟拍】顾言迈步进入，身后门关闭"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "scene_number":2,
+ "location":"林默工作室",
+ "time":"日", 
+ "atmosphere":"压抑暗沉",
+ "initial_shot":"【全景】宽敞破旧的画室，光线从高窗射入"
+ },
+ "characters":["顾言", "林默"],
+ "sequence": [
+ {
+ "type":"action",
+ "content":"【环绕拍摄】林默背对门口站在巨大画布前，阴影笼罩"
+ },
+ {
+ "type":"action",
+ "content":"【特写推进】画布上密密麻麻的恐怖眼睛，每个都清晰绘制"
+ },
+ {
+ "type":"dialogue",
+ "character":"顾言",
+ "emotion":"专业",
+ "content":"画得好有冲击力。"
+ },
+ {
+ "type":"action",
+ "content":"【视觉】月光灯光效果，营造诡异氛围"
+ },
+ {
+ "type":"action",
+ "content":"【画中画】眼睛的瞳孔在高光下似乎微微反光"
+ },
+ {
+ "type":"dialogue",
+ "character":"顾言",
+ "emotion":"好奇",
+ "content":"有多少只眼睛？"
+ },
+ {
+ "type":"dialogue",
+ "character":"林默",
+ "emotion":"神经质",
+ "content":"十二只。它们在看着我。"
+ },
+ {
+ "type":"action",
+ "content":"【特写】顾言推眼镜，仔细数数画中眼睛"
+ },
+ {
+ "type":"action",
+ "content":"【微观】右下角某只眼睛的高光明显异常，像是反光点"
+ },
+ {
+ "type":"sound",
+ "content":"【音效】BGM悬疑氛围渐入*嗡嗡*"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "scene_number":3,
+ "location":"画前",
+ "time":"日",
+ "atmosphere":"凝重",
+ "initial_shot":"【画框视角】十二只眼睛如盯视"
+ },
+ "characters":["顾言", "林默"],
+ "sequence": [
+ {
+ "type":"action",
+ "content":"【慢镜头】顾言走向画布，脚步沉重"
+ },
+ {
+ "type":"dialogue", 
+ "character":"林默",
+ "emotion":"恐惧",
+ "content":"别太靠近...它们不喜欢。"
+ },
+ {
+ "type":"action",
+ "content":"【特写】顾言点头，保持距离站在画前"
+ },
+ {
+ "type":"dialogue",
+ "character":"顾言",
+ "emotion":"观察",
+ "content":"每只眼睛都很有个性，尤其是这只..."
+ },
+ {
+ "type":"action",
+ "content":"【极端特写】右下角眼睛的异常高光反射"
+ },
+ {
+ "type":"action",
+ "content":"【隐含】顾言察觉到画下有异，苦杏仁味漂上来"
+ },
+ {
+ "type":"sound",
+ "content":"【音效】细微的气味拟声*呼*"
+ }
+ ]
+ }
+ ],
+ "ending_hook": {
+ "type":"悬念",
+ "description":"顾言离开时，镜头停留在画旁，暗示画中眼睛似乎在动"
+ }
+ }
+}

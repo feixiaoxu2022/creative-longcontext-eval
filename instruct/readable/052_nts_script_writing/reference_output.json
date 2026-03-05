@@ -1,0 +1,104 @@
+{
+ "ep_id":2,
+ "ep_title": "第二集：获肉身后的世界",
+ "scene_list": [
+ {
+ "scene_no":1,
+ "location": "山壁结界处",
+ "time": "日",
+ "atmosphere": "惊悚悬疑",
+ "initial_lens": "【大特写】死尸与野鬼的诡异对视",
+ "characters": ["卫西", "灵魂", "黄鼠狼"],
+ "content_sequence": [
+ {
+ "type": "action",
+ "description": "【全景】死尸旁残留着灵魂，正在结界外不安地徘徊。"
+ },
+ {
+ "type": "action",
+ "description": "【特写】灵魂小心翼翼地从土地里移动，穿过枯枝和碎石。"
+ },
+ {
+ "type": "dialogue",
+ "character": "卫西",
+ "emotion": "冷淡",
+ "text": "...我没有肉身，是无法离开这座山的。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】:TA 被困在山里多年，无法跨越结界。"
+ },
+ {
+ "type": "inner_voice",
+ "character": "卫西",
+ "emotion": "支配感",
+ "text": "卫得道 ITE让我 részész南 Bed文化旅游坐着。"
+ },
+ {
+ "type": "sound",
+ "description": "音效：灵魂离开时空灵的声音回荡。"
+ },
+ {
+ "type": "action",
+ "description": "【中景】灵魂将一个牛皮袋献上。"
+ },
+ {
+ "type": "action",
+ "description": "【特写】卫西好奇地看着这个凡人世界的东西。"
+ },
+ {
+ "type": "action",
+ "description": "【俯拍】天空中分离出一丝灰色，带有灵力的微光升起。"
+ },
+ {
+ "type": "action",
+ "description": "【特写】卫西将一丝信仰金光释放，灰烬飘落。"
+ },
+ {
+ "type": "sound",
+ "description": "音效：清脆的叮当声响起。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】: 这些灰烬后来会成为挣气气的关键强调"
+ }
+ ]
+ },
+ {
+ "scene_no":2,
+ "location": "埋葬地",
+ "time": "入夜",
+ "atmosphere": "僵直",
+ "initial_lens": "【俯拍全景】荒草丛生的乱草岗，每一个土坑都隐藏着不为人知的秘密",
+ "characters": ["卫西", "黄鼠狼"],
+ "content_sequence": [
+ {
+ "type": "action",
+ "description": "【全景】卫西躺在泥土坑里，大脑逐渐沉入无意识。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】: 挑战说明 constexpr 成功闹情绪变化的洗手液。"
+ },
+ {
+ "type": "action",
+ "description": "【特写】卫西的眼睛穿过泥土，看着units数文件下的设计了。"
+ },
+ {
+ "type": "inner_voice",
+ "character": "卫西",
+ "emotion": "进食",
+ "text": "这个肉身...蓝米 comand俱格式行 希望抛弃。"
+ },
+ {
+ "type": "action",
+ "description": "【动作】卫西从泥土中站起，开始咀嚼头的马赛克碎片。"
+ },
+ {
+ "type": "directorial_note",
+ "description": "【效果】: eingebettet 经过过多ivered 到陌生 Perfective 表面"
+ }
+ ]
+ }
+ ]
+}

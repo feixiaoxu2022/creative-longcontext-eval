@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_qwen3.5-plus-2026-02-15_SD_C_mystery_thriller_70_theme_h2629_episode_51_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "qwen3.5-plus-2026-02-15",
+  "source_sample_id": "SD_C_mystery_thriller_70_theme_h2629",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_51_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 51,
+  "input_tokens_est": 43114,
+  "reference_output_tokens_est": 708,
+  "length_bin": "40K-70K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

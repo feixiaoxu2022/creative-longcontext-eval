@@ -1,0 +1,200 @@
+{
+  "episode_number": 5,
+  "title": "新的开始",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "凤阳山景区",
+      "time_of_day": "傍晚",
+      "atmosphere": "困惑敬畏，寻找答案",
+      "weather": "夕阳西下，金光洒落",
+      "sfx_ambient": "游客议论声，山风轻拂",
+      "initial_shot": "【全景】夕阳西下，金光洒落在景区，游客们议论纷纷，都在讨论山神显灵的奇迹。",
+      "characters": ["老板娘", "丈夫", "儿子"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【中景】老板娘在人群中寻找那个穿破道袍的年轻人，却找不到踪影。"
+        },
+        {
+          "type": "dialogue",
+          "character": "老板娘",
+          "emotion": "焦急",
+          "text": "你们看到那个穿破道袍的年轻人了吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "丈夫",
+          "emotion": "困惑",
+          "text": "什么年轻人？没注意啊。"
+        },
+        {
+          "type": "dialogue",
+          "character": "儿子",
+          "emotion": "困惑",
+          "text": "妈，你在说什么啊？"
+        },
+        {
+          "type": "action",
+          "text": "【近景】老板娘握着手中的一把灰烬，眼神复杂。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "老板娘",
+          "emotion": "回忆",
+          "text": "他给我的符纸……他说十块钱一碗打糕……他拿银子和大洋……他穿得那么破，却那么从容……"
+        },
+        {
+          "type": "action",
+          "text": "【特写】老板娘回想起卫西的种种异常。"
+        },
+        {
+          "type": "action",
+          "text": "【闪回】卫西从口袋里掏出一锭银子。"
+        },
+        {
+          "type": "action",
+          "text": "【闪回】卫西面不改色地收回银锭，换成大洋。"
+        },
+        {
+          "type": "action",
+          "text": "【闪回】卫西掏出一张灰扑扑的符纸。"
+        },
+        {
+          "type": "action",
+          "text": "【闪回】卫西沉默地接过打糕，眼神深邃。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】老板娘回到现实，看着手中的灰烬。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "老板娘",
+          "emotion": "敬畏",
+          "text": "他不是普通人……他救了我一命……他是山神吗？还是修行者？"
+        },
+        {
+          "type": "dialogue",
+          "character": "丈夫",
+          "emotion": "担心",
+          "text": "娟子，你没事吧？要不要去医院检查一下？"
+        },
+        {
+          "type": "dialogue",
+          "character": "老板娘",
+          "emotion": "恍惚",
+          "text": "我没事……我没事……"
+        },
+        {
+          "type": "action",
+          "text": "【中景】老板娘看着下山的路径，眼神复杂。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "老板娘",
+          "emotion": "感激",
+          "text": "谢谢你……不管你是谁……谢谢你救了我……"
+        },
+        {
+          "type": "action",
+          "text": "【全景】夕阳西下，景区的游客逐渐散去，老板娘一家收拾摊位准备回家。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：温暖感人的音乐渐入"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "都市街头",
+      "time_of_day": "夜晚",
+      "atmosphere": "繁华现代，新的开始",
+      "weather": "夜幕降临，霓虹闪烁",
+      "sfx_ambient": "车流声，人群喧哗，霓虹灯闪烁",
+      "initial_shot": "【全景】夜幕降临，都市街头霓虹闪烁，车水马龙，繁华喧嚣。",
+      "characters": ["卫西"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【中景】卫西站在都市街头，看着眼前繁华的现代世界。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】他身穿补丁叠补丁的破旧道袍，半长的乱发用布条松散拢在脑后，面容俊秀但眼神凌厉。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】他腰间绑着一把菜刀，手中握着那枚黯淡的玉佩。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】周围的路人纷纷侧目，看着这个穿着奇特的年轻人。"
+        },
+        {
+          "type": "dialogue",
+          "character": "路人A",
+          "emotion": "好奇",
+          "text": "你看那个人，穿得好奇怪啊。"
+        },
+        {
+          "type": "dialogue",
+          "character": "路人B",
+          "emotion": "不屑",
+          "text": "估计又是cosplay吧，现在年轻人真会玩。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】卫西没有理会周围的眼光，只是静静地看着眼前的都市。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "卫西",
+          "emotion": "平静",
+          "text": "这就是现代世界……这就是师父说的天下太平……"
+        },
+        {
+          "type": "action",
+          "text": "【特写】他低头看了看手中的玉佩，玉佩表面黯淡无光。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "卫西",
+          "emotion": "复杂",
+          "text": "师父……我下山了……我会光大门楣的……"
+        },
+        {
+          "type": "action",
+          "text": "【中景】卫西抬起头，眼神坚定。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "卫西",
+          "emotion": "坚定",
+          "text": "我乃，太仓宗第六十二代掌门人，卫西。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】卫西迈开脚步，走进繁华的都市街头，身影逐渐消失在人群中。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】他的背影在霓虹灯下显得孤独而坚定。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：神秘悠扬的音乐渐强"
+        },
+        {
+          "type": "effect",
+          "text": "【字幕】全剧终"
+        },
+        {
+          "type": "effect",
+          "text": "【字幕】古老修行者下山入世，新的旅程刚刚开始……"
+        }
+      ]
+    }
+  ]
+}

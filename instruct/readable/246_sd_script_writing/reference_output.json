@@ -1,0 +1,300 @@
+{
+  "episode_number": 22,
+  "title": "揭露与反击",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "盛世集团会议室",
+        "time": "白天",
+        "atmosphere": "紧张、严肃、充满揭露"
+      },
+      "characters": ["林峰"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "白天，盛世集团会议室，董事会成员坐在会议桌旁，林峰站在会议桌前"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）各位董事，我有重要的事情要汇报"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "拿出一个文件袋，放在桌上"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）这是安保总监王志强贪污的证据"
+        },
+        {
+          "type": "emotion",
+          "text": "会议室里一片哗然"
+        },
+        {
+          "type": "dialogue",
+          "character": "董事甲",
+          "text": "（震惊）什么？王志强贪污？"
+        },
+        {
+          "type": "dialogue",
+          "character": "董事乙",
+          "text": "（疑惑）林峰，你有什么证据？"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "打开文件袋，拿出文件"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）这是王志强的银行转账记录，还有盛世集团的账目记录"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "把文件分发给各位董事"
+        },
+        {
+          "type": "emotion",
+          "text": "各位董事看着文件，脸色越来越难看"
+        },
+        {
+          "type": "dialogue",
+          "character": "董事甲",
+          "text": "（愤怒）这个王志强，居然敢贪污公司的钱！"
+        },
+        {
+          "type": "dialogue",
+          "character": "董事乙",
+          "text": "（严肃）林峰，这些证据你是怎么得到的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）我在工作中发现的，我觉得有责任向董事会汇报"
+        },
+        {
+          "type": "dialogue",
+          "character": "董事甲",
+          "text": "（严肃）好，我们会立即调查这件事"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "点头，转身离开"
+        },
+        {
+          "type": "emotion",
+          "text": "林峰走出会议室，眼神坚定"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "王志强办公室",
+        "time": "白天",
+        "atmosphere": "紧张、愤怒、充满绝望"
+      },
+      "characters": ["王志强", "林峰"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "白天，王志强办公室，王志强正在打电话，突然听到敲门声"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "text": "（紧张）进来"
+        },
+        {
+          "type": "emotion",
+          "text": "门被推开，几个警察走进来"
+        },
+        {
+          "type": "dialogue",
+          "character": "警察",
+          "text": "（严肃）王志强，你涉嫌贪污，请跟我们走一趟"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "脸色苍白"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "text": "（恐惧）什么？我……我没有贪污"
+        },
+        {
+          "type": "dialogue",
+          "character": "警察",
+          "text": "（严肃）我们有证据，走吧"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "被警察带走，经过门口时，看到林峰"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "眼神愤怒，冲向林峰"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "text": "（愤怒）林峰，是你！是你出卖我！"
+        },
+        {
+          "type": "action",
+          "character": "警察",
+          "text": "拦住王志强"
+        },
+        {
+          "type": "dialogue",
+          "character": "警察",
+          "text": "（严肃）王志强，冷静点"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "看着林峰，眼神愤怒"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "text": "（愤怒）林峰，你以为这就结束了？陈海龙不会放过你的！"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "看着王志强，眼神平静"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）王总监，这是你应得的"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "被警察带走，眼神愤怒"
+        },
+        {
+          "type": "emotion",
+          "text": "林峰看着王志强被带走，眼神复杂"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）这只是第一步……"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "盛世集团门口",
+        "time": "白天",
+        "atmosphere": "紧张、充满威胁"
+      },
+      "characters": ["林峰"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "白天，盛世集团门口，林峰站在台阶上，看着王志强被警车带走"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "拿出手机，突然响起"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "看了一眼来电显示，眼神一凝"
+        },
+        {
+          "type": "emotion",
+          "text": "来电显示：陈海龙"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "接通电话"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈海龙",
+          "text": "（冷笑）林峰，你做得很好"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）董事长，我只是做了我该做的"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈海龙",
+          "text": "（冷笑）王志强是个叛徒，你除掉他，我还要谢谢你"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（平静）董事长客气了"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈海龙",
+          "text": "（冷笑）不过，林峰，你以为这就结束了？"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "眼神一凝"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈海龙",
+          "text": "（威胁）下一个，就是你"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "握紧手机，眼神冰冷"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）董事长，我等着您"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈海龙",
+          "text": "（冷笑）很好，林峰，我们走着瞧"
+        },
+        {
+          "type": "action",
+          "character": "林峰",
+          "text": "挂断电话，眼神坚定"
+        },
+        {
+          "type": "emotion",
+          "text": "林峰看着警车离开的方向，眼神坚定"
+        },
+        {
+          "type": "dialogue",
+          "character": "林峰",
+          "text": "（低声）陈海龙，下一个，就是你……"
+        }
+      ]
+    }
+  ]
+}

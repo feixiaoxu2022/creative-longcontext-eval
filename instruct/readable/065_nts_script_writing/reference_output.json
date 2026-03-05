@@ -1,0 +1,276 @@
+{
+  "episode_number": 2,
+  "title": "那个该死的喇叭",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "黑水街街道",
+      "time_of_day": "上午",
+      "atmosphere": "夏日灼热，街道熙攘，市井气息浓厚",
+      "weather": "盛夏，热浪扑面",
+      "sfx_ambient": "街道嘈杂人声、摊贩叫卖声、车辆经过声",
+      "initial_shot": "【全景】黑水街街道，破旧的楼房林立，行人熙攘，夏日阳光灼热",
+      "characters": ["谢俞"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】黑水街街道，四通八达的街道两旁是破旧的楼房，行人熙攘，夏日热浪翻滚。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞穿着黑色T恤，单手插兜，在街边不紧不慢地走着，目光扫过路边的杂货店。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "谢俞",
+          "emotion": "回忆",
+          "text": "梅姨说想买个大喇叭镇住那帮孙子……"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞脚步微顿，转身走进街边一家杂货店。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：杂货店门被推开的吱呀声"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "杂货店",
+      "time_of_day": "上午",
+      "atmosphere": "杂乱拥挤，光线偏暗，充满市井生活的烟火气",
+      "sfx_ambient": "杂货店内的杂乱声响、风扇转动声",
+      "initial_shot": "【全景】杂货店内，货架上堆满各种杂物，积着一层薄灰，光线偏暗",
+      "characters": ["谢俞", "杂货店老板"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】杂货店内堆满各种杂物，货架上积着灰尘，商品随意堆放，光线偏暗。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞站在货架前，修长的手指拨开堆积的杂物，目光在各种杂货中搜寻。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "简洁",
+          "text": "有喇叭吗？带扩音器的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老板",
+          "emotion": "热情",
+          "text": "有有有！我给你找！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】老板从一堆杂货下面翻出一个红白色的喇叭，上面积了一层灰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老板",
+          "emotion": "卖力推销",
+          "text": "这个好！耐用！不好用包退！包退！"
+        },
+        {
+          "type": "action",
+          "text": "【中景】老板眼疾手快地接上电，当场放了一首音乐。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：喇叭播放《该死的温柔》，音量震耳欲聋 *该死的温柔，让我心在痛泪在流……*"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞眉头一皱，下意识往后退了半步，手指按了按太阳穴。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "面无表情",
+          "text": "行了，多少钱？"
+        },
+        {
+          "type": "action",
+          "text": "【近景】老板离喇叭更近，压根没听见，继续嘶吼着推销。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老板",
+          "emotion": "嘶吼",
+          "text": "品质有保证！有问题你尽管找我！小店坐不改名行不改姓！建行杂货！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞面无表情地看着老板，一只手横着伸到喇叭前，修长的手指精准地按下开关按钮。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：音乐戛然而止"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "冷静",
+          "text": "多少钱。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老板",
+          "emotion": "愣了一下",
+          "text": "二、二十五。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞掏钱，老板已经眼疾手快地拿起塑料袋，把喇叭往里头装。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】老板从桌上厚厚一沓纸里抽出几张，一并塞进塑料袋——妇科医院无痛人流、男人的福音第二根半价、开锁、神奇老中医……"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老板",
+          "emotion": "笑嘻嘻",
+          "text": "副业，副业。响应党的号召，积极奔赴小康，为了发财而奋斗！"
+        },
+        {
+          "type": "action",
+          "text": "【近景】谢俞低头看着塑料袋里的传单，面无表情，嘴角却微微抽动了一下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "无语",
+          "text": "……找您的钱。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞接过找零，提着黑色塑料袋转身离开，背影透着一丝无奈。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "location": "广贸大厦批发市场",
+      "time_of_day": "上午",
+      "atmosphere": "热闹中带着期待，梅姨满心欢喜地等着谢俞",
+      "sfx_ambient": "批发市场叫卖声、搬运货物声",
+      "initial_shot": "【全景】广贸大厦批发市场门口，许艳梅站在门口张望，身上散发着浓郁的香水味",
+      "characters": ["谢俞", "许艳梅（梅姨）"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】广贸大厦批发市场门口，许艳梅站在那儿，身上散发着浓郁的香水味，不停地搓着手，伸长脖子张望。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞提着黑色塑料袋走来，看到梅姨的第一动作就是把袋子递给她，然后迅速往后退了几步。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "嫌弃",
+          "text": "你身上这什么味，厕所清新剂？没事喷成这样你想干什么。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "不服气",
+          "text": "狗屁厕所清新剂，老娘这是女人味！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】许艳梅接过塑料袋打开，看到里面的喇叭，愣了两秒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "惊讶",
+          "text": "我就随口一说你还真给我整了个大喇叭——怎么弄这个，这是开关？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞太阳穴突地一跳，还没来得及阻止——"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "紧张",
+          "text": "别摁它，太吵——"
+        },
+        {
+          "type": "effect",
+          "text": "【特效】慢动作，许艳梅的手指已经按下了红色按钮"
+        },
+        {
+          "type": "sound",
+          "text": "音效：巨大的音乐声再次响起 *该死的温柔，让我心在痛泪在流……* 震耳欲聋"
+        },
+        {
+          "type": "action",
+          "text": "【全景】整个批发市场的人都转头看向这边，音乐声在楼道里回荡。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "震惊",
+          "text": "我操，这么猛？！"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞面无表情地看着梅姨，抬手按了按太阳穴，一副"我就知道会这样"的表情。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "无奈",
+          "text": "赶紧关了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "手忙脚乱关喇叭",
+          "text": "等等，这怎么关……哎哟！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】许艳梅手忙脚乱地按着按钮，却因为动作太猛，右手下意识地扶住了腰侧。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】谢俞的目光瞬间沉了下来，盯着梅姨扶腰的手。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：音乐终于停止，市场恢复嘈杂"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "盯着她的腰",
+          "text": "还有你这嗓子，自己心里没点数是不是，抽烟，你就抽吧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "心虚地放下手",
+          "text": "没那么夸张……依照我这强健的体格，少说还能再战个三百年。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞默不作声地打量她，目光落在她刚刚扶过的腰侧，眼神沉了沉。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "冷笑",
+          "text": "强健，你可真敢说。"
+        }
+      ]
+    }
+  ]
+}

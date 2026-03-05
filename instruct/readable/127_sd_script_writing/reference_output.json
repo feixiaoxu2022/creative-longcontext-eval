@@ -1,0 +1,214 @@
+{
+  "episode_number": 6,
+  "title": "意外的同盟",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "投资会现场",
+        "time": "白天",
+        "atmosphere": "正式、商务"
+      },
+      "characters": ["苏晚晴", "陆景川"],
+      "content": [
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "站在投资会角落，观察着场内的各路投资人"
+        },
+        {
+          "type": "emotion",
+          "text": "她需要找到新的合作伙伴，来对抗顾寒深的步步紧逼"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（低声自语）前世这个投资会上...好像有一个重要的科技新贵..."
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "努力回忆，却发现自己对这个人印象模糊"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "奇怪...前世我好像完全没有注意过他..."
+        },
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "从她身后走过，无意中撞到了她的肩膀"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "抱歉。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "转身，看到一张陌生而熟悉的面孔"
+        },
+        {
+          "type": "emotion",
+          "text": "这张脸...晚晴的心跳漏了一拍"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "你是...？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "陆景川。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "瞳孔收缩——陆景川！前世默默守护她、最后为她而死的男人！"
+        },
+        {
+          "type": "emotion",
+          "text": "晚晴强忍着眼眶的酸涩"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "苏小姐？你还好吗？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "慌乱地擦了擦眼角"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "没事，眼睛进了沙子。"
+        },
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "递给她一张纸巾，目光中带着探究"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "走廊",
+        "time": "白天",
+        "atmosphere": "悸动、微妙"
+      },
+      "characters": ["苏晚晴", "陆景川"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "主动追上走出会场的晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "苏小姐，请等一下。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "转身，深吸一口气让自己镇定"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "陆先生，有事吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "我们之前...是不是在哪里见过？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "心中一震"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "应该...没有吧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "奇怪，我总觉得你很眼熟。而且..."
+        },
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "按了按心口"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "看到你，这里会莫名地痛。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "眼泪差点夺眶而出"
+        },
+        {
+          "type": "emotion",
+          "text": "前世她从未正眼看过这个男人，直到死后才知道他为自己付出了什么"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "陆先生，我们...确实没见过。但也许...也许以后可以多接触。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "主动伸出手"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "我是苏晚晴，很高兴认识你。"
+        },
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "握住她的手，微微愣神"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "陆景川。苏小姐...我们是不是注定要相遇？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "握紧他的手，心中发誓"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（内心独白）这一世，我不会再忽略你。"
+        },
+        {
+          "type": "emotion",
+          "text": "陆景川看着晚晴的背影，喃喃自语"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "为什么看到她，我的心会这么痛..."
+        }
+      ]
+    }
+  ]
+}

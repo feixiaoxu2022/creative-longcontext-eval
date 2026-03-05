@@ -1,0 +1,65 @@
+{
+  "episode_number": 23,
+  "title": "至暗时刻",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "京城-萧恒小铺",
+        "time": "白天",
+        "atmosphere": "封条贴在门板上，一片萧条"
+      },
+      "characters": ["萧恒"],
+      "content": [
+        {"type": "action", "character": "萧恒", "description": "站在自己的小铺门前。门板上贴着封条——'京兆府例行检查，暂停营业'。"},
+        {"type": "emotion", "description": "'例行检查'——这三个字在京城意味着：有人在排查你。不一定是针对你，但你已经在名单上了。"},
+        {"type": "action", "character": "萧恒", "description": "面无表情地看着封条。他攥着小铺钥匙的手指关节发白——这是他十二年布局在京城的最后一个明面据点。现在也没了。"},
+        {"type": "action", "character": "萧恒", "description": "转身离开。他的步伐稳定如常，面上看不出任何波澜——但走过街角时，他的脚步停了一秒。只有一秒。然后继续走。"},
+        {"type": "emotion", "description": "那一秒的停顿里，压着十二年的重量。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "京城-藏身暗室",
+        "time": "夜晚",
+        "atmosphere": "逼仄阴暗的地窖，所有人挤在一起"
+      },
+      "characters": ["萧恒", "沈鹤之", "陆安"],
+      "content": [
+        {"type": "emotion", "description": "藏身之处是周廷留下的最后一个安全点——城南一间破旧民居的地窖。潮湿阴冷，只有一支蜡烛。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "清点一下。周廷的江南网络全面转入地下——联络暂断。顾燕回的北疆补给线断了。京城明面据点全部丧失。我们现在有什么？"},
+        {"type": "dialogue", "character": "陆安", "line": "这间地窖。三个人。两把刀。银子还有一百二十两。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "（苦笑）比十二年前好一点——那时候连地窖都没有。"},
+        {"type": "dialogue", "character": "萧恒", "line": "还有一样东西。密旨在手。还有韩兆。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "韩兆——他手中有顾铮案的证据，他本人就在权力中心，是大理寺少卿。如果我们现在直接接触他，亮明部分底牌——"},
+        {"type": "dialogue", "character": "萧恒", "line": "他要么成为我们最强的援军，要么把我们彻底卖掉。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "三成胜算。"},
+        {"type": "dialogue", "character": "萧恒", "line": "三成。（停顿）够了。我们从陇西走到京城的路上，胜算也没超过三成。"},
+        {"type": "dialogue", "character": "沈鹤之", "line": "此计有三分险。但不冒险的局——"},
+        {"type": "dialogue", "character": "萧恒", "line": "不值得下。明天晚上——我亲自去见韩兆。"},
+        {"type": "emotion", "description": "蜡烛在地窖的穿堂风中摇曳，三个人的影子在墙上忽大忽小——像是他们在权力棋盘上的处境：时而膨胀，时而缩小，但始终没有熄灭。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "藏身暗室",
+        "time": "深夜",
+        "atmosphere": "沈鹤之已睡，只有两人醒着"
+      },
+      "characters": ["萧恒", "陆安"],
+      "content": [
+        {"type": "action", "character": "陆安", "description": "坐在地窖入口处守夜，手里握着刀。萧恒走过来在他身旁坐下。"},
+        {"type": "dialogue", "character": "萧恒", "line": "陆安。你怕吗？"},
+        {"type": "dialogue", "character": "陆安", "line": "不怕死。怕公子死。"},
+        {"type": "dialogue", "character": "萧恒", "line": "（轻声）十二年前我们从京城逃出去时，也是这么怕的。那时候你才七岁，我也才七岁。两个孩子，三千里路。"},
+        {"type": "dialogue", "character": "陆安", "line": "但我们活下来了。"},
+        {"type": "dialogue", "character": "萧恒", "line": "对。我们活下来了。这次也会。"},
+        {"type": "dialogue", "character": "陆安", "line": "公子说了算。"},
+        {"type": "emotion", "description": "两个人并肩坐在地窖里。外面是整个京城的风声——权贵的马车声、巡逻的脚步声、更鼓声。而他们所有的武器只有三成的胜算和一句'公子说了算'。——但有时候，这就够了。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "episode_number": 18,
+  "title": "小弟的赌局",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "地下赌场",
+        "time": "夜晚",
+        "atmosphere": "阴暗危险"
+      },
+      "characters": ["林志强", "周债主"],
+      "content": [
+        {"type": "action", "character": "林志强", "description": "偷偷来到赌场，想一把翻本"},
+        {"type": "dialogue", "character": "林志强", "text": "周哥，再给我一次机会，我一把就能赢回来！"},
+        {"type": "action", "character": "周债主", "description": "冷笑"},
+        {"type": "dialogue", "character": "周债主", "text": "你姐不帮你了，你拿什么赌？"},
+        {"type": "action", "character": "林志强", "description": "掏出身上最后一千块钱"},
+        {"type": "dialogue", "character": "林志强", "text": "就这一千！赢了我就还你钱！"},
+        {"type": "emotion", "description": "周债主看着他，眼神复杂。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "地下赌场",
+        "time": "夜晚",
+        "atmosphere": "绝望"
+      },
+      "characters": ["林志强"],
+      "content": [
+        {"type": "action", "character": "林志强", "description": "押上全部筹码，骰子转动"},
+        {"type": "emotion", "description": "骰子停下，他输了。"},
+        {"type": "action", "character": "林志强", "description": "瘫坐在地上，眼神空洞"},
+        {"type": "dialogue", "character": "赌场老板", "text": "林志强，没钱就别来玩。"},
+        {"type": "dialogue", "character": "林志强", "text": "（喃喃自语）我完了……我真的完了……"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "县城街道",
+        "time": "深夜",
+        "atmosphere": "绝望"
+      },
+      "characters": ["林志强"],
+      "content": [
+        {"type": "action", "character": "林志强", "description": "失魂落魄地走在街上，身无分文"},
+        {"type": "dialogue", "character": "林志强", "text": "（自言自语）我就是个废物……姐说得对……我就是个废物……"},
+        {"type": "action", "character": "林志强", "description": "蹲在路边，抱住头"},
+        {"type": "emotion", "description": "深夜的街道空无一人。林志强第一次觉得自己真的走投无路了。"},
+        {"type": "action", "character": "林志强", "description": "掏出手机，想给大姐打电话，却又放下"},
+        {"type": "dialogue", "character": "林志强", "text": "我没脸见她……"}
+      ]
+    }
+  ]
+}

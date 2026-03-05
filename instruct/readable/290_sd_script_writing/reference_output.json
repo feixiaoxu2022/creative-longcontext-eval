@@ -1,0 +1,199 @@
+{
+  "episode_number": 29,
+  "title": "金婚",
+  "total_scenes": 3,
+  "script": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "周家小院",
+        "time": "中午",
+        "atmosphere": "喜庆、热闹"
+      },
+      "characters": ["孙秀兰", "周建设", "周建党", "周建萍", "陈小莲", "亲友"],
+      "content": [
+        {
+          "type": "action",
+          "text": "2025年，孙秀兰七十大寿。同时，这也是她和老伴的金婚纪念日——如果老伴还在的话。"
+        },
+        {
+          "type": "action",
+          "text": "小院里摆了几桌酒席，亲朋好友都来了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "亲友甲",
+          "text": "秀兰啊，今天你七十大寿，也是金婚，恭喜恭喜！"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "亲友乙",
+          "text": "就是，老周要是能看到，该多好啊！"
+        },
+        {
+          "type": "action",
+          "text": "孙秀兰穿着红色的棉袄，胸前别着一朵大红花，接受大家的祝福。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孙秀兰",
+          "text": "谢谢大家赏脸……快坐快坐！"
+        },
+        {
+          "type": "action",
+          "text": "三个孩子忙里忙外，招呼客人。"
+        },
+        {
+          "type": "emotion",
+          "text": "虽然老伴不在了，但今天的热闹让孙秀兰脸上有了笑容。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "周家小院",
+        "time": "下午",
+        "atmosphere": "温馨、感动"
+      },
+      "characters": ["孙秀兰", "周建设", "周建党", "周建萍", "陈小莲"],
+      "content": [
+        {
+          "type": "action",
+          "text": "酒过三巡，菜过五味。周建党突然站起来，清了清嗓子。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "周建党",
+          "text": "各位亲朋好友，我有件事要宣布。"
+        },
+        {
+          "type": "action",
+          "text": "大家都安静下来看着他。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "周建党",
+          "text": "妈，这些年儿子不孝，今天我想给您一个惊喜。"
+        },
+        {
+          "type": "action",
+          "text": "他走到门口，拉着一个年轻女孩的手走进来。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "周建党",
+          "text": "妈，这是小雅，我女朋友。我们……准备结婚了。"
+        },
+        {
+          "type": "action",
+          "text": "孙秀兰愣住了，仔细打量着这个女孩。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "小雅",
+          "text": "阿姨好。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孙秀兰",
+          "text": "好……好……"
+        },
+        {
+          "type": "action",
+          "text": "她的眼眶突然红了。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孙秀兰",
+          "text": "你爸要是能看到……该多好……"
+        },
+        {
+          "type": "action",
+          "text": "周建设赶紧上前扶住母亲。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "周建设",
+          "text": "妈，今天是大喜的日子，别哭。"
+        },
+        {
+          "type": "action",
+          "text": "孙秀兰擦干眼泪，露出笑容。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孙秀兰",
+          "text": "对，不哭。这是高兴的事！"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "周家小院",
+        "time": "傍晚",
+        "atmosphere": "温暖、团圆"
+      },
+      "characters": ["孙秀兰", "周建设", "周建党", "周建萍", "陈小莲", "小雅"],
+      "content": [
+        {
+          "type": "action",
+          "text": "切蛋糕的环节到了。服务员推上来一个七层的大蛋糕，上面插着70根蜡烛。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "众人",
+          "text": "祝您生日快乐！祝您生日快乐！"
+        },
+        {
+          "type": "action",
+          "text": "孙秀兰闭上眼睛许愿。"
+        },
+        {
+          "type": "emotion",
+          "text": "她许的愿是：希望孩子们都平平安安。"
+        },
+        {
+          "type": "action",
+          "text": "蜡烛吹灭，掌声雷动。"
+        },
+        {
+          "type": "action",
+          "text": "陈小莲站在角落里，默默地看着这一切。她和周建设已经离婚，但还是把这里当成娘家。"
+        },
+        {
+          "type": "action",
+          "text": "周建萍走上前，拉住陈小莲的手。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "周建萍",
+          "text": "小莲姐，一起吃饭吧。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "陈小莲",
+          "text": "嗯。"
+        },
+        {
+          "type": "action",
+          "text": "孙秀兰看着三个孩子围在自己身边，眼里满是幸福。"
+        },
+        {
+          "type": "dialogue",
+          "speaker": "孙秀兰",
+          "text": "（心里话）老头子，你看到了吗？孩子们都回来了……"
+        },
+        {
+          "type": "action",
+          "text": "院子的角落里，周德清的遗像被红布盖着，等待着明年迁坟。"
+        },
+        {
+          "type": "action",
+          "text": "但今天，是母亲的日子，是家的日子。"
+        }
+      ]
+    }
+  ]
+}

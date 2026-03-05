@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_doubao-seed-2-0-pro-260215_SD_A_mystery_thriller_30_episode_17_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "doubao-seed-2-0-pro-260215",
+  "source_sample_id": "SD_A_mystery_thriller_30",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_17_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 17,
+  "input_tokens_est": 22698,
+  "reference_output_tokens_est": 638,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

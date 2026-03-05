@@ -1,0 +1,284 @@
+{
+  "episode_number": 5,
+  "title": "心动信号已发送",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "小洋楼客厅",
+      "time_of_day": "夜晚",
+      "atmosphere": "甜蜜又紧张，短信内容揭晓",
+      "initial_shot": "【特写】沈央盯着手机屏幕，心跳加速",
+      "characters": ["沈央", "宿寒英", "杨天驰", "龙女", "严家其", "段薇薇"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【特写】沈央盯着手机屏幕，心跳加速。短信内容：今天谢谢你帮我搬行李。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "恍然",
+          "text": "搬行李……是宿寒英！"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央抬头，对上宿寒英的视线。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】宿寒英嘴角微微上扬，眼神里有笑意。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央慌乱地低下头，耳朵微微泛红。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "慌乱",
+          "text": "他怎么知道是我发的……难道他也发给我了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨天驰",
+          "emotion": "好奇",
+          "text": "大家都收到了吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "段薇薇",
+          "emotion": "娇羞",
+          "text": "收到了~"
+        },
+        {
+          "type": "action",
+          "text": "【近景】段薇薇眼神飘向宿寒英，宿寒英没有看她。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "观察",
+          "text": "段薇薇好像对宿寒英有好感……"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：甜蜜暧昧的钢琴曲"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "小洋楼客厅",
+      "time_of_day": "夜晚",
+      "atmosphere": "温馨晚餐，暗流涌动",
+      "initial_shot": "【全景】嘉宾们围坐在餐桌旁，晚餐开始",
+      "characters": ["沈央", "宿寒英", "杨天驰", "龙女", "严家其", "段薇薇"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】嘉宾们围坐在餐桌旁，晚餐开始。桌上摆满了丰盛的菜肴。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨天驰",
+          "emotion": "活跃",
+          "text": "来来来，大家别客气，开动吧！"
+        },
+        {
+          "type": "action",
+          "text": "【中景】大家开始用餐。宿寒英自然地拿起公筷，把沈央喜欢的菜转到他面前。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央愣住，看着面前的菜。"
+        },
+        {
+          "type": "dialogue",
+          "character": "宿寒英",
+          "emotion": "平静",
+          "text": "你不是说没吃早饭吗？多吃点。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央耳朵更红了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "小声",
+          "text": "谢谢……"
+        },
+        {
+          "type": "action",
+          "text": "【近景】杨天驰挑了挑眉，看看宿寒英，又看看沈央。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "杨天驰",
+          "emotion": "八卦",
+          "text": "有意思……"
+        },
+        {
+          "type": "action",
+          "text": "【中景】龙女小口吃饭，偶尔偷看沈央一眼。"
+        },
+        {
+          "type": "action",
+          "text": "【近景】严家其优雅地用餐，神情淡然。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】段薇薇咬了咬嘴唇，眼神复杂。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "纠结",
+          "text": "节目组给我安排的人设是"中央空调"……对每个女孩子都很暖。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "挣扎",
+          "text": "可我对每个人都很暖，岂不是等于对每个人都在撩？好渣！"
+        },
+        {
+          "type": "action",
+          "text": "【近景】沈央偷偷看向宿寒英。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "坚定",
+          "text": "但是……我自认专一。如果真的要对一个人好，那就只对她一个人好。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】宿寒英似乎察觉到沈央的视线，转头看他。"
+        },
+        {
+          "type": "action",
+          "text": "【慢镜头】【特写】两人视线交汇，空气仿佛凝固。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：心跳声放大 *咚咚咚*"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "location": "三楼公共区域",
+      "time_of_day": "夜晚",
+      "atmosphere": "期待与悬念，新嘉宾即将到来",
+      "initial_shot": "【全景】晚餐后，嘉宾们来到三楼公共区域休息",
+      "characters": ["沈央", "宿寒英", "杨天驰", "龙女", "严家其", "段薇薇", "导演"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【全景】晚餐后，嘉宾们来到三楼公共区域休息。健身房、影音室、游戏厅和阳光花房灯火通明。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央站在阳光花房里，看着满屋绿植发呆。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】宿寒英走进花房，站到他身边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "宿寒英",
+          "emotion": "平静",
+          "text": "喜欢植物？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈央",
+          "emotion": "老实",
+          "text": "叫不出名字……但长得挺好。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】宿寒英轻笑一声。"
+        },
+        {
+          "type": "dialogue",
+          "character": "宿寒英",
+          "emotion": "温和",
+          "text": "我也是。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】两人并肩站着，安静地看着绿植。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "平静",
+          "text": "奇怪……和他待在一起，居然不觉得紧张。"
+        },
+        {
+          "type": "sound",
+          "text": "音效：导演的脚步声"
+        },
+        {
+          "type": "action",
+          "text": "【中景】导演走进来，手里拿着一个信封。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "严肃",
+          "text": "各位，宣布一个消息。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】所有人都看了过来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "导演",
+          "emotion": "宣布",
+          "text": "明天将有两位新嘉宾加入，一男一女。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】沈央愣住。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "复杂",
+          "text": "新嘉宾……修罗场要升级了吗？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】沈央下意识看向宿寒英。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】宿寒英也在看他，眼神深邃。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "沈央",
+          "emotion": "期待",
+          "text": "不管怎样……这二十八天，好像不会无聊了。"
+        },
+        {
+          "type": "action",
+          "text": "【全景】花房里，绿植环绕，两人并肩而立，灯光柔和。"
+        },
+        {
+          "type": "effect",
+          "text": "【画面渐暗】字幕：心动28天，才刚刚开始……"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：温柔心动的音乐渐强，淡出"
+        }
+      ]
+    }
+  ]
+}

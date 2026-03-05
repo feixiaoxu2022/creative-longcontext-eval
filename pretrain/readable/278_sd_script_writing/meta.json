@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_glm-5_SD_C_mystery_thriller_60_setting_h2198_episode_42_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "glm-5",
+  "source_sample_id": "SD_C_mystery_thriller_60_setting_h2198",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_42_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 42,
+  "input_tokens_est": 19972,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

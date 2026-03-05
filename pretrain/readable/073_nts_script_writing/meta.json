@@ -1,0 +1,17 @@
+{
+  "id": "nts_nts_v3_qwen3.5-plus-2026-02-15_NTS_ENTERTAINMENT_MEDIUM_5EP_STRICT_XHS_001_episode_5",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "qwen3.5-plus-2026-02-15",
+  "source_sample_id": "NTS_ENTERTAINMENT_MEDIUM_5EP_STRICT_XHS_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_5.json",
+  "output_type": "改编剧本",
+  "genre": "entertainment",
+  "sequence_num": 5,
+  "input_tokens_est": 2689,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

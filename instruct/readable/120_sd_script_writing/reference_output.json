@@ -1,0 +1,51 @@
+{
+  "episode_number": 23,
+  "title": "联盟",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "陆笙公司天台", "time": "傍晚", "atmosphere": "破釜沉舟的坦诚"},
+      "characters": ["沈令仪", "陆笙", "程淮舟"],
+      "content": [
+        {"type": "action", "description": "天台上。三个人第一次同时站在一起。风很大，把沈令仪的头发吹乱了。"},
+        {"type": "dialogue", "character": "沈令仪", "line": "我一个人打不过她。她了解我的每一步棋——因为都是她教的。我需要她不认识的棋子和她没见过的棋路。"},
+        {"type": "dialogue", "character": "程淮舟", "line": "我有媒体渠道。虽然现在被压着，但还没死。"},
+        {"type": "dialogue", "character": "陆笙", "line": "我有技术。数据溯源、舆情监控——这些是裴照华不懂的领域。"},
+        {"type": "dialogue", "character": "沈令仪", "line": "我有对裴照华的了解。她的思维方式、决策习惯、弱点——这些都在我脑子里。"},
+        {"type": "action", "description": "她看着两个人。"},
+        {"type": "dialogue", "character": "沈令仪", "line": "三个人加起来——才有可能打赢一个裴照华。"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "陆笙公司小会议室", "time": "夜晚", "atmosphere": "深夜的作战会议"},
+      "characters": ["沈令仪", "陆笙", "程淮舟"],
+      "content": [
+        {"type": "action", "description": "三人围坐在小会议室里。白板上画满了关系图和战略路线。"},
+        {"type": "dialogue", "character": "陆笙", "line": "关键问题——你一直在公关战场上打。这是裴照华的主场。为什么不把战场转到她不擅长的地方？"},
+        {"type": "dialogue", "character": "沈令仪", "line": "比如？"},
+        {"type": "dialogue", "character": "陆笙", "line": "数据和技术。她的所有操盘都依赖人脉和话术——但如果我们能用技术手段实时追踪她的信息操盘路径，她就从暗处被拉到了明处。"},
+        {"type": "dialogue", "character": "程淮舟", "line": "我的平台可以做传播出口。但需要铁证——不是推测，是可验证的数据。"},
+        {"type": "action", "description": "沈令仪在白板上写下三个关键词：'技术溯源'、'信息追踪'、'证据固化'。"},
+        {"type": "dialogue", "character": "沈令仪", "line": "转移战场。从她的棋盘上跳出去。"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "陆笙公司小会议室", "time": "深夜", "atmosphere": "违反老师教诲的笑声"},
+      "characters": ["沈令仪", "陆笙", "程淮舟"],
+      "content": [
+        {"type": "action", "description": "深夜两点。桌上堆满了外卖盒和咖啡杯。作战路线图已经成型。三人都有些疲惫。"},
+        {"type": "action", "description": "沈令仪看着白板上的计划，忽然笑了。"},
+        {"type": "dialogue", "character": "程淮舟", "line": "笑什么？"},
+        {"type": "dialogue", "character": "沈令仪", "line": "裴照华教过我一句话——'永远不要组建你控制不了的团队。因为人是最大的变量。'"},
+        {"type": "action", "description": "她看着陆笙和程淮舟。"},
+        {"type": "dialogue", "character": "沈令仪", "line": "今天我违反了她这条教诲。"},
+        {"type": "dialogue", "character": "陆笙", "line": "那她说得对吗？"},
+        {"type": "dialogue", "character": "沈令仪", "line": "对。人确实是最大的变量。但她忘了——变量有时候也是最大的变数。"},
+        {"type": "emotion", "description": "深夜的会议室里，三个人相视而笑。不是胜利的笑——是终于不再孤军奋战的释然。"}
+      ]
+    }
+  ]
+}

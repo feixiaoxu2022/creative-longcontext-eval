@@ -1,0 +1,120 @@
+{
+  "episode_number": 5,
+  "scene_count": 3,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "location": "莫斯科街头 / 夜 / 激烈",
+      "initial_shot": "全景 - 巨大的狼形怪物在雪地中咆哮，唐陌狼狈躲闪",
+      "characters": ["唐陌", "小女孩（怪物）", "洛风城"],
+      "content": [
+        {
+          "type": "action",
+          "description": "【全景】怪物一爪拍下，唐陌翻滚躲开，身后的路灯被拍断。洛风城从昏迷中醒来，挣扎着爬起。"
+        },
+        {
+          "type": "action",
+          "description": "【中景】洛风城抓起一本厚重的《战争与和平》，用力砸向怪物的眼睛。"
+        },
+        {
+          "type": "dialogue",
+          "character": "洛风城（大喊）",
+          "emotion": "焦急",
+          "text": "唐陌！它的弱点是火柴！"
+        },
+        {
+          "type": "action",
+          "description": "【特写】怪物吃痛，转头扑向洛风城。唐陌趁机站稳，双手握紧手中的巨大木棒。"
+        },
+        {
+          "type": "action",
+          "description": "【特写】木棒顶端突然燃起熊熊烈火。唐陌眼神一凛，嘴角勾起一抹冷笑。"
+        },
+        {
+          "type": "dialogue",
+          "character": "唐陌（冷酷）",
+          "emotion": "自信",
+          "text": "既然你喜欢火柴，那就送你个大的。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "location": "莫斯科街头 / 夜 / 高潮",
+      "initial_shot": "仰拍 - 唐陌高举燃烧的大火柴，如同战神",
+      "characters": ["唐陌", "小女孩（怪物）"],
+      "content": [
+        {
+          "type": "action",
+          "description": "【慢镜头】唐陌助跑，起跳，手中的大火柴带着呼啸的风声，狠狠砸向怪物的脑袋。"
+        },
+        {
+          "type": "sound",
+          "description": "音效：巨大的撞击声 *砰——*"
+        },
+        {
+          "type": "action",
+          "description": "【特写】怪物的脑袋被火柴击中，瞬间爆裂成无数火星。巨大的身躯轰然倒塌，化作黑烟消散。"
+        },
+        {
+          "type": "action",
+          "description": "【全景】雪地恢复平静，只剩下唐陌喘着粗气站在原地。手中的大火柴渐渐缩小，变成一根普通的火柴大小，落在他掌心。"
+        },
+        {
+          "type": "sound",
+          "description": "音效：机械广播音响起"
+        },
+        {
+          "type": "dialogue",
+          "character": "黑塔广播（混响）",
+          "emotion": "毫无感情",
+          "text": "叮咚！恭喜玩家唐陌，通关副本《莫斯科童谣》。奖励：异能【吃干抹净不给钱】。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "location": "苏州市图书馆 / 日 / 平静",
+      "initial_shot": "全景 - 阳光重新洒进图书馆，一切仿佛从未发生",
+      "characters": ["唐陌"],
+      "content": [
+        {
+          "type": "action",
+          "description": "【全景】唐陌猛地睁开眼，发现自己还站在书架前。周围一片寂静，仿佛刚才的一切只是幻觉。"
+        },
+        {
+          "type": "action",
+          "description": "【特写】但他摊开手掌，掌心里静静躺着那根缩小版的“大火柴”。"
+        },
+        {
+          "type": "sound",
+          "description": "音效：手机震动声 *嗡嗡*"
+        },
+        {
+          "type": "action",
+          "description": "【特写】唐陌拿出手机，屏幕上显示一条新消息。"
+        },
+        {
+          "type": "dialogue",
+          "character": "Victor（短信）",
+          "emotion": "神秘",
+          "text": "你也进去了吗？"
+        },
+        {
+          "type": "action",
+          "description": "【推镜头】唐陌看着屏幕，嘴角微微上扬，眼神变得深邃。"
+        },
+        {
+          "type": "dialogue",
+          "character": "唐陌（轻声）",
+          "emotion": "坚定",
+          "text": "游戏……才刚刚开始。"
+        },
+        {
+          "type": "action",
+          "description": "【字幕】第一季 完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+"novel_title": "默读",
+"author": "priest",
+"genre": "悬疑刑侦",
+"word_count":10438,
+"novel_summary": "燕城花市区南平大道北一带，东区繁华，西区贫困。一具男尸在西区小巷被发现，死者是咖啡厅送货员何忠义，颈部有扼痕，财物被洗劫一空。警方介入调查，同时富二代费渡的行为可疑，他深夜出现在案发现场附近，并与刑警骆闻舟产生交集。故事围绕命案侦破展开，揭示背后的阴谋和人物隐藏身份。",
+"one_sentence_hook": "富二代与刑警联手侦破命案，揭开背后的阴谋。",
+"emotional_engine": "悬疑、推理、正义与黑暗的对抗",
+"key_scenes": [
+{
+"scene_name": "尸体发现",
+"chapter": "第1章",
+"description": "凌晨，野猫发现尸体，死者面部肿胀，额头有半月形伤疤，盖着写有“钱”字的白纸。"
+},
+{
+"scene_name": "费渡的可疑行为",
+"chapter": "第1章",
+"description": "费渡深夜离开承光公馆，代驾途中手机滑落，车辆拐进西区。"
+},
+{
+"scene_name": "警方介入",
+"chapter": "第2章",
+"description": "张局命令骆闻舟带队调查命案，王洪亮试图掩盖真相。"
+},
+{
+"scene_name": "骆闻舟调查现场",
+"chapter": "第3章",
+"description": "骆闻舟、陶然、郎乔到达案发现场，与王洪亮交涉。"
+}
+],
+"characters": [
+{
+"name": "费渡",
+"role": "主角",
+"description": "富二代，表面浪荡，实则聪明，可能有隐藏身份。",
+"personality": "矛盾、神秘、聪明",
+"background": "父亲成植物人，独自管理家族企业。"
+},
+{
+"name": "骆闻舟",
+"role": "主角",
+"description": "刑警，正直、敏锐，负责调查命案。",
+"personality": "正义、幽默、专业",
+"background": "燕城市公安总局刑侦大队队长。"
+},
+{
+"name": "陶然",
+"role": "配角",
+"description": "刑警，骆闻舟的同事。",
+"personality": "稳重、细心"
+},
+{
+"name": "郎乔",
+"role": "配角",
+"description": "女警，骆闻舟的同事。",
+"personality": "活泼、直率"
+},
+{
+"name": "王洪亮",
+"role": "反派",
+"description": "花市区分局负责人，试图掩盖真相。",
+"personality": "圆滑、推诿"
+}
+],
+"theme": "正义与黑暗的对抗，真相的揭露"
+}

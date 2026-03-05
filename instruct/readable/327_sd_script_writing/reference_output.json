@@ -1,0 +1,183 @@
+{
+  "episode_number": 75,
+  "total_scenes": 3,
+  "title": "原始录音的致命一击",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "陆景琛办公室",
+        "time": "白天",
+        "atmosphere": "紧张压抑，死亡的气息笼罩着整个空间"
+      },
+      "characters": ["沈清辞", "陆景琛"],
+      "content": [
+        {
+          "type": "action",
+          "description": "沈清辞推门而入，手中拿着一支录音笔，脸上带着意味深长的笑容。陆景琛正在办公桌前处理文件，看到她进来，脸色瞬间变得苍白。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "陆总，好久不见。我这里有些东西，想让你听听。"
+        },
+        {
+          "type": "emotion",
+          "description": "陆景琛的手微微颤抖，眼神中闪过一丝恐惧，但很快掩饰过去。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "line": "你...你想干什么？这里是我的办公室，请你离开。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞不慌不忙地走到办公桌前，将录音笔放在桌面上，发出清脆的声响。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "别紧张，我只是想让你听听这个。原始录音，你一定很熟悉吧？"
+        },
+        {
+          "type": "emotion",
+          "description": "陆景琛的瞳孔猛地收缩，额头渗出冷汗，整个人僵在原地。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞按下录音笔的播放键，里面传出陆景琛和林诗雨密谋的声音。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛（录音）",
+          "line": "诗雨，这次我们一定要成功。等沈清辞死了，她的财产就都是我们的了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林诗雨（录音）",
+          "line": "景琛，你放心，我已经安排好了一切。律师也是我们的人，她死定了。"
+        },
+        {
+          "type": "emotion",
+          "description": "陆景琛的脸色变得惨白，双腿发软，几乎要瘫倒在地。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "陆景琛办公室",
+        "time": "白天",
+        "atmosphere": "绝望压抑，死亡的气息笼罩着整个空间"
+      },
+      "characters": ["沈清辞", "陆景琛"],
+      "content": [
+        {
+          "type": "action",
+          "description": "陆景琛猛地站起来，想要冲过去抢夺录音笔，但被沈清辞一个眼神制止。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "line": "你...你这个疯子！这些东西你是从哪里弄来的？"
+        },
+        {
+          "type": "emotion",
+          "description": "沈清辞的眼神冰冷如刀，嘴角勾起一抹嘲讽的笑意。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "从哪里？当然是你们亲手交给我的。你们以为删除了所有录音就万事大吉了？太天真了。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞继续播放录音，每播放一段，陆景琛的脸色就苍白一分。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛（录音）",
+          "line": "等她死了，我们就结婚。她的公司，她的财产，都是我们的。"
+        },
+        {
+          "type": "emotion",
+          "description": "陆景琛彻底崩溃，双手抱头，发出痛苦的呻吟声。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞关掉录音笔，冷冷地看着陆景琛。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "现在，你知道什么叫绝望了吗？这就是我当初的感受。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "陆景琛办公室",
+        "time": "白天",
+        "atmosphere": "冷酷决绝，复仇的火焰在沈清辞眼中燃烧"
+      },
+      "characters": ["沈清辞", "陆景琛"],
+      "content": [
+        {
+          "type": "action",
+          "description": "陆景琛跪倒在地，双手抓住沈清辞的裙角，痛哭流涕。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "line": "清辞...我错了...我真的错了...求求你，放过我吧..."
+        },
+        {
+          "type": "emotion",
+          "description": "沈清辞居高临下地看着陆景琛，眼中没有一丝怜悯。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "放过你？当初你背叛我的时候，有没有想过放过我？"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞一脚踢开陆景琛的手，后退一步，保持距离。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "line": "我...我当时是一时糊涂...我真的爱你..."
+        },
+        {
+          "type": "emotion",
+          "description": "沈清辞发出一声冷笑，眼中满是嘲讽。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "爱我？爱我到要置我于死地？爱我到要夺走我的一切？陆景琛，你的爱真让我恶心。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞拿起录音笔，在手中把玩，眼神冰冷。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "line": "这个录音笔，我会交给陈明远。他会把这些录音公之于众。你准备好接受法律的制裁了吗？"
+        },
+        {
+          "type": "emotion",
+          "description": "陆景琛彻底绝望，整个人瘫软在地，眼神空洞，如同行尸走肉。"
+        },
+        {
+          "type": "action",
+          "description": "沈清辞转身离开，留下陆景琛一个人在办公室里绝望地哭泣。"
+        },
+        {
+          "type": "emotion",
+          "description": "沈清辞走出办公室，脸上露出一丝冷笑。复仇的火焰在她心中燃烧，这只是开始。"
+        }
+      ]
+    }
+  ]
+}

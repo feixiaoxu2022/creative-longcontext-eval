@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_MiniMax-M2.5_SD_D_transmigration_70_character_opening_h5237_episode_44_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "MiniMax-M2.5",
+  "source_sample_id": "SD_D_transmigration_70_character_opening_h5237",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_44_script.json",
+  "output_type": "原创剧本",
+  "genre": "transmigration",
+  "sequence_num": 44,
+  "input_tokens_est": 10180,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

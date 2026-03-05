@@ -1,0 +1,199 @@
+{
+  "episode_number": 22,
+  "title": "醒过来",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "医院病房",
+        "time": "白天",
+        "atmosphere": "王志强醒来，父子关系缓和"
+      },
+      "characters": ["王志强", "王建国", "刘淑芬"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "医院病房里，王志强慢慢睁开眼睛，王建国和刘淑芬守在床边。"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "睁开眼睛，看到父母。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "爸，我想吃你包的饺子。"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "愣住了，眼眶红了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "臭小子，你醒了？吓死老子了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘淑芬",
+          "line": "志强，你终于醒了，妈担心死了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "妈，我没事，就是有点累。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "想吃饺子？爸回去给你包，你等着。"
+        },
+        {
+          "type": "emotion",
+          "text": "王建国转身出去，刘淑芬看着儿子，眼泪流下来。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "医院走廊",
+        "time": "下午",
+        "atmosphere": "王建国接到电话，生意出问题"
+      },
+      "characters": ["王建国", "电话里的人"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "医院走廊里，王建国正准备去买菜，手机响了。"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "接起电话。"
+        },
+        {
+          "type": "dialogue",
+          "character": "电话里的人",
+          "line": "王总，不好了，合伙人卷款跑了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "啥？卷款跑了？多少钱？"
+        },
+        {
+          "type": "dialogue",
+          "character": "电话里的人",
+          "line": "所有的钱，项目要破产了！家属院入股的钱可能打水漂！"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "愣住了，手机差点掉地上。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "这……这咋办？家属院那么多人的钱……"
+        },
+        {
+          "type": "dialogue",
+          "character": "电话里的人",
+          "line": "王总，您得赶紧回来处理！"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "挂了电话，靠在墙上，脸色惨白。"
+        },
+        {
+          "type": "emotion",
+          "text": "王建国不知道该怎么告诉儿子这个消息。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "医院病房",
+        "time": "晚上",
+        "atmosphere": "父子谈心，王建国安慰儿子"
+      },
+      "characters": ["王建国", "王志强", "刘淑芬"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "晚上，医院病房里，王建国坐在床边，王志强看着他。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "爸，出啥事了？你脸色不好。"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "犹豫了一下，还是说了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "志强，合伙人卷款跑了，项目要破产了。"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "愣住了，脸色惨白。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "家属院入股的钱……全没了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "嗯，可能打水漂了。"
+        },
+        {
+          "type": "action",
+          "character": "王志强",
+          "text": "闭上眼睛，眼泪流下来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王志强",
+          "line": "爸，我对不起你，对不起家属院的人……"
+        },
+        {
+          "type": "action",
+          "character": "王建国",
+          "text": "握着儿子的手。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "儿子，钱没了可以再赚，人没事就好。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘淑芬",
+          "line": "志强，妈不怪你，只要你人没事就行。"
+        },
+        {
+          "type": "dialogue",
+          "character": "王建国",
+          "line": "志强，咱们一家人在一起，比啥都强。"
+        },
+        {
+          "type": "emotion",
+          "text": "王志强看着父母，心里既感动又愧疚。"
+        }
+      ]
+    }
+  ]
+}

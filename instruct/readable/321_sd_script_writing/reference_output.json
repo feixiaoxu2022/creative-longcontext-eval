@@ -1,0 +1,111 @@
+{
+  "episode_number": 58,
+  "title": "传承者",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "陈氏集团",
+        "time": "白天",
+        "atmosphere": "传承"
+      },
+      "characters": ["陈野", "小平安", "公司高层"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈野正式宣布退居二线，由小平安接任董事长。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "从今天起，小平安将担任陈氏集团董事长。"
+        },
+        {
+          "type": "action",
+          "character": "小平安",
+          "description": "小平安走上台。"
+        },
+        {
+          "type": "dialogue",
+          "character": "小平安",
+          "line": "我会继续父亲的事业。"
+        },
+        {
+          "type": "emotion",
+          "description": "全场掌声雷动。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "武馆",
+        "time": "下午",
+        "atmosphere": "传承"
+      },
+      "characters": ["陈野", "小平安"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "陈野把陈氏功夫的秘籍传给儿子。"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野把一本古旧的册子交给小平安。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "这是陈家几代人的心血。"
+        },
+        {
+          "type": "dialogue",
+          "character": "小平安",
+          "line": "爸，我一定好好保管。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "要传给下一代。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "陈家",
+        "time": "晚上",
+        "atmosphere": "温馨"
+      },
+      "characters": ["陈野", "苏晚棠", "小平安", "小孙子"],
+      "content": [
+        {
+          "type": "emotion",
+          "description": "小平安带着儿子来看望陈野。"
+        },
+        {
+          "type": "action",
+          "character": "小孙子",
+          "description": "小孙子扑进陈野怀里。"
+        },
+        {
+          "type": "dialogue",
+          "character": "小孙子",
+          "line": "爷爷！"
+        },
+        {
+          "type": "action",
+          "character": "陈野",
+          "description": "陈野抱起小孙子。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈野",
+          "line": "这就是传承。"
+        }
+      ]
+    }
+  ]
+}

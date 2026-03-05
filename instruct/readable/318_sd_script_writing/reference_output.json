@@ -1,0 +1,187 @@
+{
+  "episode_number": 50,
+  "title": "循环",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "某商务宴会",
+        "time": "夜晚",
+        "atmosphere": "紧张"
+      },
+      "characters": ["林晚晴", "沈浩", "顾言深"],
+      "content": [
+        {
+          "type": "action",
+          "description": "商务宴会现场，林晚晴和顾言深正在和客户交谈"
+        },
+        {
+          "type": "action",
+          "description": "沈浩走了过来，神情冷漠"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "林总，没想到在这里见到您"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "沈总，好久不见"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "听说您的公司最近发展得不错。不过，我听说监管部门正在调查您的公司"
+        },
+        {
+          "type": "emotion",
+          "description": "林晚晴的表情瞬间冷了下来"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "沈总，您在说什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "有人举报您的公司涉嫌内幕交易。监管部门已经开始调查了"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "沈总，这是诬陷"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "是不是诬陷，调查后就知道了。林总，这只是开始"
+        },
+        {
+          "type": "action",
+          "description": "沈浩转身离开，留下林晚晴和顾言深"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "宴会厅角落",
+        "time": "夜晚",
+        "atmosphere": "私密"
+      },
+      "characters": ["林晚晴", "沈浩"],
+      "content": [
+        {
+          "type": "action",
+          "description": "宴会厅角落，林晚晴主动找到沈浩"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "沈总，我们可以谈谈吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "谈什么？谈您如何毁了我的家庭？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "我没有毁你的家庭。沈雅琳的罪行是她自己犯下的"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "但您把她送进了监狱！"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "是的，我揭露了真相。但你知道真相是什么吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈浩",
+          "line": "什么真相？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "三年前，沈雅琳策划了内幕交易，然后陷害我，让我替她坐了三年牢"
+        },
+        {
+          "type": "emotion",
+          "description": "沈浩愣住了，他没想到会有这样的真相"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "沈浩，复仇不会带来任何东西，只会让你变成你母亲"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "林晚晴办公室",
+        "time": "深夜",
+        "atmosphere": "平静"
+      },
+      "characters": ["林晚晴", "顾言深"],
+      "content": [
+        {
+          "type": "action",
+          "description": "办公室内，林晚晴坐在沙发上，神情疲惫"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "你告诉他真相了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "是的。他有权知道真相"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "你觉得他会听吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "我不知道。但我选择不报复，而是主动和解"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "为什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "因为我不想让复仇的循环继续。如果我报复他，他的孩子将来也会报复我"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "真正的胜利，不是打败所有人，而是打破这个循环"
+        },
+        {
+          "type": "emotion",
+          "description": "顾言深看着林晚晴，眼中充满欣赏"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "line": "你真的成长了，林晚晴"
+        }
+      ]
+    }
+  ]
+}

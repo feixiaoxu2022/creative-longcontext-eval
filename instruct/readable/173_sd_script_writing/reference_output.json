@@ -1,0 +1,50 @@
+{
+  "episode_number": 38,
+  "title": "公开宣战",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {"location": "观景大厅", "time": "中午", "atmosphere": "观景大厅聚满了乘客和船员，嗡嗡的议论声在穹顶下回荡。沈棠站在大厅中央，身后是落地玻璃窗和无际的海面"},
+      "characters": ["沈棠", "陆怀瑾", "顾北辰", "方晴", "白薇", "程砚之"],
+      "content": [
+        {"type": "action", "description": "沈棠深吸一口气，环顾四周。所有关键人物都在——顾北辰站在侧面保持警戒，方晴在人群中观察反应，程砚之守在靠近出口的位置。而陆怀瑾坐在二楼的环形回廊上，手中端着咖啡，俯视全场"},
+        {"type": "dialogue", "character": "沈棠", "line": "各位，请给我五分钟。我叫沈棠，犯罪心理学教授。这几天船上发生的一切——钱万涛先生的失踪、晚宴投毒、通讯中断、昨晚老郑船长遭到袭击——它们不是孤立事件。"},
+        {"type": "action", "description": "人群安静下来。有人交头接耳，有人面露恐惧"},
+        {"type": "dialogue", "character": "沈棠", "line": "有人在系统性地消除证据和证人。而这个人——此刻就在我们中间。"},
+        {"type": "action", "description": "一阵骚动。有人本能地回头看向二楼的陆怀瑾。陆怀瑾微微一笑，端着咖啡纹丝不动"},
+        {"type": "dialogue", "character": "沈棠", "line": "二十年前有一艘叫海棠号的船在这片海域沉没，三十七个人遇难。那不是天灾——是谋杀。而今天，凶手试图在海神号上重演一切。"},
+        {"type": "emotion", "description": "沈棠说到'三十七个人遇难'时声音哽了一秒。但只有一秒。她的目光越过人群，直直看向二楼的陆怀瑾"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {"location": "观景大厅", "time": "中午", "atmosphere": "空气像被按下了暂停键，所有人的呼吸都屏住了"},
+      "characters": ["沈棠", "陆怀瑾", "顾北辰", "方晴", "白薇", "程砚之"],
+      "content": [
+        {"type": "dialogue", "character": "沈棠", "line": "二十年前有三十七个人死在海上。今天——我们不能让它再发生一次。"},
+        {"type": "action", "description": "她的声音在最后一个字上破碎了。大厅里死一般的寂静"},
+        {"type": "action", "description": "然后，二楼传来了清脆的掌声。陆怀瑾把咖啡杯放在栏杆上，缓缓地、一下一下地鼓掌。每一下都像敲在棺材板上"},
+        {"type": "dialogue", "character": "陆怀瑾", "line": "沈教授讲得很精彩。故事性很强，有悬念、有情感——不愧是学心理学的。"},
+        {"type": "action", "description": "他笑着起身，双手撑在栏杆上俯视沈棠。那笑容温和得无可挑剔，但沈棠在他眼底看到了一条毒蛇的冷光"},
+        {"type": "emotion", "description": "大厅里的气氛在鼓掌声中骤然分裂。有人开始怀疑沈棠，有人死死盯着陆怀瑾——信任的裂痕在人群中像闪电一样蔓延"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {"location": "走廊", "time": "中午", "atmosphere": "人群散去后的走廊里回荡着此起彼伏的争论声"},
+      "characters": ["沈棠", "顾北辰", "方晴", "白薇", "程砚之"],
+      "content": [
+        {"type": "action", "description": "沈棠走出大厅时腿在发软。顾北辰跟上来，方晴从另一侧靠过来"},
+        {"type": "dialogue", "character": "顾北辰", "line": "他在笑。全程都在笑。真正掌控全局的人不会因为暴露而慌张……"},
+        {"type": "dialogue", "character": "方晴", "line": "但乘客们听到了。种子已经种下去了——他不可能再控制所有人的想法。"},
+        {"type": "action", "description": "白薇从人群中走过，与沈棠擦肩而过时低声说了四个字"},
+        {"type": "dialogue", "character": "白薇", "line": "他很生气。"},
+        {"type": "action", "description": "白薇说完头也不回地走了。程砚之从后方赶来，确认周围没有陆怀瑾的人"},
+        {"type": "dialogue", "character": "程砚之", "line": "沈教授，你还好吗？"},
+        {"type": "dialogue", "character": "沈棠", "line": "我很好。牌已经摊了——接下来就看他怎么出招。"},
+        {"type": "emotion", "description": "走廊的尽头，阳光从舷窗照进来。沈棠的影子拉得很长——像一把刺向黑暗的刀"}
+      ]
+    }
+  ]
+}

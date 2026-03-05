@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_claude-opus-4-6_SD_C_family_saga_70_setting_h3203_episode_68_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "claude-opus-4-6",
+  "source_sample_id": "SD_C_family_saga_70_setting_h3203",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_68_script.json",
+  "output_type": "原创剧本",
+  "genre": "family_saga",
+  "sequence_num": 68,
+  "input_tokens_est": 79084,
+  "reference_output_tokens_est": 868,
+  "length_bin": "70K-100K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

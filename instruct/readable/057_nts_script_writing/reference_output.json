@@ -1,0 +1,331 @@
+{
+  "episode_info": {
+    "episode_number": 2,
+    "episode_title": "雪中验尸",
+    "duration": "3-5分钟"
+  },
+  "scenes": [
+    {
+      "scene_header": {
+        "scene_number": 1,
+        "location": "雪地案发现场",
+        "time": "日",
+        "atmosphere": "紧张压抑，风雪渐止",
+        "initial_shot": "【全景】风雪渐止的荒野，尸体横陈，捕役们正在清理现场"
+      },
+      "appearing_characters": ["凤霄", "裴惊蛰", "刘林"],
+      "content_sequence": [
+        {
+          "type": "action",
+          "content": "【全景】风雪渐止，捕役们七手八脚清理积雪，尸体逐渐露出。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】刘林跟在凤霄身后，查看尸体。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】大部分尸体喉咙一刀毙命，只有尉迟金乌胸口被利刃贯穿。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】刘林捡起半插在雪地里的长刀察看。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘林",
+          "emotion": "震惊",
+          "text": "突厥长刀！"
+        },
+        {
+          "type": "action",
+          "content": "【中景】另一名捕役也喊道。"
+        },
+        {
+          "type": "dialogue",
+          "character": "捕役",
+          "emotion": "震惊",
+          "text": "这里也有一把突厥长刀！"
+        },
+        {
+          "type": "action",
+          "content": "【特写】刀刃卷起，残血犹存。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】刘林震惊地看向凤霄。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刘林",
+          "emotion": "震惊",
+          "text": "难道真是突厥人干的？！"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰从翻倒的车厢内钻出来，怀里抱着一个八宝小柜。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】八宝小柜，三层抽屉，雕刻着于阗服饰的女子在舞蹈。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰将三层抽屉一一拉开。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】第一层桃干杏干，第二层头面首饰，第三层花黄。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】凤霄弯腰凑近尸体，鼻尖贴着侍女的脸颊。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】凤霄的俊美侧颜映着雪色流光，旁边是泛着青黑色泽的死人脸。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰微微变色。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "失声",
+          "text": "郎君！"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "淡然",
+          "text": "吵什么。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】凤霄走到另一具女尸旁边，蹲身低头，在脖颈处嗅了半天。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "不耐",
+          "text": "还有一个人，找。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】众人四下搜查，但最终只找出二十一具尸体。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】凤霄站起身，目光锐利。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "冷静",
+          "text": "马车内的残余香气，跟这两个女人身上的，不是同一种。还有一个女的，找出来！"
+        },
+        {
+          "type": "action",
+          "content": "【中景】众人面面相觑，不知所措。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】凤霄看向裴惊蛰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "淡然",
+          "text": "留一队人清理现场，把尸体都带回去。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】凤霄大步流星上了马，掉头扬鞭。"
+        },
+        {
+          "type": "action",
+          "content": "【全景】白衣灰马瞬间疾驰而去，余下众人面面相觑。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "scene_number": 2,
+        "location": "秋山别院",
+        "time": "日",
+        "atmosphere": "清幽宁静，适合密谈",
+        "initial_shot": "【全景】背山面水的雅致别院，飞檐铜铃，廊柱竹简"
+      },
+      "appearing_characters": ["凤霄", "裴惊蛰"],
+      "content_sequence": [
+        {
+          "type": "action",
+          "content": "【全景】秋山别院，背山面水，飞檐铜铃摇动。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】廊柱旁，凤霄倚坐着，神态慵懒散漫，手指灵巧地将信笺卷作小卷塞入竹筒。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】凤霄的睫毛微微一颤，察觉裴惊蛰的到来。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰放轻脚步走近。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "淡然",
+          "text": "派人去且末查一下，这个于阗使者随身带着什么人。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】凤霄将竹筒递给裴惊蛰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "好奇",
+          "text": "这桩案子，您是不是有头绪了？"
+        },
+        {
+          "type": "action",
+          "content": "【中景】凤霄随手从旁边抄起一份文书丢给裴惊蛰。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】金册国书，于阗王亲笔所写。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰浏览国书。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "分析",
+          "text": "郎君，于阗人死在大隋境内，一则可以灭大隋威风，二则令于阗与大隋生隙，这的确像是突厥人能干出来的事。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "挑眉",
+          "text": "他们入境杀人，为何要用突厥长刀，如果用的是中原兵器，岂非更加死无对证，毫无痕迹？"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰挠挠下巴，冥思苦想。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "疑惑",
+          "text": "突厥人向来行事粗暴，如此张狂也不奇怪，而且，现在突厥与中原磨刀霍霍，他们便是拿准了我们就算知道，也奈何不了他们？"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "反问",
+          "text": "你就没发现，那马车之中，还少了一样重要的东西？"
+        },
+        {
+          "type": "action",
+          "content": "【特写】裴惊蛰灵光一闪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "恍然",
+          "text": "礼单！刚才我找不到礼单！"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "认同",
+          "text": "哼。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "继续分析",
+          "text": "凶手拿走了礼单，莫不是顺手偷了哪样贡品，不想让我们知道？可我们只要去信于阗王，不也能问个明白？"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "否定",
+          "text": "一来一去，浪费的工夫也足以让对方做许多事情了。你将那个八宝小柜拿过来。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰将八宝小柜抱过来，将里头三层抽屉一一拉出。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "观察",
+          "text": "少了几样东西。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】裴惊蛰仔细查看抽屉。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "愚钝",
+          "text": "小人愚钝，还请郎君指教。"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "点破",
+          "text": "胭脂水粉。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】裴惊蛰恍然大悟。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "恍然",
+          "text": "小柜里还有花黄，说明肯定少不了打扮妆容的胭脂水粉，但马车内残余的香气，与那两名侍女的香气不同，说明此行还有另外一个女子，很可能就是尉迟金乌的宠妾，她被凶手掳走了？不，不对，抽屉没有被乱翻，东西摆放很整齐，对方带走的时候应该从容不迫……"
+        },
+        {
+          "type": "action",
+          "content": "【特写】裴惊蛰一个激灵。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "震惊",
+          "text": "难道凶手是那失踪的女子？！"
+        },
+        {
+          "type": "dialogue",
+          "character": "凤霄",
+          "emotion": "总结",
+          "text": "她未必是凶手，但肯定与凶手有关，对方虽然用突厥刀，也未必就是突厥人。去查吧，三天之内，给我消息。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】裴惊蛰微微垂首。"
+        },
+        {
+          "type": "dialogue",
+          "character": "裴惊蛰",
+          "emotion": "恭敬",
+          "text": "是。"
+        },
+        {
+          "type": "sound",
+          "content": "BGM：悬疑氛围音乐渐强"
+        }
+      ]
+    }
+  ]
+}

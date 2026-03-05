@@ -1,0 +1,279 @@
+{
+  "episode_number": 59,
+  "title": "孕期",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "律所",
+        "time": "白天",
+        "atmosphere": "工作与孕期"
+      },
+      "characters": ["沈若曦", "顾承泽", "助理"],
+      "content": [
+        {
+          "type": "action",
+          "description": "律师事务所，沈若曦在办公"
+        },
+        {
+          "type": "action",
+          "description": "她已经怀孕六个月，肚子明显隆起"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽走进来"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "若曦，该休息了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "还有一个案件没处理完..."
+        },
+        {
+          "type": "action",
+          "description": "顾承泽拿走她的文件"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你现在的任务是好好休息。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "我这不是还好吗..."
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "医生说了，你要多休息。"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦叹了口气"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "好吧..."
+        },
+        {
+          "type": "action",
+          "description": "她站起身"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "不过我有个想法。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "什么想法？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "我想成立一个孕妇权益保护项目。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽愣住了"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "孕妇权益保护？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "嗯，我怀孕后发现，很多孕妇在职场都受到不公平待遇。"
+        },
+        {
+          "type": "action",
+          "description": "她坐下来"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "有的被降薪，有的被辞退，有的被迫加班..."
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "我想用法律帮助她们。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽点头"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "这是好事，我支持你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "真的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "当然。你想做什么，我都支持。"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦开心地笑了"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "那我们就这么决定了。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "医院",
+        "time": "下午",
+        "atmosphere": "产检日常"
+      },
+      "characters": ["沈若曦", "顾承泽", "医生"],
+      "content": [
+        {
+          "type": "action",
+          "description": "医院产科，产检中"
+        },
+        {
+          "type": "action",
+          "description": "医生在给沈若曦做B超"
+        },
+        {
+          "type": "dialogue",
+          "character": "医生",
+          "line": "胎儿发育得很好，很健康。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽看着屏幕"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "医生，这是男孩还是女孩？"
+        },
+        {
+          "type": "dialogue",
+          "character": "医生",
+          "line": "这个...按规定不能说。"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦笑了"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "承泽，是男是女不重要，只要健康就好。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你说得对。"
+        },
+        {
+          "type": "action",
+          "description": "产检结束，两人走出医院"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "若曦，你想给孩子取什么名字？"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦想了想"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "如果是女孩，就叫顾念。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "顾念？有什么含义吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "思念的念。纪念我们相遇相爱的意思。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽笑了"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "那男孩呢？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "男孩就叫顾晨，晨曦的晨。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "顾晨...好名字！"
+        },
+        {
+          "type": "action",
+          "description": "他抱住沈若曦"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "无论是男孩还是女孩，我都喜欢。"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦靠在他怀里"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "承泽，谢谢你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "又谢我？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "谢谢你给我一个完整的家。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽亲吻她的额头"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "应该说谢谢的是我。"
+        }
+      ]
+    }
+  ]
+}

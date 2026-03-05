@@ -1,0 +1,205 @@
+{
+  "episode_number": 11,
+  "title": "信任的重量",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_number": 1,
+      "scene_header": {
+        "location": "码头",
+        "time": "夜晚",
+        "atmosphere": "神秘、紧张"
+      },
+      "characters": ["苏晚晴", "陆景川"],
+      "content": [
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "独自来到周衍之约好的地点——一个废弃码头"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "（低声自语）周衍之...你到底是什么人..."
+        },
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "从阴影中走出"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "晚晴？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "猛地转身，惊讶地看着他"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "陆景川？你怎么会在这里？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "我收到了一封匿名信，警告我说今晚有人要害你，让我来这里保护你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "匿名信？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "信上说，约你来这里的人叫周衍之，他很危险。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "心中一惊"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "你也知道周衍之？"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "仓库",
+        "time": "夜晚",
+        "atmosphere": "对峙、神秘"
+      },
+      "characters": ["苏晚晴", "陆景川", "周衍之"],
+      "content": [
+        {
+          "type": "action",
+          "character": "周衍之",
+          "text": "从仓库深处走出，鼓掌"
+        },
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "很好，你们都来了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "你就是周衍之？你约晚晴来这种地方有什么目的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "目的？当然是帮助苏小姐理解她的处境。"
+        },
+        {
+          "type": "action",
+          "character": "周衍之",
+          "text": "看向陆景川"
+        },
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "至于你...我没想到你也会来。看来你果然也是'被选中的人'。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "你在说什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "苏小姐，你还没告诉他吗？关于你的'前世'？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "震惊地看着周衍之"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "码头",
+        "time": "深夜",
+        "atmosphere": "震撼、揭秘"
+      },
+      "characters": ["苏晚晴", "陆景川", "周衍之"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "我不是重生者，但我能观测到时间的异常。"
+        },
+        {
+          "type": "action",
+          "character": "周衍之",
+          "text": "看着晚晴和陆景川"
+        },
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "而你们两个...是这场蝴蝶效应的核心。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "核心？什么意思？"
+        },
+        {
+          "type": "dialogue",
+          "character": "周衍之",
+          "text": "意思是，你们的命运纠缠在一起。前世的陆景川为你而死，这一世...谁知道呢？"
+        },
+        {
+          "type": "action",
+          "character": "陆景川",
+          "text": "震惊地看着晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "前世...为你而死？晚晴，这到底是怎么回事？"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "低下头，沉默片刻"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "text": "景川...如果我说，我来自五年后...你信吗？"
+        },
+        {
+          "type": "emotion",
+          "text": "陆景川愣了一下，然后认真地看着晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "我信。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "text": "抬起头，眼眶微红"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景川",
+          "text": "因为你不会骗我。"
+        }
+      ]
+    }
+  ]
+}

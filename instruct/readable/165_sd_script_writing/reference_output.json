@@ -1,0 +1,221 @@
+{
+  "episode_number": 8,
+  "title": "信任",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "沈雅琳办公室",
+        "time": "下午",
+        "atmosphere": "私密"
+      },
+      "characters": ["林晚晴", "沈雅琳"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "沈雅琳办公室里，林晚晴站在办公桌前，沈雅琳正在翻阅她的竞标方案"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "合上方案，抬头看向林晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "林薇，你的方案做得不错。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "谢谢沈总。"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "突然问道"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "你相信背叛吗？"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴内心一紧——这是试探"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（平静地）沈总，我不太明白您的意思。"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "起身，走到窗前，背对着林晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "我曾经也被最信任的人背叛过。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴愣住了——沈雅琳在说什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "（继续说）那是三十年前的事了。我的导师，我最敬重的人，为了自己的利益，把我推出去当替罪羊。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴内心震惊——沈雅琳也有过类似的经历？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "从那以后，我就明白了一个道理——在这个世界上，没有人值得真正信任。"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "转身，看向林晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "所以，林薇，如果你想在公司立足，就要记住——永远不要完全信任任何人。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（低声）沈总，我记住了。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴看着沈雅琳，内心复杂——这个女人，曾经也是受害者？"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "公司走廊",
+        "time": "傍晚",
+        "atmosphere": "安静"
+      },
+      "characters": ["林晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "公司走廊里，林晚晴独自走着，内心翻涌着复杂的情绪"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（自言自语）沈雅琳……她曾经也被背叛过？"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "停下脚步，靠在墙上"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（低声）所以，她变成了现在的样子？一个不信任任何人的人？"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴的眼神变得复杂"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（坚定地）不，我不能同情她。她选择了背叛我，就要承担后果。"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "深吸一口气，继续往前走"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "林晚晴公寓",
+        "time": "夜晚",
+        "atmosphere": "孤独"
+      },
+      "characters": ["林晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "深夜，林晚晴坐在公寓的窗前，看着窗外的城市灯火"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "拿起手机，拨通了顾言深的电话"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "顾言深，我今天和沈雅琳谈了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "text": "（电话里）她说了什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "她说她曾经也被最信任的人背叛过。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "text": "（沉默片刻）这是真的。三十年前，沈雅琳的导师确实背叛过她。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（惊讶）你知道？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "text": "我调查过她。林晚晴，沈雅琳是一个复杂的人。她曾经是受害者，但后来变成了加害者。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（低声）所以，这就是她背叛我的原因？因为她不信任任何人？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "text": "可能吧。但这不能成为她伤害你的理由。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（坚定地）我知道。我不会同情她。我要让她付出代价。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言深",
+          "text": "记住，复仇不是为了变成她，而是为了超越她。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴挂断电话，看着窗外的夜景，眼神坚定"
+        }
+      ]
+    }
+  ]
+}

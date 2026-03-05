@@ -1,0 +1,231 @@
+{
+  "episode_number": 22,
+  "title": "同学会",
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "酒店宴会厅",
+        "time": "夜晚",
+        "atmosphere": "豪华酒店宴会厅，衣香鬓影，觥筹交错"
+      },
+      "characters": ["沈若曦", "苏雨晴", "陆明轩", "顾承泽", "陈思琪", "同学们"],
+      "content": [
+        {
+          "type": "action",
+          "description": "高中同学会现场，同学们三三两两聊着天"
+        },
+        {
+          "type": "dialogue",
+          "character": "同学A",
+          "line": "你们看，那就是沈若曦，现在是律师了！"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦一袭黑色长裙，气质出众地走进宴会厅"
+        },
+        {
+          "type": "dialogue",
+          "character": "同学B",
+          "line": "哇，她现在好漂亮啊，完全认不出来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "同学C",
+          "line": "听说她在顶级律所实习，以后前途无量啊。"
+        },
+        {
+          "type": "action",
+          "description": "苏雨晴挽着陆明轩走进来，故意提高音量"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "哎呀，来晚了来晚了。明轩今天公司太忙了，非要陪我参加同学会。"
+        },
+        {
+          "type": "action",
+          "description": "苏雨晴穿着夸张的奢侈品，珠光宝气"
+        },
+        {
+          "type": "dialogue",
+          "character": "同学D",
+          "line": "雨晴，几年不见，你嫁得真好！"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "还行吧。明轩公司刚融到资，最近准备上市呢。"
+        },
+        {
+          "type": "action",
+          "description": "苏雨晴看到沈若曦，眼中闪过一丝敌意"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "哎呀，若曦也来啦！现在当律师啦？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "是的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "律师好啊，以后帮明轩处理法律事务也方便。"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦懒得理会她的炫耀，径自走向顾承泽"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你来了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "嗯。你怎么也在？"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "听说你会来，我就来了。"
+        },
+        {
+          "type": "action",
+          "description": "陈思琪跑过来"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈思琪",
+          "line": "若曦！真的是你！你现在太厉害了，我听说你在律所接了大案件！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "还好，只是实习。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈思琪",
+          "line": "你太谦虚了！对了，告诉你一个秘密..."
+        },
+        {
+          "type": "action",
+          "description": "陈思琪凑近沈若曦耳边"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈思琪",
+          "line": "苏雨晴和陆明轩好像在闹离婚。"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦心中冷笑，面上不动声色"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "是嘛。"
+        },
+        {
+          "type": "action",
+          "description": "此时，苏雨晴正在向同学们炫耀她的钻戒"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "这个啊，明轩从国外带回来的，五卡拉呢。"
+        },
+        {
+          "type": "action",
+          "description": "有人注意到顾承泽"
+        },
+        {
+          "type": "dialogue",
+          "character": "同学E",
+          "line": "那个男的是谁？好眼熟..."
+        },
+        {
+          "type": "dialogue",
+          "character": "同学F",
+          "line": "你不知道？那是顾承泽，顾氏集团的太子爷！"
+        },
+        {
+          "type": "action",
+          "description": "苏雨晴循声看去，脸色大变"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "（自语）顾氏集团？"
+        },
+        {
+          "type": "action",
+          "description": "她看到顾承泽对沈若曦的殷勤态度嫉恨交加"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "（内心）凭什么？沈若曦凭什么能被顾家少爷追求？"
+        },
+        {
+          "type": "action",
+          "description": "聚会结束时，苏雨晴把陆明轩拉到一边"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "明轩，你跟沈若曦的离婚案进展怎么样了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆明轩",
+          "line": "正在进行中，怎么了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雨晴",
+          "line": "我要你加快速度。我不想再看到沈若曦得意的样子。"
+        },
+        {
+          "type": "action",
+          "description": "陆明轩若有所思"
+        },
+        {
+          "type": "action",
+          "description": "另一边，沈若曦和顾承泽并肩走出酒店"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "今天开心吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "开心谈不上。不过看到某些人吃瘪，心情还不错。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽笑了"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你啊，就是太记仇了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "有仇不报非君子。这才是我沈若曦。"
+        }
+      ]
+    }
+  ]
+}

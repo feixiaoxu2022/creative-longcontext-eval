@@ -1,0 +1,86 @@
+{
+  "episode_number": 44,
+  "title": "黑历史曝光",
+  "genre_type": "revenge_drama",
+  "characters": ["林晚", "苏雅琴", "顾深"],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "记者会现场",
+      "time": "白天",
+      "description": "Mentor在记者会上揭露林晚的黑历史，林晚被舆论攻击。",
+      "dialogue": [
+        {
+          "character": "苏雅琴",
+          "line": "各位媒体朋友，我要揭露一个真相。林晚，她并不是你们看到的那么完美。",
+          "emotion": "阴险"
+        },
+        {
+          "character": "记者",
+          "line": "Mentor，您指的是什么？",
+          "emotion": "好奇"
+        },
+        {
+          "character": "苏雅琴",
+          "line": "林晚在创业初期，为了获得投资，曾经出卖过商业机密。",
+          "emotion": "得意"
+        }
+      ],
+      "action": "记者们纷纷拍照，舆论瞬间转向林晚。"
+    },
+    {
+      "scene_number": 2,
+      "location": "林晚的公司",
+      "time": "下午",
+      "description": "林晚在公司面对媒体的围攻，顾深前来支持。",
+      "dialogue": [
+        {
+          "character": "记者",
+          "line": "林总，Mentor说的是真的吗？您真的出卖过商业机密？",
+          "emotion": "质问"
+        },
+        {
+          "character": "林晚",
+          "line": "这是污蔑。Mentor为了反击，什么手段都使得出来。",
+          "emotion": "愤怒"
+        },
+        {
+          "character": "顾深",
+          "line": "各位，请给林晚一些时间。真相很快就会水落石出。",
+          "emotion": "坚定"
+        }
+      ],
+      "action": "顾深挡在林晚面前，保护她不受媒体骚扰。"
+    },
+    {
+      "scene_number": 3,
+      "location": "记者会现场",
+      "time": "傍晚",
+      "description": "林晚在记者会上反击，揭露Mentor的更多秘密。",
+      "dialogue": [
+        {
+          "character": "林晚",
+          "line": "Mentor说我出卖商业机密？那她呢？她年轻时为了上位，背叛了自己的朋友。",
+          "emotion": "愤怒"
+        },
+        {
+          "character": "记者",
+          "line": "林总，您有证据吗？",
+          "emotion": "质疑"
+        },
+        {
+          "character": "林晚",
+          "line": "证据？我这里有一份文件，记录了Mentor当年所有的背叛行为。",
+          "emotion": "自信"
+        }
+      ],
+      "action": "林晚拿出一份文件，记者们纷纷拍照，舆论再次转向Mentor。"
+    }
+  ],
+  "hook": "Mentor揭露林晚的黑历史，林晚说：'你以为这样就能打败我？'",
+  "conflict": "林晚被舆论攻击",
+  "twist": "林晚反手揭露Mentor的更多秘密",
+  "emotional_peak": "林晚在记者会上反击",
+  "total_scenes": 3,
+  "word_count": 480
+}

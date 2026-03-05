@@ -1,0 +1,370 @@
+{
+  "episode_number": 42,
+  "title": "白露的发现",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "隐藏房间",
+        "time": "深夜",
+        "atmosphere": "阴暗潮湿，空气中弥漫着灰尘的味道"
+      },
+      "characters": ["白露", "沈墨", "林晚晴"],
+      "content": [
+        {
+          "type": "action",
+          "description": "深夜，白露独自走在邮轮的走廊上。她停在一扇看似普通的墙壁前，伸手按下一个隐蔽的开关。墙壁缓缓移开，露出一个隐藏的房间。"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（低声，自言自语）我记得……这里。"
+        },
+        {
+          "type": "action",
+          "description": "白露走进房间，打开手电筒。房间不大，但堆满了各种物品——衣物、照片、日记本，还有一些看起来很旧的行李箱。"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（颤抖）这些……这些是三年前的物品。"
+        },
+        {
+          "type": "action",
+          "description": "白露走到一个行李箱前，打开它。里面是一些女性的衣物，还有一本日记。她拿起日记，翻开第一页。"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（读日记）'今天是登船的第一天。我不知道为什么会被邀请，但我有一种不祥的预感。'"
+        },
+        {
+          "type": "action",
+          "description": "白露继续翻阅日记，突然停在一页上。她的手开始颤抖。"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（读日记）'如果有人看到这本日记，说明我已经不在了。但真相，必须被揭露。'"
+        },
+        {
+          "type": "emotion",
+          "description": "白露的眼中泛起泪光，她意识到这本日记可能属于三年前失踪的人。"
+        },
+        {
+          "type": "action",
+          "description": "就在这时，房间的门被推开，沈墨和林晚晴走了进来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（惊讶）白露？你怎么找到这里的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（转身，声音颤抖）沈医生……我……我想起来了。三年前，我来过这里。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（上前一步）三年前？你是说，三年前的失踪案？"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（点头）是的。这些物品……都是三年前失踪者的东西。"
+        },
+        {
+          "type": "action",
+          "description": "沈墨走到行李箱前，看到里面的衣物和日记，脸色骤变。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（声音颤抖）这些衣物……这是……"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（轻声）沈医生，你认识这些衣物？"
+        },
+        {
+          "type": "emotion",
+          "description": "沈墨没有回答，他的目光落在日记上。他颤抖着伸出手，拿起日记。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（声音哽咽）这是……江美玲的日记。"
+        },
+        {
+          "type": "action",
+          "description": "林晚晴和白露对视一眼，都意识到这个发现的重要性。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（轻声）江美玲？是你的未婚妻？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（点头，眼中含泪）是的。三年前，她在邮轮上失踪。我一直在找她。"
+        },
+        {
+          "type": "action",
+          "description": "沈墨翻开日记，开始阅读。他的手颤抖得厉害，几乎拿不住日记本。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "隐藏房间",
+        "time": "深夜",
+        "atmosphere": "压抑沉重，沈墨阅读未婚妻的日记"
+      },
+      "characters": ["沈墨", "白露", "林晚晴"],
+      "content": [
+        {
+          "type": "action",
+          "description": "沈墨坐在地上，借着微弱的光线阅读日记。白露和林晚晴站在一旁，沉默不语。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（读日记）'今天是登船的第三天。我发现了一个可怕的秘密。这艘船上，有人在设计一个游戏。'"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（读日记）'我不知道这个游戏的目的是什么，但我知道，如果不阻止它，会有更多人死去。'"
+        },
+        {
+          "type": "action",
+          "description": "沈墨翻到最后一页，看到一封信夹在日记里。他颤抖着拿起信，打开。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（读信）'亲爱的墨，如果你看到这封信，说明我已经不在了。'"
+        },
+        {
+          "type": "emotion",
+          "description": "沈墨的声音哽咽，泪水顺着脸颊流下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（读信）'我不知道这个游戏的设计者是谁，但我知道，他的目的不仅仅是杀人。他想让每个人都面对道德困境，让每个人都做出选择。'"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（读信）'我试图阻止他，但我失败了。现在，我只能把真相留在这里，希望有一天，有人能找到它。'"
+        },
+        {
+          "type": "action",
+          "description": "沈墨继续阅读，信的最后一段让他震惊。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（读信）'墨，我知道你在找我。但有些真相，知道了反而更危险。如果你真的爱我，就不要继续调查。好好活着，这是我最后的请求。'"
+        },
+        {
+          "type": "emotion",
+          "description": "沈墨放下信，泪流满面。他的肩膀颤抖着，几乎无法控制自己的情绪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（轻声）沈医生……"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（声音颤抖）她……她知道。她知道这个游戏的真相。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（上前一步）沈医生，信里还说了什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（摇头）没有了。信到这里就结束了。"
+        },
+        {
+          "type": "action",
+          "description": "沈墨站起身，将信和日记小心地收好。他的眼中闪过痛苦和愤怒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（低声）她让我不要继续调查。但我不能。我必须找到真相。"
+        },
+        {
+          "type": "dialogue",
+          "character": "白露",
+          "line": "（轻声）沈医生，也许……她是为了保护你。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（苦笑）保护我？她失踪了三年，我找了三年。现在，我找到了她的日记，却只能看到她的遗言。"
+        },
+        {
+          "type": "emotion",
+          "description": "沈墨的声音越来越低，最后几乎是在自言自语。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "她让我好好活着。但如果没有她，我怎么能好好活着？"
+        },
+        {
+          "type": "action",
+          "description": "林晚晴走上前，轻轻拍了拍沈墨的肩膀。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（轻声）沈医生，我们会找到真相的。为了她，也为了所有人。"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "甲板",
+        "time": "深夜",
+        "atmosphere": "海风凛冽，月光洒在海面上，沈墨和林晚晴站在甲板上"
+      },
+      "characters": ["沈墨", "林晚晴"],
+      "content": [
+        {
+          "type": "action",
+          "description": "甲板上，沈墨和林晚晴并肩站着，凝视着大海。沈墨手中握着那封信，神情复杂。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（轻声）沈医生，你还好吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（苦笑）还好？我不知道。"
+        },
+        {
+          "type": "action",
+          "description": "沈墨将信递给林晚晴，林晚晴接过，仔细阅读。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（读信）'如果你看到这封信，说明我已经不在了。但真相，必须被揭露。'"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（低声）她知道真相。她知道这个游戏的真相。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（皱眉）但她没有在信里写出来。为什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（摇头）也许她担心信会被人发现。也许……她想保护我。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（思考）沈医生，信里提到'让每个人都面对道德困境，让每个人都做出选择'。这和江寒的游戏规则很像。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（点头）是的。三年前的游戏，和现在的游戏，是同一个人设计的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（严肃地）江寒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（眼中闪过愤怒）是的。江寒。他设计了三年前的游戏，也设计了现在的游戏。"
+        },
+        {
+          "type": "action",
+          "description": "沈墨转身，背对着大海，眼中燃烧着愤怒的火焰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（声音冰冷）三年前，他害死了美玲。现在，他又在害人。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（轻声）沈医生，我知道你很愤怒。但我们需要冷静。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（打断）冷静？我怎么冷静？美玲失踪了三年，我找了三年。现在，我找到了她的遗言，却只能看到她让我'好好活着'。"
+        },
+        {
+          "type": "emotion",
+          "description": "沈墨的声音哽咽，泪水再次流下。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "她让我好好活着。但如果没有她，我怎么能好好活着？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（上前一步）沈医生，美玲在信里说，'真相，必须被揭露'。她想让你找到真相。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（沉默片刻）是的。她想让我找到真相。"
+        },
+        {
+          "type": "action",
+          "description": "沈墨深吸一口气，擦干眼泪。他的眼中重新燃起坚定的光芒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈墨",
+          "line": "（坚定地）我会找到真相。为了美玲，也为了所有人。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "line": "（点头）我们一起。"
+        },
+        {
+          "type": "action",
+          "description": "两人对视一眼，都意识到，接下来的路会更加艰难。但他们已经做好了准备。"
+        },
+        {
+          "type": "emotion",
+          "description": "海风吹过，带来一阵寒意。但甲板上的两人，心中燃起了坚定的火焰。"
+        }
+      ]
+    }
+  ]
+}

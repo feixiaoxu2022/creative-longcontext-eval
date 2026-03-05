@@ -1,0 +1,18 @@
+{
+  "id": "nts_nts_v3_claude-opus-4-6_NTS_SURVIVAL_GAME_MEDIUM_3EP_STRICT_DOUYIN_001_episode_2",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "claude-opus-4-6",
+  "source_sample_id": "NTS_SURVIVAL_GAME_MEDIUM_3EP_STRICT_DOUYIN_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_2.json",
+  "output_type": "改编剧本",
+  "genre": "survival_game",
+  "sequence_num": 2,
+  "input_tokens_est": 15155,
+  "reference_output_tokens_est": 4106,
+  "length_bin": "10K-20K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

@@ -1,0 +1,214 @@
+{
+  "episode_number": 44,
+  "title": "尘埃落定",
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "沈若曦律师事务所",
+        "time": "白天",
+        "atmosphere": "神秘组织被一网打尽，沈若曦成为英雄"
+      },
+      "characters": ["沈若曦", "顾承泽", "记者"],
+      "content": [
+        {
+          "type": "action",
+          "description": "一个月后，新闻报道神秘组织被捣毁"
+        },
+        {
+          "type": "action",
+          "description": "沈若曦的律所收到很多记者采访请求"
+        },
+        {
+          "type": "dialogue",
+          "character": "助理",
+          "line": "沈律师，又有一家媒体想要采访您。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "都推掉。"
+        },
+        {
+          "type": "action",
+          "description": "顾承泽走进来"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "你真的不想接受采访？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "不想。"
+        },
+        {
+          "type": "action",
+          "description": "她放下手中的文件"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "我只是做了该做的事。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "但外界都把你当成英雄。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "英雄？我只是想保护我爱的人。"
+        },
+        {
+          "type": "action",
+          "description": "她看向窗外"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "现在事情都结束了。我想休息一段时间。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "好。你想去哪？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "不知道。到处走走吧。"
+        },
+        {
+          "type": "action",
+          "description": "她转过身"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "承泽，谢谢你一直陪着我。"
+        },
+        {
+          "type": "action",
+          "description": "她走过去，握住他的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "没有你，我可能走不到今天。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾承泽",
+          "line": "傻瓜。我是自愿的。"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "沈若曦家",
+        "time": "晚上",
+        "atmosphere": "沈若曦和母亲在客厅聊天"
+      },
+      "characters": ["沈若曦", "林秀芬"],
+      "content": [
+        {
+          "type": "action",
+          "description": "晚上，沈若曦和母亲坐在客厅"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀芬",
+          "line": "若曦，你想好了？真的要去旅行？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "嗯。我想走走看看。"
+        },
+        {
+          "type": "action",
+          "description": "她握住母亲的手"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "妈，这些年您辛苦了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀芬",
+          "line": "妈不辛苦。只要你好好的，妈就满足了。"
+        },
+        {
+          "type": "action",
+          "description": "林秀芬眼中含泪"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀芬",
+          "line": "只是...你这一去，什么时候回来？"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "不会太久。处理完一些事情就回来。"
+        },
+        {
+          "type": "action",
+          "description": "她抱了抱母亲"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "而且承泽会照顾您的。"
+        },
+        {
+          "type": "action",
+          "description": "林秀芬破涕为笑"
+        },
+        {
+          "type": "dialogue",
+          "character": "林秀芬",
+          "line": "这倒是。那孩子对你是真心的。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "嗯。"
+        },
+        {
+          "type": "action",
+          "description": "她看向窗外"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "（内心）前世，我失去了所有。这一世，我终于改变了一切。"
+        },
+        {
+          "type": "action",
+          "description": "月光洒在她脸上"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "（内心）陆明轩、苏雨晴、沈建国...他们都得到了应有的惩罚。而我，收获了爱情和亲情。"
+        },
+        {
+          "type": "action",
+          "description": "她闭上眼睛"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈若曦",
+          "line": "（内心）这就是重生带给我的意义吧。"
+        }
+      ]
+    }
+  ]
+}

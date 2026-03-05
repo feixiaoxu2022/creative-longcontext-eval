@@ -1,0 +1,23 @@
+{
+  "genre_type": "ancient_court",
+  "value_proposition": "摒弃低智商宫斗，演绎步步惊心、代价惨重的真实权力博弈，展现从弃子到执棋人的极限翻盘。",
+  "hooks": [
+    {
+      "hook_text": "圣旨下的那一刻，我用全族三百条人命，换了一个活下去的机会。",
+      "core_element": "权力危机",
+      "length": 28
+    },
+    {
+      "hook_text": "在仇人身边潜伏十年，我每天都在茶里放一味药，今天，药引终于到了。",
+      "core_element": "身份隐藏",
+      "length": 32
+    },
+    {
+      "hook_text": "这盘棋下了整整二十年，你们以为我是弃子，其实我是唯一的执棋人。",
+      "core_element": "反击预告",
+      "length": 30
+    }
+  ],
+  "target_audience": "喜爱烧脑剧情、历史正剧风格、高智商博弈的观众",
+  "platform": "短剧平台"
+}

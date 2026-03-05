@@ -1,0 +1,213 @@
+{
+  "episode_number": 7,
+  "total_scenes": 4,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "外卖站点",
+        "time": "上午",
+        "atmosphere": "紧张对峙"
+      },
+      "characters": ["王大柱", "拆迁队长", "拆迁队员们", "外卖员们"],
+      "content": [
+        {
+          "type": "action",
+          "description": "拆迁队开着挖掘机包围外卖站"
+        },
+        {
+          "type": "dialogue",
+          "character": "拆迁队长",
+          "line": "今天必须拆！这地已经卖给天霸集团了！"
+        },
+        {
+          "type": "dialogue",
+          "character": "王大柱",
+          "line": "我们有合同！还有三个月才到期！"
+        },
+        {
+          "type": "action",
+          "description": "拆迁队长推开王大柱"
+        },
+        {
+          "type": "dialogue",
+          "character": "拆迁队长",
+          "line": "少废话！赵少爷的话就是圣旨！拆！"
+        },
+        {
+          "type": "action",
+          "description": "挖掘机启动，外卖员们绝望地看着"
+        },
+        {
+          "type": "emotion",
+          "description": "王大柱握紧拳头，眼中满是愤怒和无力"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "外卖站点",
+        "time": "上午",
+        "atmosphere": "转机出现"
+      },
+      "characters": ["林锋", "王大柱", "拆迁队长", "地产商老板"],
+      "content": [
+        {
+          "type": "action",
+          "description": "林锋骑着电动车回来，看见这一幕"
+        },
+        {
+          "type": "dialogue",
+          "character": "林锋",
+          "line": "住手！"
+        },
+        {
+          "type": "action",
+          "description": "一辆豪车急刹停下，地产商老板跑下来"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "林先生！终于找到您了！"
+        },
+        {
+          "type": "action",
+          "description": "拆迁队长愣住"
+        },
+        {
+          "type": "dialogue",
+          "character": "拆迁队长",
+          "line": "老板，您认识这个送外卖的？"
+        },
+        {
+          "type": "action",
+          "description": "地产商老板一巴掌扇在拆迁队长脸上"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "混账！这是我的救命恩人！"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "外卖站点",
+        "time": "上午",
+        "atmosphere": "意外签约"
+      },
+      "characters": ["林锋", "地产商老板", "王大柱"],
+      "content": [
+        {
+          "type": "action",
+          "description": "地产商老板拿出一份文件，双手递给林锋"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "林先生，这是城西那块地的转让合同，价值十亿！请您签字！"
+        },
+        {
+          "type": "dialogue",
+          "character": "林锋",
+          "line": "我只是个送外卖的，要这地干什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "求您了！只有您签字，这块地才能保住！这也是为了外卖站的兄弟们啊！"
+        },
+        {
+          "type": "action",
+          "description": "林锋看了看王大柱和外卖员们"
+        },
+        {
+          "type": "dialogue",
+          "character": "林锋",
+          "line": "行吧，但我有个条件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "您说！什么条件都行！"
+        },
+        {
+          "type": "dialogue",
+          "character": "林锋",
+          "line": "外卖站不能拆，还要给兄弟们加薪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "没问题！我再加一倍工资！"
+        },
+        {
+  2": "action",
+          "description": "林锋接过笔，随手签下名字"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "外卖站点",
+        "time": "上午",
+        "atmosphere": "震撼反转"
+      },
+      "characters": ["林锋", "地产商老板", "王大柱", "拆迁队", "外卖员们"],
+      "content": [
+        {
+          "type": "action",
+          "description": "地产商老板如获至宝，捧着合同"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "太好了！有了林先生的签字，这块地就是我的了！"
+        },
+        {
+          "type": "action",
+          "description": "老板当场转账"
+        },
+        {
+          "type": "dialogue",
+          "character": "地产商老板",
+          "line": "林先生，这是十亿预付款，请您收下！"
+        },
+        {
+          "type": "action",
+          "description": "手机提示音响起：支付宝到账十亿元"
+        },
+        {
+          "type": "emotion",
+          "description": "全场震惊，拆迁队长吓得腿软"
+        },
+        {
+          "type": "dialogue",
+          "character": "王大柱",
+          "line": "十...十亿？锋哥，你到底签了什么？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林锋",
+          "line": "好像是块地的转让合同。不重要，大家有工作了就行。"
+        },
+        {
+          "type": "action",
+          "description": "林锋提起外卖箱"
+        },
+        {
+          "type": "dialogue",
+          "character": "林锋",
+          "line": "我去送外卖了，别耽误工作。"
+        },
+        {
+          "type": "action",
+          "description": "林锋骑上电动车离开，留下目瞪口呆的众人"
+        },
+        {
+          "type": "emotion",
+          "description": "地产商老板对着林锋的背影深深鞠躬"
+        }
+      ]
+    }
+  ]
+}

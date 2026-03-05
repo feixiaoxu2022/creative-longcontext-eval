@@ -1,0 +1,258 @@
+{
+  "episode_number": 9,
+  "title": "第一刀",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "公司茶水间",
+        "time": "上午",
+        "atmosphere": "轻松"
+      },
+      "characters": ["林晚晴", "苏婉"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "公司茶水间里，林晚晴正在看手机上的财经新闻，苏婉走了进来"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "林薇，你在看什么？"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "假装慌张，想要藏起手机"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "没……没什么，苏总。"
+        },
+        {
+          "type": "action",
+          "character": "苏婉",
+          "text": "一把抢过林晚晴的手机"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（看着手机屏幕）这是一家新创公司的融资信息？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（假装紧张）苏总，这是我朋友告诉我的一个投资机会，我……我只是看看。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（眼睛一亮）投资机会？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（犹豫）我朋友说这家公司很有潜力，但我也不确定……"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（打断）林薇，把详细信息给我。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "苏总，这……"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（命令）给我。"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "假装不情愿地把信息给了苏婉"
+        },
+        {
+          "type": "emotion",
+          "text": "苏婉看着信息，眼神中充满了贪婪——她不知道，这是林晚晴设下的第一个陷阱"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "投资部门",
+        "time": "下午",
+        "atmosphere": "紧张"
+      },
+      "characters": ["林晚晴", "苏婉"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "投资部门里，苏婉正在打电话，声音激动"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "对，我要投资这家公司。多少钱？五千万？好，我马上安排。"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "在旁边假装工作，实际上在观察苏婉"
+        },
+        {
+          "type": "emotion",
+          "text": "几个小时后，苏婉突然接到一个电话，脸色大变"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "什么？公司破产了？这怎么可能？！"
+        },
+        {
+          "type": "action",
+          "character": "苏婉",
+          "text": "瘫坐在椅子上，脸色苍白"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（喃喃自语）五千万……全没了……"
+        },
+        {
+          "type": "action",
+          "character": "林晚晴",
+          "text": "走到苏婉面前，假装关心"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "苏总，您怎么了？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（崩溃）那家公司……破产了……我的钱……全没了……"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴看着苏婉崩溃的样子，内心既有复仇的快感，也有一丝不忍"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（表面安慰）苏总，您别急，也许还有办法……"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（抓住林晚晴的手）林薇，你朋友告诉你的信息，是不是有问题？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（假装惊讶）苏总，我也不知道啊，我只是听朋友说的……"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "沈雅琳办公室",
+        "time": "傍晚",
+        "atmosphere": "严肃"
+      },
+      "characters": ["沈雅琳", "苏婉", "林晚晴"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "沈雅琳办公室里，苏婉跪在地上，哭诉着"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "沈总，对不起，我投资失败了，损失了五千万……"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "冷漠地看着苏婉"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "五千万？你私自投资？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏婉",
+          "text": "（哭诉）沈总，我是听林薇说的，她说这是一个很好的投资机会……"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "转头看向站在一旁的林晚晴"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "林薇，是你告诉苏婉的？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（慌张）沈总，我只是听朋友说的，我也不知道会这样……"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "看着林晚晴，眼神中闪过一丝怀疑"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "（对苏婉）你先出去。"
+        },
+        {
+          "type": "action",
+          "character": "苏婉",
+          "text": "哭着离开办公室"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "走到林晚晴面前，仔细打量她"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "林薇，你真的不知道那家公司有问题？"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚晴",
+          "text": "（坚定地）沈总，我真的不知道。如果我知道，我也不会告诉苏总。"
+        },
+        {
+          "type": "action",
+          "character": "沈雅琳",
+          "text": "沉默片刻，然后点了点头"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈雅琳",
+          "text": "好，你先出去吧。"
+        },
+        {
+          "type": "emotion",
+          "text": "林晚晴离开办公室，在关门的瞬间，看到沈雅琳深邃的眼神——她知道，沈雅琳开始怀疑她了"
+        }
+      ]
+    }
+  ]
+}

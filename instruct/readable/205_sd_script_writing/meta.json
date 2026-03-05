@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_ernie-5.0-thinking-preview_SD_C_family_saga_70_setting_h3203_episode_54_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "ernie-5.0-thinking-preview",
+  "source_sample_id": "SD_C_family_saga_70_setting_h3203",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_54_script.json",
+  "output_type": "原创剧本",
+  "genre": "family_saga",
+  "sequence_num": 54,
+  "input_tokens_est": 46893,
+  "reference_output_tokens_est": 457,
+  "length_bin": "40K-70K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

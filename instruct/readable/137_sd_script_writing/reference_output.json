@@ -1,0 +1,54 @@
+{
+  "episode_number": 17,
+  "title": "失踪",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "陈铭的诊所，三年前",
+        "time": "晚上",
+        "atmosphere": "诊所里只有陈铭和林薇两个人，林薇跪在地上，哭得很伤心"
+      },
+      "characters": ["陈铭（回忆）", "林薇（回忆）"],
+      "content": [
+        {"type": "dialogue", "character": "林薇（回忆）", "line": "陈叔叔，我错了...当年我是被林梦瑶威胁的，我不想欺负陈曦的，我真的知道错了..."},
+        {"type": "action", "description": "陈铭握着手里的刀，看着跪在地上的林薇，眼神里充满了恨意，但是他下不了手"},
+        {"type": "dialogue", "character": "陈铭（回忆）", "line": "你说你错了？我女儿死了！她才16岁！你一句错了就能换她回来吗？"},
+        {"type": "dialogue", "character": "林薇（回忆）", "line": "我知道我欠她的，我会用一辈子来还，我可以帮你指证林梦瑶，帮你给陈曦报仇，求你不要杀我"},
+        {"type": "action", "description": "陈铭看着林薇，想起女儿生前和林薇一起玩的照片，心软了"}
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "机场，三年前",
+        "time": "凌晨",
+        "atmosphere": "机场里人很少，陈铭给林薇买了去加拿大的机票，递给她"
+      },
+      "characters": ["陈铭（回忆）", "林薇（回忆）"],
+      "content": [
+        {"type": "dialogue", "character": "陈铭（回忆）", "line": "这张机票是去加拿大的，我已经给你安排好了住处和学校，你以后就在那里生活，不要再回来了"},
+        {"type": "dialogue", "character": "林薇（回忆）", "line": "谢谢你...陈叔叔...你放心，我不会把这件事告诉任何人的，我会好好生活，每年都给陈曦送花"},
+        {"type": "dialogue", "character": "陈铭（回忆）", "line": "还有，你哥那边，不要告诉他你在哪里，等我把所有的事情都解决了，你再回来见他"},
+        {"type": "action", "description": "林薇点了点头，接过机票，转身走进了安检口，陈铭站在原地，看着她的背影消失，长长地叹了口气"}
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "监狱探监室，现在",
+        "time": "下午",
+        "atmosphere": "陈铭坐在玻璃后面，林默和林薇坐在对面"
+      },
+      "characters": ["陈铭", "林默", "林薇"],
+      "content": [
+        {"type": "dialogue", "character": "林薇", "line": "陈叔叔，谢谢你当年放过我，我这些年一直都在做慈善，帮助那些被霸凌的孩子，我会替陈曦好好活下去的"},
+        {"type": "action", "description": "陈铭看着林薇，露出了欣慰的笑容"},
+        {"type": "dialogue", "character": "陈铭", "line": "看到你现在这样，我就放心了，我女儿要是还活着，应该也和你一样大了"},
+        {"type": "dialogue", "character": "林默", "line": "谢谢你没有伤害我妹妹，我会照顾好她的"},
+        {"type": "action", "description": "探监时间到了，陈铭站起来，对着他们鞠了一躬，转身走了，林薇看着他的背影，眼泪掉了下来"}
+      ]
+    }
+  ]
+}

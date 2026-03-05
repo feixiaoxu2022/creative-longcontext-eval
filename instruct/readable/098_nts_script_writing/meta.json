@@ -1,0 +1,18 @@
+{
+  "id": "nts_nts_v3_glm-5_NTS_SCIFI_MEDIUM_5EP_STRICT_DOUYIN_001_episode_5",
+  "scenario": "nts",
+  "design_version": "nts_v3",
+  "source_model": "glm-5",
+  "source_sample_id": "NTS_SCIFI_MEDIUM_5EP_STRICT_DOUYIN_001",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_5.json",
+  "output_type": "改编剧本",
+  "genre": "scifi",
+  "sequence_num": 5,
+  "input_tokens_est": 21139,
+  "reference_output_tokens_est": 1969,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 12
+}

@@ -1,0 +1,305 @@
+{
+  "episode_number": 18,
+  "total_scenes": 3,
+  "title": "项目争夺",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "商业峰会",
+        "time": "白天",
+        "atmosphere": "紧张对峙"
+      },
+      "characters": ["林晚", "苏雅琴", "顾深", "陈浩"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚站在商业峰会的讲台上，面对众多企业家和媒体。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "各位，今天我要向大家介绍我们的新项目，这将彻底改变行业的未来。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "Mentor突然站起身，脸色阴沉。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "林晚，这个项目是我的，你不能私自宣布。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚转身看向Mentor，眼中闪过一丝坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "老师，这个项目是我独立开发的，与您无关。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "林晚，你太天真了。这个项目的技术和资源都是我提供的。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深站起身，走到林晚身边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "Mentor，这个项目是林晚独立完成的，我们有完整的开发记录和专利证明。"
+        },
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩站起身，走到Mentor身边。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "Mentor，林晚确实使用了我们的技术，但她没有获得授权。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚冷笑一声，看向陈浩。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "陈浩，你这是在帮Mentor说话吗？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "林晚，我只是实话实说。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚转身面向观众，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "各位，这个项目是我独立开发的，我有完整的开发记录和专利证明。Mentor和陈浩的指控是毫无根据的。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "Mentor冷笑一声，看向在场的媒体。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "各位，林晚是我的学生，但她现在背叛了我。这个项目的技术确实是我提供的，但她私自占为己有。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚站在讲台上，面对Mentor的指责，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "老师，您教我的最后一课，是让我学会怎么毁掉您吗？"
+        },
+        {
+          "type": "emotion",
+          "text": "会场一片哗然，林晚和Mentor的对峙达到了白热化。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "Mentor的办公室",
+        "time": "晚上",
+        "atmosphere": "焦虑紧张"
+      },
+      "characters": ["苏雅琴", "陈浩"],
+      "content": [
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "Mentor在办公室里来回踱步，脸色阴沉。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "陈浩，林晚的项目进展如何？"
+        },
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩低头看文件，表情凝重。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "Mentor，林晚的项目进展顺利，已经获得了多家投资机构的青睐。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "Mentor猛地停下脚步，眼中闪过一丝恐惧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "什么？这不可能！"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "是真的，Mentor。林晚的商业才能远超我们的预期。"
+        },
+        {
+          "type": "action",
+          "character": "苏雅琴",
+          "text": "Mentor走到窗前，看着窗外的城市，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "陈浩，是时候采取更激烈的手段了。"
+        },
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩抬头，眼中闪过一丝兴奋。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "Mentor，您打算怎么做？"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏雅琴",
+          "text": "我要让她知道，谁才是这个行业的真正主宰。"
+        },
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩点头，眼中闪过一丝阴险。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "Mentor，我明白了。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "林晚的公司",
+        "time": "晚上",
+        "atmosphere": "紧张忙碌"
+      },
+      "characters": ["林晚", "顾深"],
+      "content": [
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚坐在办公室里，看着项目报告，脸上露出满意的笑容。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，我们的项目终于获得了认可。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深站在一旁，眼中闪过一丝担忧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，Mentor不会坐视不理的。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚转身看向顾深，眼中闪过一丝坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "我知道，但我不怕。欠我的，一分不少地还回来！"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深走到林晚身边，轻轻拍了拍她的肩膀。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，我会一直支持你的。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看向顾深，眼中闪过一丝感激。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "谢谢你，顾深。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深看着林晚，眼中闪过一丝温柔。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，你变了，变得像Mentor一样冷酷。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚愣了一下，眼中闪过一丝复杂的情绪。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，我只是在保护自己。"
+        },
+        {
+          "type": "action",
+          "character": "顾深",
+          "text": "顾深看着林晚，眼中闪过一丝心疼。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾深",
+          "text": "林晚，不要变成Mentor那样的人。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚看向窗外，眼中闪过一丝决绝。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾深，我只想让Mentor付出代价。"
+        },
+        {
+          "type": "emotion",
+          "text": "两人相视无言，林晚的眼中燃烧着复仇的火焰。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "episode_number": 23,
+  "title": "最终对决",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "废旧码头",
+        "time": "白天",
+        "atmosphere": "最终约战"
+      },
+      "characters": ["萧战", "赵天霸", "黄桂芳"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "废旧码头，赵天霸劫持了黄桂芳做人质。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "萧战！你终于来了！"
+        },
+        {
+          "type": "action",
+          "text": "黄桂芳被绑在柱子上，嘴巴被堵住。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "萧战，你一个人来，否则我杀了她！"
+        },
+        {
+          "type": "action",
+          "text": "萧战慢慢走出来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "赵天霸，放了她。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "（大笑）放了她？可以！"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "只要你自废武功！"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "否则，我立刻杀了这个老女人！"
+        },
+        {
+          "type": "action",
+          "text": "萧战眼神一冷。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "你不会有这个机会的。"
+        },
+        {
+          "type": "emotion",
+          "text": "萧战给周墨白发了信号——是时候了！"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "码头仓库",
+        "time": "晚上",
+        "atmosphere": "单挑开始"
+      },
+      "characters": ["萧战", "赵天霸", "暗影队员"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "码头仓库，萧战和赵天霸相对而立。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "萧战，今天我们新账旧账一起算！"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "正合我意。"
+        },
+        {
+          "type": "action",
+          "text": "两人同时冲向对方！"
+        },
+        {
+          "type": "emotion",
+          "text": "这是一场殊死搏斗！"
+        },
+        {
+          "type": "action",
+          "text": "赵天霸实力不俗，和萧战打得难分难解。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "萧战！你不是很能打吗！"
+        },
+        {
+          "type": "action",
+          "text": "赵天霸使出杀手锏，一刀砍向萧战！"
+        },
+        {
+          "type": "action",
+          "text": "萧战侧过，一拳打在身躲赵天霸胸口！"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "呃！"
+        },
+        {
+          "type": "action",
+          "text": "赵天霸后退几步，嘴角流血。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "（不甘）怎么可能..."
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "这一拳，是替小米还的！"
+        },
+        {
+          "type": "action",
+          "text": "萧战冲上去，一拳接一拳！"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "这一拳，是替星晚！"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "这一拳，是替所有被你们伤害的人！"
+        },
+        {
+          "type": "action",
+          "text": "最后一拳，萧战把赵天霸打飞出去！"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "码头",
+        "time": "深夜",
+        "atmosphere": "恶有恶报"
+      },
+      "characters": ["萧战", "赵天霸", "周墨白", "林小满", "沈星晚", "苏晚晴", "黄桂芳"],
+      "content": [
+        {
+          "type": "emotion",
+          "text": "码头上，赵天霸躺在地上进气多出气少。"
+        },
+        {
+          "type": "dialogue",
+          "character": "赵天霸",
+          "line": "萧战...你...你不得好死..."
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "恶有恶报。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "赵天霸，你的时代结束了。"
+        },
+        {
+          "type": "action",
+          "text": "警车和救护车赶到。"
+        },
+        {
+          "type": "action",
+          "text": "黄桂芳被救下来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "黄桂芳",
+          "line": "萧战！"
+        },
+        {
+          "type": "action",
+          "text": "黄桂芳扑进萧战怀里。"
+        },
+        {
+          "type": "dialogue",
+          "character": "黄桂芳",
+          "line": "吓死妈了..."
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "妈，没事了。"
+        },
+        {
+          "type": "action",
+          "text": "苏晚晴跑过来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "萧战！"
+        },
+        {
+          "type": "action",
+          "text": "两人紧紧拥抱。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "你做到了..."
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "还没有。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "还有一个最大的敌人。"
+        },
+        {
+          "type": "emotion",
+          "text": "萧战看向远方的海面。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧战",
+          "line": "境外组织。"
+        }
+      ]
+    }
+  ]
+}

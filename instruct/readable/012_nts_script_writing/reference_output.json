@@ -1,0 +1,124 @@
+{
+  "episode_number": 3,
+  "scene_count": 3,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "location": "地下室 / 夜 / 压抑",
+      "initial_shot": "中景 - 两人围坐在火堆旁，火光微弱",
+      "characters": ["唐陌", "洛风城"],
+      "content": [
+        {
+          "type": "action",
+          "description": "【中景】唐陌撕下一页书扔进火里，火苗窜起。洛风城靠在墙角闭目养神，手里紧握着一把匕首。"
+        },
+        {
+          "type": "dialogue",
+          "character": "唐陌（低声）",
+          "emotion": "疲惫",
+          "text": "书快烧完了。我们得出去找新的燃料。"
+        },
+        {
+          "type": "action",
+          "description": "【特写】洛风城睁开眼，眼神清明。他指了指门外。"
+        },
+        {
+          "type": "dialogue",
+          "character": "洛风城（冷静）",
+          "emotion": "警惕",
+          "text": "有人来了。脚步声很重，不是狼。"
+        },
+        {
+          "type": "sound",
+          "description": "音效：铁门被猛烈撞击 *砰砰砰*"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "location": "地下室 / 夜 / 冲突",
+      "initial_shot": "全景 - 铁门被踹开，三个男人闯入",
+      "characters": ["唐陌", "洛风城", "刀疤男"],
+      "content": [
+        {
+          "type": "action",
+          "description": "【全景】刀疤男（30岁，满脸横肉，手持铁棍）带着两个小弟冲进来。看到火堆和书，眼睛发亮。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刀疤男（贪婪）",
+          "emotion": "凶狠",
+          "text": "哟，这儿还有两个小白脸。把书和火柴交出来，饶你们不死。"
+        },
+        {
+          "type": "action",
+          "description": "【中景】唐陌站起身，挡在洛风城面前。他举起双手，示意投降。"
+        },
+        {
+          "type": "dialogue",
+          "character": "唐陌（示弱）",
+          "emotion": "害怕",
+          "text": "别动手！书都在这儿，你们拿去。"
+        },
+        {
+          "type": "action",
+          "description": "【特写】唐陌指了指角落里的一堆书。那是之前受潮无法点燃的废书。"
+        },
+        {
+          "type": "action",
+          "description": "【近景】刀疤男大笑，一把推开唐陌，抓起几本书塞进怀里。他又抢过唐陌手中的火柴盒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刀疤男（得意）",
+          "emotion": "嚣张",
+          "text": "算你识相。滚吧！"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "location": "地下室外 / 夜 / 惊悚",
+      "initial_shot": "中景 - 刀疤男试图点燃火柴",
+      "characters": ["唐陌", "洛风城", "刀疤男", "小女孩"],
+      "content": [
+        {
+          "type": "action",
+          "description": "【全景】唐陌拉着洛风城迅速撤离。两人躲在不远处的废墟后观察。"
+        },
+        {
+          "type": "action",
+          "description": "【中景】刀疤男划燃火柴，却发现火柴头早已受潮，根本点不着。他又试了几次，依然只有微弱的火星。"
+        },
+        {
+          "type": "dialogue",
+          "character": "刀疤男（暴怒）",
+          "emotion": "惊恐",
+          "text": "妈的！这火柴是坏的！那小子骗我！"
+        },
+        {
+          "type": "sound",
+          "description": "音效：周围响起密集的狼嚎声 *嗷呜——*"
+        },
+        {
+          "type": "action",
+          "description": "【特写】几只巨大的黑狼从阴影中扑出，瞬间将刀疤男扑倒。惨叫声戛然而止。"
+        },
+        {
+          "type": "action",
+          "description": "【推镜头】唐陌冷眼看着这一幕。突然，他感觉背后一凉。转头看去，街角的路灯下站着一个小小的身影。"
+        },
+        {
+          "type": "action",
+          "description": "【特写】一个穿着红裙子的小女孩，赤着脚站在雪地里，手里提着一篮火柴，正对着唐陌微笑。"
+        },
+        {
+          "type": "dialogue",
+          "character": "小女孩（甜美）",
+          "emotion": "诡异",
+          "text": "大哥哥，买火柴吗？"
+        }
+      ]
+    }
+  ]
+}

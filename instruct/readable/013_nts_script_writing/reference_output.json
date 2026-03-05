@@ -1,0 +1,250 @@
+{
+  "episode_number": 2,
+  "title": "香水与喇叭",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "建行杂货店",
+      "time_of_day": "午后",
+      "atmosphere": "市井嘈杂，充满生活气息",
+      "sfx_ambient": "街道吆喝声、货物搬运声",
+      "initial_shot": "【全景】黑水街街角杂货店，店面狭小，货架上堆满各种商品，光线昏暗",
+      "characters": ["谢俞", "杂货店老大爷"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【中景】谢俞走进杂货店，目光扫过货架上的商品。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】角落里，一个红白色的扩音喇叭积了一层灰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "平静",
+          "text": "老板，有扩音喇叭吗？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】老大爷从一堆杂货下面翻出喇叭，立马接上电，当场放了一首'该死的温柔'。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：'该死的温柔'震耳欲聋地响起"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞被震得耳朵疼，眉头微皱。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "平静",
+          "text": "行了，多少钱？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】老大爷离喇叭更近，压根没听见谢俞说的话，用袖子擦擦上头的灰，歇斯力竭地扯着嗓子推销。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老大爷",
+          "emotion": "热情",
+          "text": "耐用！不好用包退！包退！"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "平静",
+          "text": "多少钱？"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老大爷",
+          "emotion": "热情",
+          "text": "品质有保证！有问题你尽管找我！小店坐不改名行不改姓！建行杂货！"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞面无表情地摁下开关按钮，耳边终于清静。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "平静",
+          "text": "多少钱。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老大爷",
+          "emotion": "热情",
+          "text": "二、二十五。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】老大爷比划了个二，又比划个五，然后拿起塑料袋把喇叭往里头装。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】老大爷眼疾手快地从桌上厚厚一沓纸里抽出来几张来历不明的传单一并往塑料袋里塞。"
+        },
+        {
+          "type": "action",
+          "text": "【字幕】传单内容：妇科医院，无痛人流；男人的福音，第二根，半价"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老大爷",
+          "emotion": "热情",
+          "text": "副业，副业。响应党的号召，积极奔赴小康，为了发财而奋斗……"
+        },
+        {
+          "type": "dialogue",
+          "character": "杂货店老大爷",
+          "emotion": "热情",
+          "text": "找您的钱，拿好了，欢迎下次光临。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞接过塑料袋，转身离开。"
+        },
+        {
+          "type": "action",
+          "text": "【字幕】黑水街批发市场·门口"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "location": "黑水街批发市场·门口",
+      "time_of_day": "午后",
+      "atmosphere": "温馨搞笑，充满市井气息",
+      "sfx_ambient": "店主吆喝声、货物搬运声",
+      "initial_shot": "【全景】广贸大厦门口，许艳梅带着浓郁的香水味儿走出来，四处张望",
+      "characters": ["谢俞", "许艳梅"],
+      "content": [
+        {
+          "type": "action",
+          "text": "【中景】谢俞从街角走来，手里提着黑色塑料袋。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】许艳梅看到谢俞，眼睛一亮，搓搓手迎上去。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "温柔",
+          "text": "臭小子，怎么有空过来看我？"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞见到她的第一个动作就是把黑色塑料袋递给她，然后迅速往后退了几步，避之不及。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "嫌弃",
+          "text": "你身上这什么味，厕所清新剂？没事喷成这样你想干什么。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "不满",
+          "text": "狗屁厕所清新剂，老娘这是女人味。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】许艳梅打开塑料袋看到里面的东西，愣了两秒。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "惊讶",
+          "text": "我就随口一说你还真给我整了个大喇叭——怎么弄这个，这是开关？"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞太阳穴'突'地一跳。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "紧张",
+          "text": "——别摁它，太吵。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】话说得太晚，许艳梅已经将那个红色按钮按了下去，像个刚得到新玩具的小孩儿。"
+        },
+        {
+          "type": "sound",
+          "text": "BGM：'该死的温柔'震耳欲聋地响起"
+        },
+        {
+          "type": "action",
+          "text": "【特写】许艳梅有点蒙，谢俞被吓得耳朵疼。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "惊讶",
+          "text": "我操，这么猛？"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "无奈",
+          "text": "赶紧关了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "无奈",
+          "text": "还有你这嗓子，自己心里没点数是不是，抽烟，你就抽吧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "强撑",
+          "text": "没那么夸张……依照我这强健的体格，少说还能再战个三百年。"
+        },
+        {
+          "type": "action",
+          "text": "【中景】谢俞默不作声打量她，一眼就注意到她右手一直有意无意地扶着腰侧。"
+        },
+        {
+          "type": "dialogue",
+          "character": "谢俞",
+          "emotion": "冷淡",
+          "text": "强健，你可真敢说。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】许艳梅察觉到谢俞的目光，立马把手放下来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "许艳梅",
+          "emotion": "心虚",
+          "text": "我腰没事，那个，上次你叫我去医院看看，我去了，挺好的，医生说没太大问题。"
+        },
+        {
+          "type": "action",
+          "text": "【特写】谢俞的眼神深邃，盯着许艳梅扶腰的位置。"
+        },
+        {
+          "type": "inner_voice",
+          "character": "谢俞",
+          "emotion": "担忧",
+          "text": "又在骗我……"
+        },
+        {
+          "type": "action",
+          "text": "【字幕】下集预告：不说出口的关心"
+        }
+      ]
+    }
+  ]
+}

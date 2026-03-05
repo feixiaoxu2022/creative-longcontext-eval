@@ -1,0 +1,128 @@
+{
+  "episode_number": 63,
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "组织总部",
+        "time": "下午",
+        "atmosphere": "背叛阴谋"
+      },
+      "characters": ["陈墨", "父亲", "手下"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "秘密联系父亲的对手"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "林深有抗体，我们需要改变计划"
+        },
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "启动备用方案"
+        },
+        {
+          "type": "action",
+          "character": "系统",
+          "text": "诊所内部安保系统重新配置"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "现在，该清理门户了"
+        },
+        {
+          "type": "emotion",
+          "text": "陈墨露出阴险的笑容"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "组织总部",
+        "time": "下午",
+        "atmosphere": "混乱火拼"
+      },
+      "characters": ["陈墨手下", "父亲手下"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陈墨的手下",
+          "text": "突然袭击父亲的亲卫队"
+        },
+        {
+          "type": "action",
+          "character": "双方",
+          "text": "在走廊和实验室展开枪战"
+        },
+        {
+          "type": "action",
+          "character": "父亲手下",
+          "text": "被打了个措手不及"
+        },
+        {
+          "type": "action",
+          "character": "陈墨",
+          "text": "通过监控看着混乱场面"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈墨",
+          "text": "这就是权力的游戏"
+        },
+        {
+          "type": "emotion",
+          "text": "诊所陷入内斗的混乱"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "组织总部牢房",
+        "time": "下午",
+        "atmosphere": "趁乱行动"
+      },
+      "characters": ["林深", "克隆体妹妹", "赵凯"],
+      "content": [
+        {
+          "type": "action",
+          "character": "赵凯",
+          "text": "趁乱潜入牢房"
+        },
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "打开克隆体的牢房"
+        },
+        {
+          "type": "action",
+          "character": "克隆体",
+          "text": "虚弱但惊喜"
+        },
+        {
+          "type": "dialogue",
+          "character": "克隆体",
+          "text": "哥哥...？"
+        },
+        {
+          "type": "action",
+          "character": "林深",
+          "text": "抱起克隆体"
+        },
+        {
+          "type": "dialogue",
+          "character": "林深",
+          "text": "别怕，我带你离开"
+        },
+        {
+          "type": "emotion",
+          "text": "兄妹重逢的复杂情感"
+        }
+      ]
+    }
+  ]
+}

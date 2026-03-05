@@ -1,0 +1,87 @@
+{
+  "episode_number": 57,
+  "title": "真相再揭",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "商场办公室",
+      "time": "白天",
+      "characters": ["陆远征", "苏婉清"],
+      "dialogue": [
+        {
+          "character": "苏婉清",
+          "text": "陆远征，你刚才的表现让我更加确信，你就是我要找的人。"
+        },
+        {
+          "character": "陆远征",
+          "text": "你到底知道多少？"
+        },
+        {
+          "character": "苏婉清",
+          "text": "我知道你曾是国家的最高军事力量，指挥过十万铁骑。我知道你为了保护家人而隐姓埋名。"
+        },
+        {
+          "character": "陆远征",
+          "text": "那你为什么还要找我？"
+        },
+        {
+          "character": "苏婉清",
+          "text": "因为我的生意和敌人远远超出了一个县城的范围。我需要一个真正能保护我的人。"
+        }
+      ],
+      "action": "苏婉清走到陆远征面前，两人对视。"
+    },
+    {
+      "scene_number": 2,
+      "location": "陆远征家",
+      "time": "夜晚",
+      "characters": ["陆远征", "陆远征的妻子"],
+      "dialogue": [
+        {
+          "character": "陆远征",
+          "text": "老婆，对不起，这些年让你受委屈了。"
+        },
+        {
+          "character": "陆远征的妻子",
+          "text": "远征，我不在乎你过去是谁，我只在乎你现在是谁。"
+        },
+        {
+          "character": "陆远征",
+          "text": "谢谢你，老婆。"
+        },
+        {
+          "character": "陆远征的妻子",
+          "text": "远征，不管发生什么，我们一家人都要在一起。"
+        }
+      ],
+      "action": "陆远征拥抱妻子，两人相视而笑。"
+    },
+    {
+      "scene_number": 3,
+      "location": "废弃工厂",
+      "time": "夜晚",
+      "characters": ["陆远征", "神秘人"],
+      "dialogue": [
+        {
+          "character": "神秘人",
+          "text": "陆远征，你以为你赢了？"
+        },
+        {
+          "character": "陆远征",
+          "text": "你到底想怎样？"
+        },
+        {
+          "character": "神秘人",
+          "text": "我要你付出代价。"
+        },
+        {
+          "character": "陆远征",
+          "text": "我说过，碰她一下试试。"
+        }
+      ],
+      "action": "陆远征与神秘人对峙，气氛紧张。"
+    }
+  ],
+  "total_scenes": 3,
+  "characters_involved": ["陆远征", "苏婉清", "陆远征的妻子", "神秘人"]
+}

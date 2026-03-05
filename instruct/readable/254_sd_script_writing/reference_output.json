@@ -1,0 +1,78 @@
+{
+  "episode_number": 60,
+  "title": "圆满结局",
+  "total_scenes": 1,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "马尔代夫私人沙滩",
+        "time": "傍晚日落时分",
+        "atmosphere": "浪漫温馨"
+      },
+      "characters": ["萧策", "苏晚晴", "萧念安", "萧念晴"],
+      "content": [
+        {
+          "type": "action",
+          "character": "萧念安萧念晴",
+          "description": "两个孩子光着脚在沙滩上跑，笑着追着海浪，银铃般的笑声传得很远。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "description": "苏晚晴靠在萧策怀里，看着远处的夕阳，金色的阳光洒在海面上，波光粼粼。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "萧策，你后悔吗？放弃了北境统帅的位置，陪我过这种平凡的日子，要是你继续当统帅，肯定会有更大的成就。"
+        },
+        {
+          "type": "action",
+          "character": "萧策",
+          "description": "萧策笑了笑，拿出钱包里一张泛黄的老照片，照片上是十几岁的苏晚晴，蹲在地上给一个受伤的小战士包扎伤口，那个小战士就是当年的萧策。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧策",
+          "line": "傻丫头，我当统帅的时候，守护的是全国的百姓，是万家灯火，可是我最大的愿望，就是守护你这个当年救了我的小丫头啊。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧策",
+          "line": "现在我有你，有两个孩子，有一个温暖的家，这比当什么统帅都幸福。以前我守的是国，现在我守的是家，是我这辈子最爱的人。"
+        },
+        {
+          "type": "action",
+          "character": "苏晚晴",
+          "description": "苏晚晴的眼泪掉了下来，靠在萧策怀里，紧紧抱着他的腰。"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏晚晴",
+          "line": "我这辈子最幸运的事，就是当年救了你，嫁给了你。"
+        },
+        {
+          "type": "action",
+          "character": "萧策",
+          "description": "萧策低头吻了吻苏晚晴的额头，搂着她，看着在沙滩上玩耍的两个孩子，眼神温柔得能滴出水来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "萧策",
+          "line": "我萧策对天发誓，这辈子都会守护你和孩子，不让你们受一点委屈，我们会一辈子幸福地在一起。"
+        },
+        {
+          "type": "action",
+          "character": "两个孩子",
+          "description": "两个孩子跑了过来，扑到萧策和苏晚晴怀里，一家四口紧紧抱在一起，夕阳把他们的影子拉得很长很长，画面温馨又圆满。"
+        },
+        {
+          "type": "action",
+          "character": "画外音",
+          "description": "屏幕上打出一行字：“所爱隔山海，山海皆可平，愿每个人都能找到属于自己的幸福。” 全剧终。"
+        }
+      ]
+    }
+  ]
+}

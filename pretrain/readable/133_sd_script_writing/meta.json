@@ -1,0 +1,17 @@
+{
+  "id": "sd_dsv3_doubao-seed-2-0-pro-260215_SD_E_revenge_drama_80_episode_14_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "doubao-seed-2-0-pro-260215",
+  "source_sample_id": "SD_E_revenge_drama_80",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_14_script.json",
+  "output_type": "原创剧本",
+  "genre": "revenge_drama",
+  "sequence_num": 14,
+  "input_tokens_est": 2031,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 10
+}

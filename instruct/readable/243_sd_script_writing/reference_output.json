@@ -1,0 +1,187 @@
+{
+  "episode_number": 38,
+  "total_scenes": 3,
+  "title": "证据链曝光",
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "沈清辞办公室",
+        "time": "下午",
+        "atmosphere": "紧张对峙"
+      },
+      "characters": ["沈清辞", "陆景琛"],
+      "content": [
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞坐在办公桌前，面前摆着一堆证据文件。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "陆景琛，你知道我手里还有什么吗？"
+        },
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛站在门口，脸色苍白，不敢靠近。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "清辞...我...我不知道..."
+        },
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞拿起一份证据文件，冷冷地看着陆景琛。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "这是你和林诗雨的证据链。"
+        },
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛看到证据，身体颤抖得更厉害了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "不...这不是真的..."
+        },
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞冷笑一声，又拿起另一份证据。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "还有这个，你们转移资产的所有证据。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "沈清辞办公室",
+        "time": "下午",
+        "atmosphere": "崩溃绝望"
+      },
+      "characters": ["陆景琛", "沈清辞"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛看到越来越多的证据，脸色变得更加苍白。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "清辞...求你...把这些都销毁..."
+        },
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞不为所动，继续展示证据。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "销毁？你以为我会这么轻易放过你吗？"
+        },
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛绝望地看着沈清辞，不知道该怎么办。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "那...那你要我怎么做？"
+        },
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞冷笑一声，眼中满是嘲讽。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "我要你跪在我面前，承认你的罪行。"
+        },
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛犹豫了一下，但最终还是跪了下来。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "我...我承认...我错了..."
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "沈清辞办公室",
+        "time": "下午",
+        "atmosphere": "彻底崩溃"
+      },
+      "characters": ["沈清辞", "陆景琛"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛看到证据链，彻底崩溃了，痛哭流涕。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "清辞...我真的知道错了...求你放过我..."
+        },
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞不为所动，冷冷地看着陆景琛。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "放过你？你当初怎么不放过我？"
+        },
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛绝望地看着沈清辞，不知道该怎么办。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "我...我真的知道错了..."
+        },
+        {
+          "type": "action",
+          "character": "沈清辞",
+          "text": "沈清辞转身离开，留下陆景琛一个人跪在地上。"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈清辞",
+          "text": "这只是开始，陆景琛。"
+        },
+        {
+          "type": "action",
+          "character": "陆景琛",
+          "text": "陆景琛瘫倒在地上，彻底崩溃了。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陆景琛",
+          "text": "不...不要..."
+        }
+      ]
+    }
+  ]
+}

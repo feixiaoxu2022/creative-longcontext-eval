@@ -1,0 +1,18 @@
+{
+  "id": "sd_dsv3_ernie-5.0-thinking-preview_SD_C_mystery_thriller_70_theme_h2629_episode_41_script",
+  "scenario": "sd",
+  "design_version": "dsv3",
+  "source_model": "ernie-5.0-thinking-preview",
+  "source_sample_id": "SD_C_mystery_thriller_70_theme_h2629",
+  "stage": "script_writing",
+  "output_file": "scripts/episode_41_script.json",
+  "output_type": "原创剧本",
+  "genre": "mystery_thriller",
+  "sequence_num": 41,
+  "input_tokens_est": 35990,
+  "reference_output_tokens_est": 712,
+  "length_bin": "20K-40K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 3
+}

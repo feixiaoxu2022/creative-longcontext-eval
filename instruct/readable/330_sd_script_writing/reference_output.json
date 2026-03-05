@@ -1,0 +1,129 @@
+{
+  "episode_number": 67,
+  "title": "身体危机",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "林家客厅-发现异常",
+      "description": "林雨晴发现萧然脸色苍白，坚持要他去医院检查。",
+      "dialogues": [
+        {
+          "character": "林雨晴",
+          "line": "（担忧）萧然，你脸色怎么这么差？",
+          "emotion": "担忧",
+          "action": "林雨晴看着萧然苍白的脸色，眼中满是担心。"
+        },
+        {
+          "character": "萧然",
+          "line": "（强撑）我没事，可能是昨晚没睡好。",
+          "emotion": "强撑",
+          "action": "萧然试图掩饰自己的不适，但身体微微颤抖。"
+        },
+        {
+          "character": "林雨晴",
+          "line": "（坚持）不行，你必须去医院检查。",
+          "emotion": "坚定",
+          "action": "林雨晴扶着萧然，眼中闪过一丝泪光。"
+        },
+        {
+          "character": "王秀芬",
+          "line": "（关心）萧然，雨晴说得对，身体要紧。",
+          "emotion": "关心",
+          "action": "王秀芬也走过来，语气中带着关切。"
+        },
+        {
+          "character": "林国强",
+          "line": "（严肃）萧然，听雨晴的，去医院检查一下。",
+          "emotion": "严肃",
+          "action": "林国强看着萧然，眼中满是担忧。"
+        }
+      ],
+      "emotional_tone": "紧张",
+      "key_moments": ["林雨晴发现异常", "全家关心萧然"]
+    },
+    {
+      "scene_number": 2,
+      "location": "医院-检查结果",
+      "description": "医生检查后告诉林雨晴，萧然过度劳累，需要休息。",
+      "dialogues": [
+        {
+          "character": "医生",
+          "line": "（专业）萧先生是过度劳累，需要好好休息。",
+          "emotion": "专业",
+          "action": "医生看着检查报告，语气严肃。"
+        },
+        {
+          "character": "林雨晴",
+          "line": "（心疼）医生，他需要休息多久？",
+          "emotion": "心疼",
+          "action": "林雨晴眼中含泪，紧紧握着萧然的手。"
+        },
+        {
+          "character": "医生",
+          "line": "（建议）至少一个月，不能再过度操劳。",
+          "emotion": "建议",
+          "action": "医生在病历上写下医嘱。"
+        },
+        {
+          "character": "萧然",
+          "line": "（愧疚）雨晴，对不起，让你担心了。",
+          "emotion": "愧疚",
+          "action": "萧然看着林雨晴，眼中满是歉意。"
+        },
+        {
+          "character": "林雨晴",
+          "line": "（温柔）傻瓜，说什么对不起。",
+          "emotion": "温柔",
+          "action": "林雨晴轻轻抚摸萧然的脸颊。"
+        }
+      ],
+      "emotional_tone": "温馨",
+      "key_moments": ["检查结果", "夫妻对话"]
+    },
+    {
+      "scene_number": 3,
+      "location": "林雨晴房间-夫妻对话",
+      "description": "林雨晴决定让萧然好好休息，萧然感动于妻子的关心。",
+      "dialogues": [
+        {
+          "character": "林雨晴",
+          "line": "（坚定）萧然，你必须好好休息，这是命令。",
+          "emotion": "坚定",
+          "action": "林雨晴看着萧然，语气不容置疑。"
+        },
+        {
+          "character": "萧然",
+          "line": "（感动）雨晴，谢谢你。",
+          "emotion": "感动",
+          "action": "萧然握住林雨晴的手，眼中闪过泪光。"
+        },
+        {
+          "character": "林雨晴",
+          "line": "（心疼）你为我们这个家付出了太多，该好好休息了。",
+          "emotion": "心疼",
+          "action": "林雨晴靠在萧然肩上，眼中满是心疼。"
+        },
+        {
+          "character": "萧然",
+          "line": "（承诺）我会好好休息的，为了你，为了这个家。",
+          "emotion": "承诺",
+          "action": "萧然轻轻拥抱林雨晴。"
+        },
+        {
+          "character": "林雨晴",
+          "line": "（幸福）只要有你在，哪里都是家。",
+          "emotion": "幸福",
+          "action": "林雨晴紧紧抱着萧然，眼中满是幸福。"
+        }
+      ],
+      "emotional_tone": "温馨",
+      "key_moments": ["夫妻情深", "决定休息"]
+    }
+  ],
+  "total_scenes": 3,
+  "characters_involved": ["萧然", "林雨晴", "王秀芬", "林国强"],
+  "hook": "林雨晴发现萧然身体不适，坚持要他去医院检查。萧然说：我没事，只是太累了",
+  "conflict": "萧然身体出现问题，但不想让家人担心",
+  "twist": "检查结果显示萧然过度劳累，需要休息",
+  "emotional_peak": "林雨晴心疼萧然，决定让他好好休息"
+}

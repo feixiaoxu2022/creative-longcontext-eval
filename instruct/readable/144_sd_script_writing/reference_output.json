@@ -1,0 +1,48 @@
+{
+ "episode_number":24,
+ "total_scenes":3,
+ "scenes_detail": [
+ {
+ "scene_header": {
+ "location": "战场",
+ "atmosphere": "决战"
+ },
+ "characters": ["所有主要角色"],
+ "content": [
+ {
+ "type": "dialogue",
+ "character": "李振东",
+ "text": "杀光他们"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "小镇",
+ "atmosphere": "混乱"
+ },
+ "characters": ["林战天", "团队"],
+ "content": [
+ {
+ "type": "action",
+ "character": "林战天",
+ "text": "团队开始对抗"
+ }
+ ]
+ },
+ {
+ "scene_header": {
+ "location": "李振东公司",
+ "atmosphere": "被围"
+ },
+ "characters": ["李振东"],
+ "content": [
+ {
+ "type": "dialogue",
+ "character": "李振东",
+ "text": "怎么会这样"
+ }
+ ]
+ }
+ ]
+}

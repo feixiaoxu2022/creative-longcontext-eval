@@ -1,0 +1,278 @@
+{
+  "episode_info": {
+    "episode_number": 3,
+    "title": "真相与抉择"
+  },
+  "scenes": [
+    {
+      "scene_header": {
+        "scene_number": 1,
+        "location": "警局现场",
+        "time": "夜",
+        "atmosphere": "紧张、对峙",
+        "initial_shot": "【特写】江停凝视严峫，眼神深邃"
+      },
+      "characters_appearing": ["江停", "严峫", "杨媚", "万振国"],
+      "content_sequence": [
+        {
+          "type": "action",
+          "content": "【特写】江停凝视严峫，眼神深邃。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】严峫走向江停，两人目光相遇。"
+        },
+        {
+          "type": "dialogue",
+          "character": "严峫",
+          "emotion": "审视",
+          "content": "'你是谁？'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停面无表情，眼神冷漠。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "平静",
+          "content": "'一个普通人。'"
+        },
+        {
+          "type": "action",
+          "content": "【中景】严峫上下打量江停，目光锐利。"
+        },
+        {
+          "type": "dialogue",
+          "character": "严峫",
+          "emotion": "质疑",
+          "content": "'普通人？一个普通人能一眼看出死者不是小偷？'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停微微一笑，眼神中闪过一丝复杂。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "平静",
+          "content": "'我只是看过一些刑侦书籍。'"
+        },
+        {
+          "type": "action",
+          "content": "【中景】严峫显然不信，但也没有继续追问。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】万振国走过来，拍了拍严峫的肩膀。"
+        },
+        {
+          "type": "dialogue",
+          "character": "万振国",
+          "emotion": "低声",
+          "content": "'严副，这案子有点蹊跷，死者身份还在查。'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停听到'蹊跷'二字，眼神微微一变。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】严峫点了点头，转身离开。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停凝视严峫的背影，眼神深邃。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】画面闪回：爆炸现场，火海，神秘身影。"
+        },
+        {
+          "type": "sound",
+          "content": "音效：爆炸声，火焰燃烧声，心跳声"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停猛然闭眼，额头渗出冷汗。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停睁开眼，眼神中充满痛苦和决心。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "scene_number": 2,
+        "location": "KTV后厨",
+        "time": "夜",
+        "atmosphere": "压抑、回忆",
+        "initial_shot": "【全景】KTV后厨，立地大冰柜，灯光昏暗"
+      },
+      "characters_appearing": ["江停", "杨媚"],
+      "content_sequence": [
+        {
+          "type": "action",
+          "content": "【中景】江停独自站在KTV后厨，凝视着那个发现尸体的冰柜。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停的手轻轻抚过冰柜边缘。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】画面闪回：三年前，江停站在一个类似的冰柜前，眼神坚定。"
+        },
+        {
+          "type": "sound",
+          "content": "音效：回忆音效，低沉的音乐"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停的回忆：他站在一个工厂前，眼神锐利。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停的回忆：他冲进火海，向神秘身影开枪。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停的回忆：神秘身影微笑着说：'下地狱吧，和我一起。'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停猛然睁开眼，眼神中充满痛苦。"
+        },
+        {
+          "type": "action",
+          "content": "【中景】杨媚走进后厨，看到江停的样子，吓了一跳。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨媚",
+          "emotion": "担忧",
+          "content": "'江哥，你怎么了？'"
+        },
+        {
+          "type": "action",
+          "content": "【中景】江停深吸一口气，转身面对杨媚。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "平静",
+          "content": "'我没事。'"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨媚",
+          "emotion": "担忧",
+          "content": "'你脸色很差，是不是又做噩梦了？'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停点了点头。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "低语",
+          "content": "'那个梦...又出现了。'"
+        },
+        {
+          "type": "action",
+          "content": "【中景】杨媚走到江停身边，轻轻拍了拍他的肩膀。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨媚",
+          "emotion": "安慰",
+          "content": "'江哥，你才刚醒，别想太多。'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停凝视远方，眼神坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "坚定",
+          "content": "'我必须回去。'"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨媚",
+          "emotion": "震惊",
+          "content": "'回去？回哪里？'"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "坚定",
+          "content": "'恭州。'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】杨媚震惊地看着江停。"
+        },
+        {
+          "type": "dialogue",
+          "character": "杨媚",
+          "emotion": "惊恐",
+          "content": "'不！江哥，那帮人做事斩草除根，如果他们发现你没死，肯定会来要你的命！'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停的眼神更加坚定。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "坚定",
+          "content": "'我知道。但塑料厂爆炸时，我队里的人在里面，引线一响填进了十多条命。我得对他们有个交代。'"
+        },
+        {
+          "type": "action",
+          "content": "【中景】杨媚哽住，说不出话来。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停冲杨媚一摆手。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "平静",
+          "content": "'给我准备一套身份证件，手机和电脑，非实名手机卡多买几张。'"
+        },
+        {
+          "type": "action",
+          "content": "【中景】杨媚嗫嚅片刻，长长叹了口气，转身出去了。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停凝视镜中自己的脸，眼神深邃。"
+        },
+        {
+          "type": "action",
+          "content": "【特写】江停低语。"
+        },
+        {
+          "type": "dialogue",
+          "character": "江停",
+          "emotion": "低语",
+          "content": "'我回来了。'"
+        },
+        {
+          "type": "action",
+          "content": "【特写】画面黑屏，出现字幕：'恭州，我来了。'"
+        },
+        {
+          "type": "sound",
+          "content": "BGM：悬疑氛围音乐渐入，带有紧张感"
+        }
+      ]
+    }
+  ]
+}

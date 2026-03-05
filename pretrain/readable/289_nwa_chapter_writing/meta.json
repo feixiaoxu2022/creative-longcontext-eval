@@ -1,0 +1,17 @@
+{
+  "id": "nwa_dsv2_claude-opus-4-6_NW_CLEAR_MEDIUM_ADVENTURE_001_chapter_28",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "claude-opus-4-6",
+  "source_sample_id": "NW_CLEAR_MEDIUM_ADVENTURE_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_28.md",
+  "output_type": "小说章节",
+  "genre": "adventure",
+  "sequence_num": 28,
+  "input_tokens_est": 39359,
+  "length_bin": "20K-40K",
+  "source_quality": "high",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

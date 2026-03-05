@@ -1,0 +1,64 @@
+{
+  "episode_number": 55,
+  "title": "苏晚的抉择",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "电话",
+        "time": "白天",
+        "atmosphere": "紧张"
+      },
+      "characters": ["苏晚", "陈默"],
+      "content": [
+        {"type": "emotion", "description": "苏晚的手机响起，屏幕上显示'陈默'。她深吸一口气，接通。"},
+        {"type": "dialogue", "character": "陈默", "text": "（电话音）小晚，你还好吗？"},
+        {"type": "action", "character": "苏晚", "description": "握紧手机，声音平静"},
+        {"type": "dialogue", "character": "苏晚", "text": "你想说什么？"},
+        {"type": "dialogue", "character": "陈默", "text": "我知道你发现了真相。但我想告诉你，我可以恢复你的真实记忆。"},
+        {"type": "action", "character": "苏晚", "description": "沉默"},
+        {"type": "dialogue", "character": "陈默", "text": "林小雨的人生，苏晚的人生，你可以选择。回来吧。"},
+        {"type": "emotion", "description": "苏晚闭上眼睛，脑海中闪过两个模糊的身影。"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "藏身处",
+        "time": "白天",
+        "atmosphere": "挣扎"
+      },
+      "characters": ["苏晚", "林深"],
+      "content": [
+        {"type": "action", "character": "苏晚", "description": "挂断电话，坐在角落里"},
+        {"type": "action", "character": "林深", "description": "走过来，坐在她身边"},
+        {"type": "dialogue", "character": "林深", "text": "他说了什么？"},
+        {"type": "dialogue", "character": "苏晚", "text": "他说可以恢复我的真实记忆。"},
+        {"type": "action", "character": "林深", "description": "看着她"},
+        {"type": "dialogue", "character": "林深", "text": "你想恢复吗？"},
+        {"type": "action", "character": "苏晚", "description": "摇头，又点头，最后苦笑"},
+        {"type": "dialogue", "character": "苏晚", "text": "我不知道。林小雨已经死了。苏晚...也是假的。那我到底是谁？"},
+        {"type": "emotion", "description": "林深握住她的手。"}
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "天台",
+        "time": "黄昏",
+        "atmosphere": "坚定"
+      },
+      "characters": ["苏晚", "林深"],
+      "content": [
+        {"type": "emotion", "description": "夕阳下，城市的天际线染成金色。"},
+        {"type": "action", "character": "苏晚", "description": "站在天台边缘，风吹乱她的头发"},
+        {"type": "dialogue", "character": "苏晚", "text": "林深，你说记忆不定义一个人。那什么定义？"},
+        {"type": "action", "character": "林深", "description": "走到她身边"},
+        {"type": "dialogue", "character": "林深", "text": "选择。你选择成为谁，你就是谁。"},
+        {"type": "action", "character": "苏晚", "description": "转身，眼中有了光"},
+        {"type": "dialogue", "character": "苏晚", "text": "那我选择...做苏晚。不管记忆是真是假，这是我的人生。"},
+        {"type": "action", "character": "林深", "description": "露出微笑"},
+        {"type": "dialogue", "character": "林深", "text": "那就战斗吧。为你的未来。"},
+        {"type": "emotion", "description": "两人相视，夕阳将他们的影子拉得很长。"}
+      ]
+    }
+  ]
+}

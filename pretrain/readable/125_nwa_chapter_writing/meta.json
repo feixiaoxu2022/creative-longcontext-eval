@@ -1,0 +1,17 @@
+{
+  "id": "nwa_dsv2_qwen3-max-2026-01-23_NW_CLEAR_MEDIUM_SWEET_001_chapter_01",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "qwen3-max-2026-01-23",
+  "source_sample_id": "NW_CLEAR_MEDIUM_SWEET_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_01.md",
+  "output_type": "小说章节",
+  "genre": "sweet",
+  "sequence_num": 1,
+  "input_tokens_est": 7482,
+  "length_bin": "<10K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nwa_dsv2_MiniMax-M2.5_NW_IP_MEDIUM_NEUTRAL_001_chapter_06",
+  "scenario": "nwa",
+  "design_version": "dsv2",
+  "source_model": "MiniMax-M2.5",
+  "source_sample_id": "NW_IP_MEDIUM_NEUTRAL_001",
+  "stage": "chapter_writing",
+  "output_file": "chapters/chapter_06.md",
+  "output_type": "小说章节",
+  "genre": "neutral",
+  "sequence_num": 6,
+  "input_tokens_est": 17506,
+  "reference_output_tokens_est": 1737,
+  "length_bin": "10K-20K",
+  "source_quality": "mixed",
+  "has_judge_criteria": true,
+  "judge_criteria_count": 14
+}

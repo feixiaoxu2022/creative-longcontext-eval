@@ -1,0 +1,159 @@
+{
+  "episode_number": 22,
+  "title": "苏美兰的反击",
+  "total_scenes": 3,
+  "scenes_detail": [
+    {
+      "scene_number": 1,
+      "scene_header": {
+        "location": "记者会现场",
+        "time": "白天",
+        "atmosphere": "紧张"
+      },
+      "characters": ["苏美兰", "记者们"],
+      "content": [
+        {
+          "type": "action",
+          "character": "苏美兰",
+          "description": "站在台上，眼眶红红"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏美兰",
+          "line": "各位媒体朋友，我今天有话要说。"
+        },
+        {
+          "type": "action",
+          "character": "记者们",
+          "description": "纷纷举起相机"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏美兰",
+          "line": "作为一个单亲妈妈，我真的很不容易……"
+        },
+        {
+          "type": "action",
+          "character": "苏美兰",
+          "description": "挤出几滴眼泪"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏美兰",
+          "line": "我辛辛苦苦把女儿养大，她却这样对我……"
+        },
+        {
+          "type": "action",
+          "character": "记者们",
+          "description": "开始提问"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_header": {
+        "location": "记者会现场",
+        "time": "白天",
+        "atmosphere": "混乱"
+      },
+      "characters": ["苏美兰", "沈念", "记者们"],
+      "content": [
+        {
+          "type": "action",
+          "character": "沈念",
+          "description": "突然出现在记者会现场"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈念",
+          "line": "妈，您说够了吗？"
+        },
+        {
+          "type": "action",
+          "character": "苏美兰",
+          "description": "脸色大变"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏美兰",
+          "line": "沈念！你怎么来了？！"
+        },
+        {
+          "type": "action",
+          "character": "沈念",
+          "description": "走上台"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈念",
+          "line": "各位记者，这就是我母亲的'真面目'——"
+        },
+        {
+          "type": "action",
+          "character": "沈念",
+          "description": "拿出打印的聊天记录"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈念",
+          "line": "这是她骂我的记录——'你怎么这么笨''你简直是废物''我怎么会生了你'"
+        },
+        {
+          "type": "action",
+          "character": "记者们",
+          "description": "疯狂拍照"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_header": {
+        "location": "记者会现场",
+        "time": "白天",
+        "atmosphere": "崩塌"
+      },
+      "characters": ["苏美兰", "沈念", "记者们"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "沈念",
+          "line": "这就是你们眼中的'完美妈妈'！"
+        },
+        {
+          "type": "action",
+          "character": "苏美兰",
+          "description": "想要阻止沈念"
+        },
+        {
+          "type": "dialogue",
+          "character": "苏美兰",
+          "line": "沈念！你给我住嘴！"
+        },
+        {
+          "type": "dialogue",
+          "character": "沈念",
+          "line": "妈，您怕什么？让大家都看看您的真面目！"
+        },
+        {
+          "type": "action",
+          "character": "苏美兰",
+          "description": "腿一软跪在地上"
+        },
+        {
+          "type": "dialogue",
+          "character": "记者们",
+          "description": "纷纷拍摄苏美兰跪在地上的样子"
+        },
+        {
+          "type": "action",
+          "character": "沈念",
+          "description": "走下台，离开现场"
+        },
+        {
+          "type": "emotion",
+          "description": "记者会变成大型翻车现场"
+        }
+      ]
+    }
+  ]
+}

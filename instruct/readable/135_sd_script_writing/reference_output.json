@@ -1,0 +1,89 @@
+{
+  "episode_number": 24,
+  "total_scenes": 2,
+  "scenes_detail": [
+    {
+      "scene_header": {
+        "location": "公司",
+        "time": "白天",
+        "atmosphere": "紧张"
+      },
+      "characters": ["林晚", "顾言", "陈浩"],
+      "content": [
+        {
+          "type": "action",
+          "character": "陈浩",
+          "text": "陈浩设计陷害林晚，表情阴险。"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "林晚，你涉嫌商业机密泄露，请配合调查。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚震惊地看着陈浩。"
+        },
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "陈浩，你陷害我？"
+        },
+        {
+          "type": "dialogue",
+          "character": "陈浩",
+          "text": "林晚，这是你应得的。"
+        },
+        {
+          "type": "action",
+          "character": "顾言",
+          "text": "顾言站出来，挡在林晚面前。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言",
+          "text": "陈浩，你陷害林晚，我不会放过你。"
+        },
+        {
+          "type": "emotion",
+          "text": "顾言面临家族压力，但依然保护林晚。"
+        }
+      ]
+    },
+    {
+      "scene_header": {
+        "location": "顾言家",
+        "time": "夜晚",
+        "atmosphere": "温馨"
+      },
+      "characters": ["林晚", "顾言"],
+      "content": [
+        {
+          "type": "dialogue",
+          "character": "林晚",
+          "text": "顾言，你为了我，不惜与家族决裂？"
+        },
+        {
+          "type": "action",
+          "character": "顾言",
+          "text": "顾言紧紧握住林晚的手。"
+        },
+        {
+          "type": "dialogue",
+          "character": "顾言",
+          "text": "林晚，你是我最重要的人，我不会让你受委屈。"
+        },
+        {
+          "type": "action",
+          "character": "林晚",
+          "text": "林晚感动地看着顾言。"
+        },
+        {
+          "type": "emotion",
+          "text": "两人相拥，心中充满温暖。"
+        }
+      ]
+    }
+  ]
+}
