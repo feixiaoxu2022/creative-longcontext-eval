@@ -151,14 +151,74 @@ def run_inference(item, model_name, api_base, api_key):
 
 # ── Judge 打分 ──
 
-def judge_single_criteria(model_output, criteria, judge_model, judge_api_base, judge_api_key):
+def extract_judge_context(input_text: str, max_context_chars: int = 8000) -> str:
+    """
+    从 input 中提取 judge 需要的关键上下文，跳过大体积的纯文档部分。
+
+    提取策略（按三个场景通用结构）：
+    1. 系统设定 + 用户需求（任务定义和要求）
+    2. 已有创作成果（人物/大纲等结构化数据，跳过参考文档写作指南）
+       - 对此段设置字数上限，超出则截断
+    3. 当前任务（末尾的具体指令）
+
+    fallback：找不到结构标记时，取 input 末尾 max_context_chars 字符。
+    """
+    def find_pos(text, markers):
+        for m in markers:
+            idx = text.find(m)
+            if idx != -1:
+                return idx
+        return -1
+
+    pos_user_req   = find_pos(input_text, ["# 用户需求", "## 用户需求"])
+    pos_ref_doc    = find_pos(input_text, ["# 参考文档", "## 参考文档"])
+    pos_creation   = find_pos(input_text, ["# 已有创作成果", "## 已有创作成果", "# 已完成创作"])
+    pos_chapters   = find_pos(input_text, ["## 已完成章节", "# 已完成章节", "## 已完成剧本", "# 已完成集数"])
+    pos_cur_task   = find_pos(input_text, ["# 当前任务", "## 当前任务"])
+
+    parts = []
+
+    # 1. 系统设定 + 用户需求（从头到参考文档开始）
+    end_of_req = pos_ref_doc if pos_ref_doc != -1 else (pos_creation if pos_creation != -1 else len(input_text))
+    if end_of_req > 0:
+        parts.append(input_text[:end_of_req].strip())
+
+    # 2. 已有创作成果（跳过参考文档，取创作成果到已完成章节之间的结构化数据）
+    if pos_creation != -1:
+        end_of_creation = pos_chapters if pos_chapters != -1 else (pos_cur_task if pos_cur_task != -1 else len(input_text))
+        creation_text = input_text[pos_creation:end_of_creation].strip()
+        # 对创作成果段设置字数上限，避免超长 outline 撑爆 judge context
+        creation_budget = max_context_chars - sum(len(p) for p in parts) - 500  # 留 500 给当前任务
+        if len(creation_text) > creation_budget > 0:
+            creation_text = creation_text[:creation_budget] + "\n...[内容过长，已截断]"
+        parts.append(creation_text)
+
+    # 3. 当前任务
+    if pos_cur_task != -1:
+        parts.append(input_text[pos_cur_task:].strip())
+    elif pos_chapters != -1:
+        # fallback：取最后一段（可能是章节末尾的任务说明）
+        parts.append(input_text[-(min(500, len(input_text))):].strip())
+
+    if parts:
+        return "\n\n---\n\n".join(parts)
+
+    # 最终 fallback：取末尾
+    return input_text[-max_context_chars:].strip()
+
+
+def judge_single_criteria(input_text, model_output, criteria, judge_model, judge_api_base, judge_api_key):
     """用 LLM Judge 对一条 criteria 打分"""
-    prompt = f"""请评估以下内容是否符合业务标准。
+    context = extract_judge_context(input_text)
+    prompt = f"""请评估以下模型输出是否符合业务标准。
+
+**输入上下文（任务定义、创作设定、当前指令）：**
+{context}
 
 **业务标准：**
 {criteria['criteria_text']}
 
-**待评估内容：**
+**待评估的模型输出：**
 {model_output}
 
 ⚠️ 重要说明：
@@ -208,11 +268,12 @@ def run_judge(item, model_output, judge_model, judge_api_base, judge_api_key):
     if not criteria_list:
         return []
 
+    input_text = item.get("input", "")
     results = []
     for i, criteria in enumerate(criteria_list):
         safe_print(f"    Judge [{i+1}/{len(criteria_list)}] {criteria['name']}...", file=sys.stderr)
         result = judge_single_criteria(
-            model_output, criteria, judge_model, judge_api_base, judge_api_key
+            input_text, model_output, criteria, judge_model, judge_api_base, judge_api_key
         )
         results.append(result)
         # 降低 judge QPS
