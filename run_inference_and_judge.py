@@ -29,11 +29,7 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
-
-import litellm
-litellm.suppress_debug_info = True
-litellm.set_verbose = False
-from litellm import completion
+import requests
 
 # 线程安全的打印锁
 print_lock = threading.Lock()
@@ -62,6 +58,34 @@ MODEL_CONFIGS = {
         "api_base": "https://open.bigmodel.cn/api/paas/v4",
         "api_key": "fc0dc81d18124abea8da832af681401b.QsiurjETpUArzi4C",
     },
+    # ── 本次评测 6 个目标模型 ──
+    "cw_glm45air_midt2601_decay_step2762": {
+        "api_base": "http://10.95.232.21:8000/v1",
+        "api_key": "dummy",
+    },
+    "cw_glm45air_midt2602_decay_step2000": {
+        "api_base": "http://10.95.235.233:8000/v1",
+        "api_key": "dummy",
+    },
+    "/root/paddlejob/workspace/env_run/RLHF/GLM_decay_0124/": {
+        "api_base": "http://10.52.97.139:8902/v1",
+        "api_key": "dummy",
+    },
+    "eb5-full-midtrain": {
+        "api_base": "http://localhost:9001/v1",
+        "api_key": "dummy",
+        "model": "/root/paddlejob/workspace/env_run/output/onekey-eb5/onekey_eb5_a67b/safetensor_ckpt_step20520_ema",
+    },
+    "eb5-flagship-midtrain": {
+        "api_base": "http://localhost:9002/v1",
+        "api_key": "dummy",
+        "model": "/root/paddlejob/workspace/eb5_A35B_ckpt_step0",
+    },
+    "eb5-lite-midtrain": {
+        "api_base": "http://localhost:9003/v1",
+        "api_key": "dummy",
+        "model": "/root/paddlejob/tmpspace/eb5_A35B_ckpt",
+    },
 }
 
 # Judge 用的模型
@@ -79,39 +103,46 @@ def safe_print(*args, **kwargs):
 
 
 def call_llm(messages, model_name, api_base, api_key, response_format=None, max_retries=5):
-    """调用 LLM，带重试"""
+    """调用 LLM，带重试（使用 requests 直接调用 OpenAI 兼容接口）"""
+    url = api_base.rstrip("/") + "/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": model_name,
+        "messages": messages,
+    }
+    if response_format:
+        payload["response_format"] = response_format
+
     last_error = None
     for attempt in range(max_retries):
         try:
-            kwargs = {
-                "model": model_name,
-                "messages": messages,
-                "api_base": api_base,
-                "api_key": api_key,
-                "custom_llm_provider": "openai",
-            }
-            if response_format:
-                kwargs["response_format"] = response_format
+            resp = requests.post(url, headers=headers, json=payload, timeout=600)
+            resp.raise_for_status()
+            data = resp.json()
 
-            response = completion(**kwargs)
-            choice = response.choices[0]
-            content = choice.message.content
-            usage = response.usage
+            choice = data["choices"][0]
+            content = choice["message"].get("content", "") or ""
+            usage = data.get("usage", {})
 
-            # 提取详细信息用于判断截断
             result = {
                 "success": True,
                 "content": content,
-                "input_tokens": usage.prompt_tokens if usage else 0,
-                "output_tokens": usage.completion_tokens if usage else 0,
-                "finish_reason": choice.finish_reason if hasattr(choice, 'finish_reason') else None,
+                "input_tokens": usage.get("prompt_tokens", 0),
+                "output_tokens": usage.get("completion_tokens", 0),
+                "finish_reason": choice.get("finish_reason"),
                 "error": None,
             }
 
             # Ernie thinking 模型的 reasoning_content
-            if hasattr(choice.message, 'reasoning_content'):
-                result["reasoning_content"] = choice.message.reasoning_content
-                result["reasoning_tokens"] = usage.completion_tokens_details.reasoning_tokens if hasattr(usage, 'completion_tokens_details') else 0
+            rc = choice["message"].get("reasoning_content")
+            if isinstance(rc, str) and rc:
+                result["reasoning_content"] = rc
+                result["reasoning_tokens"] = (
+                    usage.get("completion_tokens_details", {}) or {}
+                ).get("reasoning_tokens", 0)
 
             return result
         except Exception as e:
@@ -310,7 +341,8 @@ def process_single_sample(item, model_name, config, model_dir, args):
         output_tokens = existing.get("output_tokens", 0)
         inference_error = existing.get("error")
     else:
-        inf_result = run_inference(item, model_name, config["api_base"], config["api_key"])
+        actual_model = config.get("model", model_name)
+        inf_result = run_inference(item, actual_model, config["api_base"], config["api_key"])
         model_output = inf_result["content"]
         inference_success = inf_result["success"]
         output_tokens = inf_result["output_tokens"]
